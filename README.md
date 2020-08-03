@@ -8,8 +8,9 @@
 
 I'm working for [Swoole, Inc](https://github.com/swoole-inc). You can contact me on [WeiBo](https://weibo.com/i3l4521) or [Twitter](https://twitter.com/lufeidot).
 
-<a href="https://github.com/sy-records?tab=followers"><img src="https://img.shields.io/github/followers/sy-records"></a>
 <a href="https://github.com/sy-records"><img src="https://komarev.com/ghpvc/?username=sy-records" alt="sy-records" /></a>
+<a href="https://qq52o.me"><img src="https://img.shields.io/badge/Blog-qq52o.me-blue" alt="Blog" /></a>
+<a href="https://github.com/sy-records?tab=followers"><img src="https://img.shields.io/github/followers/sy-records"></a>
 <a href="https://paypal.me/lufeidot"><img src="https://img.shields.io/badge/paypal-donate-ff69b4.svg"></a>
 
 <!--
