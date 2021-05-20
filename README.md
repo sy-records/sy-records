@@ -4,9 +4,11 @@
 
 🎉 Welcome to my GitHub profile, it's great to meet you here!
 
-👨🏻‍💻 I'm Luffy - a PHP developer, WordPress plugin developer and Open source contributor.
+👨🏻‍💻 I'm Luffy - a PHP developer, [WordPress plugin developer](https://profiles.wordpress.org/shenyanzhi/#content-plugins) and Open source contributor.
 
-💬 You can contact me on [WeiBo](https://weibo.com/i3l4521) or [Twitter](https://twitter.com/lufeidot).
+📚 Swoole [Chinese Documentation](https://wiki.swoole.com/) Maintainer.
+
+💬 You can contact me on [Twitter](https://twitter.com/lufeidot) or [WeiBo](https://weibo.com/i3l4521).
 
 <a href="https://github.com/sy-records"><img src="https://komarev.com/ghpvc/?username=sy-records" alt="sy-records" /></a>
 <a href="https://qq52o.me"><img src="https://img.shields.io/badge/Blog-qq52o.me-blue" alt="Blog" /></a>
