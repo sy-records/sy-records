@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile/images/202007/huaji.gif" align="right" height="150">
+<a href="https://github.com/sy-records"><img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile/images/202007/huaji.gif" align="right" height="150"></a>
 
 🎉 Welcome to my GitHub profile, it's great to meet you here!
 
@@ -16,7 +16,7 @@
 <a href="https://github.com/sy-records?tab=followers"><img src="https://img.shields.io/github/followers/sy-records"></a>
 <a href="https://twitter.com/intent/follow?screen_name=lufeidot"><img src="https://img.shields.io/twitter/follow/lufeidot.svg?style=social&label=Follow%20@lufeidot" alt="Follow on Twitter"></a>
 
-![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/sy-records/sy-records@output/github-contribution-grid-snake.svg)
+[![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/sy-records/sy-records@output/github-contribution-grid-snake.svg)](https://github.com/sy-records)
 
 <!--
 ( ๑ˊ•̥▵•)੭₎₎ Welcome to follow me and give me a star :)
