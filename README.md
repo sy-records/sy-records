@@ -16,6 +16,8 @@
 <a href="https://github.com/sy-records?tab=followers"><img src="https://img.shields.io/github/followers/sy-records"></a>
 <a href="https://twitter.com/intent/follow?screen_name=lufeidot"><img src="https://img.shields.io/twitter/follow/lufeidot.svg?style=social&label=Follow%20@lufeidot" alt="Follow on Twitter"></a>
 
+![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/sy-records/sy-records@output/github-contribution-grid-snake.svg)
+
 <!--
 ( ๑ˊ•̥▵•)੭₎₎ Welcome to follow me and give me a star :)
 -->
