@@ -25,5 +25,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          author: sy-records <52o@qq52o.cn>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
