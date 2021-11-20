@@ -27,6 +27,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#4265](https://github.com/hyperf/hyperf/issues/4265) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+2. 🎉 Merged PR [#140](https://github.com/swoole/library/pull/140) in [swoole/library](https://github.com/swoole/library)
+3. 🎉 Merged PR [#114](https://github.com/php/doc-zh/pull/114) in [php/doc-zh](https://github.com/php/doc-zh)
+4. 💪 Opened PR [#114](https://github.com/php/doc-zh/pull/114) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 🗣 Commented on [#4264](https://github.com/hyperf/hyperf/issues/4264) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
 <!--END_SECTION:activity-->
 
 </details>
