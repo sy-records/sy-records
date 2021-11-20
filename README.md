@@ -22,3 +22,11 @@
 <!--
 ( ๑ˊ•̥▵•)੭₎₎ Welcome to follow me and give me a star :)
 -->
+
+<details>
+<summary>:zap: Recent Activity</summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
