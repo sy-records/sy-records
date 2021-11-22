@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4275](https://github.com/hyperf/hyperf/issues/4275) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-2. 🗣 Commented on [#4275](https://github.com/hyperf/hyperf/issues/4275) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-3. ❗️ Closed issue [#4265](https://github.com/hyperf/hyperf/issues/4265) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-4. 🎉 Merged PR [#140](https://github.com/swoole/library/pull/140) in [swoole/library](https://github.com/swoole/library)
-5. 🎉 Merged PR [#114](https://github.com/php/doc-zh/pull/114) in [php/doc-zh](https://github.com/php/doc-zh)
+1. 💪 Opened PR [#4277](https://github.com/hyperf/hyperf/pull/4277) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+2. ❗️ Closed issue [#4275](https://github.com/hyperf/hyperf/issues/4275) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+3. 🗣 Commented on [#4275](https://github.com/hyperf/hyperf/issues/4275) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+4. ❗️ Closed issue [#4265](https://github.com/hyperf/hyperf/issues/4265) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+5. 🎉 Merged PR [#140](https://github.com/swoole/library/pull/140) in [swoole/library](https://github.com/swoole/library)
 <!--END_SECTION:activity-->
 
 </details>
