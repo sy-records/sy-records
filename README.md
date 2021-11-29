@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1674](https://github.com/docsifyjs/docsify/issues/1674) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+1. 💪 Opened PR [#4300](https://github.com/hyperf/hyperf/pull/4300) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
 2. 🗣 Commented on [#1674](https://github.com/docsifyjs/docsify/issues/1674) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 3. 🗣 Commented on [#1674](https://github.com/docsifyjs/docsify/issues/1674) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. 🎉 Merged PR [#183](https://github.com/docsifyjs/awesome-docsify/pull/183) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-5. ❗️ Closed issue [#1674](https://github.com/docsifyjs/docsify/issues/1674) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+4. 🗣 Commented on [#1674](https://github.com/docsifyjs/docsify/issues/1674) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 🎉 Merged PR [#183](https://github.com/docsifyjs/awesome-docsify/pull/183) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
 <!--END_SECTION:activity-->
 
 </details>
