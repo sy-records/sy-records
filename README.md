@@ -16,9 +16,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1674](https://github.com/docsifyjs/docsify/issues/1674) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 2. 🗣 Commented on [#1674](https://github.com/docsifyjs/docsify/issues/1674) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. 🎉 Merged PR [#183](https://github.com/docsifyjs/awesome-docsify/pull/183) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-4. ❗️ Closed issue [#1674](https://github.com/docsifyjs/docsify/issues/1674) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-5. 🗣 Commented on [#1674](https://github.com/docsifyjs/docsify/issues/1674) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 🗣 Commented on [#1674](https://github.com/docsifyjs/docsify/issues/1674) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+4. 🎉 Merged PR [#183](https://github.com/docsifyjs/awesome-docsify/pull/183) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+5. ❗️ Closed issue [#1674](https://github.com/docsifyjs/docsify/issues/1674) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
 </details>
