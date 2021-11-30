@@ -14,10 +14,10 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/Yurunsoft/YurunOAuthLogin/pull/17) in [Yurunsoft/YurunOAuthLogin](https://github.com/Yurunsoft/YurunOAuthLogin)
-2. 💪 Opened PR [#17](https://github.com/Yurunsoft/YurunOAuthLogin/pull/17) in [Yurunsoft/YurunOAuthLogin](https://github.com/Yurunsoft/YurunOAuthLogin)
-3. 💪 Opened PR [#4300](https://github.com/hyperf/hyperf/pull/4300) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-4. 🗣 Commented on [#1674](https://github.com/docsifyjs/docsify/issues/1674) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+1. ❗️ Closed issue [#282](https://github.com/top-think/think-swoole/issues/282) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
+2. 🎉 Merged PR [#17](https://github.com/Yurunsoft/YurunOAuthLogin/pull/17) in [Yurunsoft/YurunOAuthLogin](https://github.com/Yurunsoft/YurunOAuthLogin)
+3. 💪 Opened PR [#17](https://github.com/Yurunsoft/YurunOAuthLogin/pull/17) in [Yurunsoft/YurunOAuthLogin](https://github.com/Yurunsoft/YurunOAuthLogin)
+4. 💪 Opened PR [#4300](https://github.com/hyperf/hyperf/pull/4300) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
 5. 🗣 Commented on [#1674](https://github.com/docsifyjs/docsify/issues/1674) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
