@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1677](https://github.com/docsifyjs/docsify/issues/1677) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. ❗️ Closed issue [#1677](https://github.com/docsifyjs/docsify/issues/1677) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. 💪 Opened PR [#3](https://github.com/swoole/php-docker/pull/3) in [swoole/php-docker](https://github.com/swoole/php-docker)
-4. ❗️ Closed issue [#1678](https://github.com/docsifyjs/docsify/issues/1678) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-5. ❌ Closed PR [#12](https://github.com/aliyun/aliyun-tablestore-php-sdk/pull/12) in [aliyun/aliyun-tablestore-php-sdk](https://github.com/aliyun/aliyun-tablestore-php-sdk)
+1. 🎉 Merged PR [#3](https://github.com/swoole/php-docker/pull/3) in [swoole/php-docker](https://github.com/swoole/php-docker)
+2. 🗣 Commented on [#1677](https://github.com/docsifyjs/docsify/issues/1677) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. ❗️ Closed issue [#1677](https://github.com/docsifyjs/docsify/issues/1677) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+4. 💪 Opened PR [#3](https://github.com/swoole/php-docker/pull/3) in [swoole/php-docker](https://github.com/swoole/php-docker)
+5. ❗️ Closed issue [#1678](https://github.com/docsifyjs/docsify/issues/1678) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
 </details>
