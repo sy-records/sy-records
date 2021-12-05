@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/foreverblog/.github/pull/1) in [foreverblog/.github](https://github.com/foreverblog/.github)
-2. 🗣 Commented on [#13](https://github.com/Tencent-Cloud-Plugins/tencentcloud-wordpress-plugin-cos/issues/13) in [Tencent-Cloud-Plugins/tencentcloud-wordpress-plugin-cos](https://github.com/Tencent-Cloud-Plugins/tencentcloud-wordpress-plugin-cos)
-3. 💪 Opened PR [#154](https://github.com/codecasts/php-alpine/pull/154) in [codecasts/php-alpine](https://github.com/codecasts/php-alpine)
-4. 💪 Opened PR [#37](https://github.com/hyperf/hyperf-docker/pull/37) in [hyperf/hyperf-docker](https://github.com/hyperf/hyperf-docker)
-5. 💪 Opened PR [#4314](https://github.com/hyperf/hyperf/pull/4314) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+1. ❗️ Closed issue [#1682](https://github.com/docsifyjs/docsify/issues/1682) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. 🗣 Commented on [#1682](https://github.com/docsifyjs/docsify/issues/1682) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 🎉 Merged PR [#1](https://github.com/foreverblog/.github/pull/1) in [foreverblog/.github](https://github.com/foreverblog/.github)
+4. 🗣 Commented on [#13](https://github.com/Tencent-Cloud-Plugins/tencentcloud-wordpress-plugin-cos/issues/13) in [Tencent-Cloud-Plugins/tencentcloud-wordpress-plugin-cos](https://github.com/Tencent-Cloud-Plugins/tencentcloud-wordpress-plugin-cos)
+5. 💪 Opened PR [#154](https://github.com/codecasts/php-alpine/pull/154) in [codecasts/php-alpine](https://github.com/codecasts/php-alpine)
 <!--END_SECTION:activity-->
 
 </details>
