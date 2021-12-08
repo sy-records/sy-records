@@ -14,10 +14,10 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1683](https://github.com/docsifyjs/docsify/issues/1683) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. 🗣 Commented on [#44](https://github.com/swoole-inc/report/issues/44) in [swoole-inc/report](https://github.com/swoole-inc/report)
-3. 🗣 Commented on [#1683](https://github.com/docsifyjs/docsify/issues/1683) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. 💪 Opened PR [#18](https://github.com/Yurunsoft/YurunOAuthLogin/pull/18) in [Yurunsoft/YurunOAuthLogin](https://github.com/Yurunsoft/YurunOAuthLogin)
+1. ❗️ Closed issue [#43](https://github.com/swoole-inc/report/issues/43) in [swoole-inc/report](https://github.com/swoole-inc/report)
+2. 🗣 Commented on [#43](https://github.com/swoole-inc/report/issues/43) in [swoole-inc/report](https://github.com/swoole-inc/report)
+3. 🗣 Commented on [#44](https://github.com/swoole-inc/report/issues/44) in [swoole-inc/report](https://github.com/swoole-inc/report)
+4. 🗣 Commented on [#14](https://github.com/Tencent-Cloud-Plugins/tencentcloud-wordpress-plugin-cos/issues/14) in [Tencent-Cloud-Plugins/tencentcloud-wordpress-plugin-cos](https://github.com/Tencent-Cloud-Plugins/tencentcloud-wordpress-plugin-cos)
 5. 🗣 Commented on [#1683](https://github.com/docsifyjs/docsify/issues/1683) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
