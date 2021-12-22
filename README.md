@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/swoole/dashboard/issues/1) in [swoole/dashboard](https://github.com/swoole/dashboard)
-2. 💪 Opened PR [#72](https://github.com/simps/mqtt/pull/72) in [simps/mqtt](https://github.com/simps/mqtt)
-3. 💪 Opened PR [#4379](https://github.com/hyperf/hyperf/pull/4379) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-4. 🗣 Commented on [#446](https://github.com/laravel/octane/issues/446) in [laravel/octane](https://github.com/laravel/octane)
-5. 🗣 Commented on [#4377](https://github.com/hyperf/hyperf/issues/4377) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+1. 🎉 Merged PR [#72](https://github.com/simps/mqtt/pull/72) in [simps/mqtt](https://github.com/simps/mqtt)
+2. 🗣 Commented on [#1](https://github.com/swoole/dashboard/issues/1) in [swoole/dashboard](https://github.com/swoole/dashboard)
+3. 💪 Opened PR [#72](https://github.com/simps/mqtt/pull/72) in [simps/mqtt](https://github.com/simps/mqtt)
+4. 💪 Opened PR [#4379](https://github.com/hyperf/hyperf/pull/4379) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+5. 🗣 Commented on [#446](https://github.com/laravel/octane/issues/446) in [laravel/octane](https://github.com/laravel/octane)
 <!--END_SECTION:activity-->
 
 </details>
