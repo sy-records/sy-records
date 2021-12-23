@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4550](https://github.com/swoole/swoole-src/pull/4550) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
-2. 🎉 Merged PR [#72](https://github.com/simps/mqtt/pull/72) in [simps/mqtt](https://github.com/simps/mqtt)
-3. 🗣 Commented on [#1](https://github.com/swoole/dashboard/issues/1) in [swoole/dashboard](https://github.com/swoole/dashboard)
-4. 💪 Opened PR [#72](https://github.com/simps/mqtt/pull/72) in [simps/mqtt](https://github.com/simps/mqtt)
-5. 💪 Opened PR [#4379](https://github.com/hyperf/hyperf/pull/4379) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+1. 💪 Opened PR [#73](https://github.com/simps/mqtt/pull/73) in [simps/mqtt](https://github.com/simps/mqtt)
+2. ❗️ Closed issue [#190](https://github.com/docsifyjs/awesome-docsify/issues/190) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+3. 💪 Opened PR [#4550](https://github.com/swoole/swoole-src/pull/4550) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+4. 🎉 Merged PR [#72](https://github.com/simps/mqtt/pull/72) in [simps/mqtt](https://github.com/simps/mqtt)
+5. 🗣 Commented on [#1](https://github.com/swoole/dashboard/issues/1) in [swoole/dashboard](https://github.com/swoole/dashboard)
 <!--END_SECTION:activity-->
 
 </details>
