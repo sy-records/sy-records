@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#452](https://github.com/laravel/octane/pull/452) in [laravel/octane](https://github.com/laravel/octane)
-2. ❌ Closed PR [#143](https://github.com/swoole/library/pull/143) in [swoole/library](https://github.com/swoole/library)
-3. 🗣 Commented on [#4388](https://github.com/hyperf/hyperf/issues/4388) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-4. ❗️ Closed issue [#1](https://github.com/swoole/dashboard/issues/1) in [swoole/dashboard](https://github.com/swoole/dashboard)
-5. 💪 Opened PR [#73](https://github.com/simps/mqtt/pull/73) in [simps/mqtt](https://github.com/simps/mqtt)
+1. 🎉 Merged PR [#73](https://github.com/simps/mqtt/pull/73) in [simps/mqtt](https://github.com/simps/mqtt)
+2. 💪 Opened PR [#165](https://github.com/php/doc-zh/pull/165) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 💪 Opened PR [#452](https://github.com/laravel/octane/pull/452) in [laravel/octane](https://github.com/laravel/octane)
+4. ❌ Closed PR [#143](https://github.com/swoole/library/pull/143) in [swoole/library](https://github.com/swoole/library)
+5. 🗣 Commented on [#4388](https://github.com/hyperf/hyperf/issues/4388) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
 <!--END_SECTION:activity-->
 
 </details>
