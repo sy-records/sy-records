@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#185](https://github.com/php/doc-zh/pull/185) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 💪 Opened PR [#258](https://github.com/tencentyun/cos-php-sdk-v5/pull/258) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
-3. ❗️ Closed issue [#49](https://github.com/swoole-inc/report/issues/49) in [swoole-inc/report](https://github.com/swoole-inc/report)
-4. 🗣 Commented on [#49](https://github.com/swoole-inc/report/issues/49) in [swoole-inc/report](https://github.com/swoole-inc/report)
-5. 🗣 Commented on [#50](https://github.com/swoole-inc/report/issues/50) in [swoole-inc/report](https://github.com/swoole-inc/report)
+1. 🎉 Merged PR [#185](https://github.com/php/doc-zh/pull/185) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 💪 Opened PR [#185](https://github.com/php/doc-zh/pull/185) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 💪 Opened PR [#258](https://github.com/tencentyun/cos-php-sdk-v5/pull/258) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
+4. ❗️ Closed issue [#49](https://github.com/swoole-inc/report/issues/49) in [swoole-inc/report](https://github.com/swoole-inc/report)
+5. 🗣 Commented on [#49](https://github.com/swoole-inc/report/issues/49) in [swoole-inc/report](https://github.com/swoole-inc/report)
 <!--END_SECTION:activity-->
 
 </details>
