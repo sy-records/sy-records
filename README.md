@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/php/doc-zh/issues/191) in [php/doc-zh](https://github.com/php/doc-zh)
-2. ❗️ Closed issue [#50](https://github.com/swoole-inc/report/issues/50) in [swoole-inc/report](https://github.com/swoole-inc/report)
-3. 🗣 Commented on [#50](https://github.com/swoole-inc/report/issues/50) in [swoole-inc/report](https://github.com/swoole-inc/report)
-4. ❗️ Closed issue [#293](https://github.com/top-think/think-swoole/issues/293) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
-5. ❗️ Closed issue [#292](https://github.com/top-think/think-swoole/issues/292) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
+1. ❗️ Closed issue [#4490](https://github.com/hyperf/hyperf/issues/4490) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+2. 🗣 Commented on [#4490](https://github.com/hyperf/hyperf/issues/4490) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+3. 🗣 Commented on [#191](https://github.com/php/doc-zh/issues/191) in [php/doc-zh](https://github.com/php/doc-zh)
+4. ❗️ Closed issue [#50](https://github.com/swoole-inc/report/issues/50) in [swoole-inc/report](https://github.com/swoole-inc/report)
+5. 🗣 Commented on [#50](https://github.com/swoole-inc/report/issues/50) in [swoole-inc/report](https://github.com/swoole-inc/report)
 <!--END_SECTION:activity-->
 
 </details>
