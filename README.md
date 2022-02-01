@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1740](https://github.com/docsifyjs/docsify/pull/1740) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. 🗣 Commented on [#4496](https://github.com/hyperf/hyperf/issues/4496) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-3. 🗣 Commented on [#1736](https://github.com/docsifyjs/docsify/issues/1736) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. 💪 Opened PR [#164](https://github.com/docsifyjs/docsify-cli/pull/164) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-5. 🗣 Commented on [#470](https://github.com/laravel/octane/issues/470) in [laravel/octane](https://github.com/laravel/octane)
+1. 🎉 Merged PR [#1738](https://github.com/docsifyjs/docsify/pull/1738) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. 💪 Opened PR [#1740](https://github.com/docsifyjs/docsify/pull/1740) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 🗣 Commented on [#4496](https://github.com/hyperf/hyperf/issues/4496) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+4. 🗣 Commented on [#1736](https://github.com/docsifyjs/docsify/issues/1736) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 💪 Opened PR [#164](https://github.com/docsifyjs/docsify-cli/pull/164) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
 <!--END_SECTION:activity-->
 
 </details>
