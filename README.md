@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1315](https://github.com/typecho/typecho/pull/1315) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🗣 Commented on [#5087](https://github.com/the-benchmarker/web-frameworks/issues/5087) in [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks)
-3. 🗣 Commented on [#476](https://github.com/laravel/octane/issues/476) in [laravel/octane](https://github.com/laravel/octane)
-4. 🗣 Commented on [#1746](https://github.com/docsifyjs/docsify/issues/1746) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-5. 🗣 Commented on [#165](https://github.com/docsifyjs/docsify-cli/issues/165) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+1. ❗️ Closed issue [#138](https://github.com/typecho-fans/plugins/issues/138) in [typecho-fans/plugins](https://github.com/typecho-fans/plugins)
+2. 💪 Opened PR [#194](https://github.com/php/doc-zh/pull/194) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 💪 Opened PR [#1315](https://github.com/typecho/typecho/pull/1315) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🗣 Commented on [#5087](https://github.com/the-benchmarker/web-frameworks/issues/5087) in [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks)
+5. 🗣 Commented on [#476](https://github.com/laravel/octane/issues/476) in [laravel/octane](https://github.com/laravel/octane)
 <!--END_SECTION:activity-->
 
 </details>
