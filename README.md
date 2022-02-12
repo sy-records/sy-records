@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#197](https://github.com/php/doc-zh/pull/197) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 💪 Opened PR [#195](https://github.com/easysoft/zui/pull/195) in [easysoft/zui](https://github.com/easysoft/zui)
-3. ❌ Closed PR [#1](https://github.com/lufei/zui/pull/1) in [lufei/zui](https://github.com/lufei/zui)
-4. 💪 Opened PR [#1](https://github.com/lufei/zui/pull/1) in [lufei/zui](https://github.com/lufei/zui)
-5. 🎉 Merged PR [#196](https://github.com/php/doc-zh/pull/196) in [php/doc-zh](https://github.com/php/doc-zh)
+1. ❗️ Closed issue [#7](https://github.com/sy-records/aliyun-oss-wordpress/issues/7) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+2. 🗣 Commented on [#7](https://github.com/sy-records/aliyun-oss-wordpress/issues/7) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+3. 🎉 Merged PR [#197](https://github.com/php/doc-zh/pull/197) in [php/doc-zh](https://github.com/php/doc-zh)
+4. 💪 Opened PR [#195](https://github.com/easysoft/zui/pull/195) in [easysoft/zui](https://github.com/easysoft/zui)
+5. ❌ Closed PR [#1](https://github.com/lufei/zui/pull/1) in [lufei/zui](https://github.com/lufei/zui)
 <!--END_SECTION:activity-->
 
 </details>
