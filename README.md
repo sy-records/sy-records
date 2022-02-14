@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#272](https://github.com/imiphp/imi/issues/272) in [imiphp/imi](https://github.com/imiphp/imi)
-2. 🗣 Commented on [#272](https://github.com/imiphp/imi/issues/272) in [imiphp/imi](https://github.com/imiphp/imi)
-3. 💪 Opened PR [#199](https://github.com/php/doc-zh/pull/199) in [php/doc-zh](https://github.com/php/doc-zh)
-4. ❗️ Closed issue [#7](https://github.com/sy-records/aliyun-oss-wordpress/issues/7) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
-5. 🗣 Commented on [#7](https://github.com/sy-records/aliyun-oss-wordpress/issues/7) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+1. 💪 Opened PR [#1324](https://github.com/typecho/typecho/pull/1324) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 💪 Opened PR [#1323](https://github.com/typecho/typecho/pull/1323) in [typecho/typecho](https://github.com/typecho/typecho)
+3. ❗️ Closed issue [#272](https://github.com/imiphp/imi/issues/272) in [imiphp/imi](https://github.com/imiphp/imi)
+4. 🗣 Commented on [#272](https://github.com/imiphp/imi/issues/272) in [imiphp/imi](https://github.com/imiphp/imi)
+5. 💪 Opened PR [#199](https://github.com/php/doc-zh/pull/199) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
