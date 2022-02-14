@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1324](https://github.com/typecho/typecho/pull/1324) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 💪 Opened PR [#1323](https://github.com/typecho/typecho/pull/1323) in [typecho/typecho](https://github.com/typecho/typecho)
-3. ❗️ Closed issue [#272](https://github.com/imiphp/imi/issues/272) in [imiphp/imi](https://github.com/imiphp/imi)
-4. 🗣 Commented on [#272](https://github.com/imiphp/imi/issues/272) in [imiphp/imi](https://github.com/imiphp/imi)
-5. 💪 Opened PR [#199](https://github.com/php/doc-zh/pull/199) in [php/doc-zh](https://github.com/php/doc-zh)
+1. ❗️ Closed issue [#132](https://github.com/docsifyjs/docsify-cli/issues/132) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+2. 🗣 Commented on [#132](https://github.com/docsifyjs/docsify-cli/issues/132) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+3. 🎉 Merged PR [#166](https://github.com/docsifyjs/docsify-cli/pull/166) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+4. 💪 Opened PR [#1324](https://github.com/typecho/typecho/pull/1324) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 💪 Opened PR [#1323](https://github.com/typecho/typecho/pull/1323) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
