@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2663](https://github.com/top-think/framework/issues/2663) in [top-think/framework](https://github.com/top-think/framework)
-2. ❗️ Closed issue [#132](https://github.com/docsifyjs/docsify-cli/issues/132) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-3. 🗣 Commented on [#132](https://github.com/docsifyjs/docsify-cli/issues/132) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-4. 🎉 Merged PR [#166](https://github.com/docsifyjs/docsify-cli/pull/166) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-5. 💪 Opened PR [#1324](https://github.com/typecho/typecho/pull/1324) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🎉 Merged PR [#171](https://github.com/docsifyjs/docsify-cli/pull/171) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+2. 🗣 Commented on [#2663](https://github.com/top-think/framework/issues/2663) in [top-think/framework](https://github.com/top-think/framework)
+3. ❗️ Closed issue [#132](https://github.com/docsifyjs/docsify-cli/issues/132) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+4. 🗣 Commented on [#132](https://github.com/docsifyjs/docsify-cli/issues/132) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+5. 🎉 Merged PR [#166](https://github.com/docsifyjs/docsify-cli/pull/166) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
 <!--END_SECTION:activity-->
 
 </details>
