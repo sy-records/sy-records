@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/simps/mqtt/issues/76) in [simps/mqtt](https://github.com/simps/mqtt)
+1. 🎉 Merged PR [#170](https://github.com/docsifyjs/docsify-cli/pull/170) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
 2. 🗣 Commented on [#76](https://github.com/simps/mqtt/issues/76) in [simps/mqtt](https://github.com/simps/mqtt)
-3. ❗️ Closed issue [#76](https://github.com/simps/mqtt/issues/76) in [simps/mqtt](https://github.com/simps/mqtt)
-4. 🗣 Commented on [#76](https://github.com/simps/mqtt/issues/76) in [simps/mqtt](https://github.com/simps/mqtt)
-5. 🎉 Merged PR [#171](https://github.com/docsifyjs/docsify-cli/pull/171) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+3. 🗣 Commented on [#76](https://github.com/simps/mqtt/issues/76) in [simps/mqtt](https://github.com/simps/mqtt)
+4. ❗️ Closed issue [#76](https://github.com/simps/mqtt/issues/76) in [simps/mqtt](https://github.com/simps/mqtt)
+5. 🗣 Commented on [#76](https://github.com/simps/mqtt/issues/76) in [simps/mqtt](https://github.com/simps/mqtt)
 <!--END_SECTION:activity-->
 
 </details>
