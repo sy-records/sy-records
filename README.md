@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#51](https://github.com/swoole-inc/report/issues/51) in [swoole-inc/report](https://github.com/swoole-inc/report)
-2. 🗣 Commented on [#51](https://github.com/swoole-inc/report/issues/51) in [swoole-inc/report](https://github.com/swoole-inc/report)
-3. ❗️ Closed issue [#4631](https://github.com/swoole/swoole-src/issues/4631) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
-4. 🗣 Commented on [#4631](https://github.com/swoole/swoole-src/issues/4631) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
-5. 💪 Opened PR [#206](https://github.com/php/doc-zh/pull/206) in [php/doc-zh](https://github.com/php/doc-zh)
+1. 💪 Opened PR [#77](https://github.com/hyperf/hyperf-skeleton/pull/77) in [hyperf/hyperf-skeleton](https://github.com/hyperf/hyperf-skeleton)
+2. ❗️ Closed issue [#51](https://github.com/swoole-inc/report/issues/51) in [swoole-inc/report](https://github.com/swoole-inc/report)
+3. 🗣 Commented on [#51](https://github.com/swoole-inc/report/issues/51) in [swoole-inc/report](https://github.com/swoole-inc/report)
+4. ❗️ Closed issue [#4631](https://github.com/swoole/swoole-src/issues/4631) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+5. 🗣 Commented on [#4631](https://github.com/swoole/swoole-src/issues/4631) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
 <!--END_SECTION:activity-->
 
 </details>
