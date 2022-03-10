@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1769](https://github.com/docsifyjs/docsify/issues/1769) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. 🗣 Commented on [#1769](https://github.com/docsifyjs/docsify/issues/1769) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. 🗣 Commented on [#40](https://github.com/OpenSourceWin/OpenSourceWin.github.io/issues/40) in [OpenSourceWin/OpenSourceWin.github.io](https://github.com/OpenSourceWin/OpenSourceWin.github.io)
-4. 💪 Opened PR [#41](https://github.com/OpenSourceWin/OpenSourceWin.github.io/pull/41) in [OpenSourceWin/OpenSourceWin.github.io](https://github.com/OpenSourceWin/OpenSourceWin.github.io)
-5. 🎉 Merged PR [#39](https://github.com/OpenSourceWin/OpenSourceWin.github.io/pull/39) in [OpenSourceWin/OpenSourceWin.github.io](https://github.com/OpenSourceWin/OpenSourceWin.github.io)
+1. 🎉 Merged PR [#42](https://github.com/OpenSourceWin/OpenSourceWin.github.io/pull/42) in [OpenSourceWin/OpenSourceWin.github.io](https://github.com/OpenSourceWin/OpenSourceWin.github.io)
+2. ❗️ Closed issue [#40](https://github.com/OpenSourceWin/OpenSourceWin.github.io/issues/40) in [OpenSourceWin/OpenSourceWin.github.io](https://github.com/OpenSourceWin/OpenSourceWin.github.io)
+3. 🎉 Merged PR [#41](https://github.com/OpenSourceWin/OpenSourceWin.github.io/pull/41) in [OpenSourceWin/OpenSourceWin.github.io](https://github.com/OpenSourceWin/OpenSourceWin.github.io)
+4. ❗️ Closed issue [#1769](https://github.com/docsifyjs/docsify/issues/1769) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 🗣 Commented on [#1769](https://github.com/docsifyjs/docsify/issues/1769) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
 </details>
