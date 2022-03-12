@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/OpenSourceWin/OpenSourceWin.github.io/pull/45) in [OpenSourceWin/OpenSourceWin.github.io](https://github.com/OpenSourceWin/OpenSourceWin.github.io)
-2. 🎉 Merged PR [#1446](https://github.com/php/doc-en/pull/1446) in [php/doc-en](https://github.com/php/doc-en)
-3. 🎉 Merged PR [#43](https://github.com/OpenSourceWin/OpenSourceWin.github.io/pull/43) in [OpenSourceWin/OpenSourceWin.github.io](https://github.com/OpenSourceWin/OpenSourceWin.github.io)
-4. 🎉 Merged PR [#44](https://github.com/OpenSourceWin/OpenSourceWin.github.io/pull/44) in [OpenSourceWin/OpenSourceWin.github.io](https://github.com/OpenSourceWin/OpenSourceWin.github.io)
-5. 🗣 Commented on [#491](https://github.com/laravel/octane/issues/491) in [laravel/octane](https://github.com/laravel/octane)
+1. ❗️ Opened issue [#768](https://github.com/X-lab2017/open-digger/issues/768) in [X-lab2017/open-digger](https://github.com/X-lab2017/open-digger)
+2. 🗣 Commented on [#132](https://github.com/docsifyjs/docsify-cli/issues/132) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+3. 🎉 Merged PR [#45](https://github.com/OpenSourceWin/OpenSourceWin.github.io/pull/45) in [OpenSourceWin/OpenSourceWin.github.io](https://github.com/OpenSourceWin/OpenSourceWin.github.io)
+4. 🎉 Merged PR [#1446](https://github.com/php/doc-en/pull/1446) in [php/doc-en](https://github.com/php/doc-en)
+5. 🎉 Merged PR [#43](https://github.com/OpenSourceWin/OpenSourceWin.github.io/pull/43) in [OpenSourceWin/OpenSourceWin.github.io](https://github.com/OpenSourceWin/OpenSourceWin.github.io)
 <!--END_SECTION:activity-->
 
 </details>
