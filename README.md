@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1338](https://github.com/typecho/typecho/issues/1338) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 💪 Opened PR [#1339](https://github.com/typecho/typecho/pull/1339) in [typecho/typecho](https://github.com/typecho/typecho)
 2. 🗣 Commented on [#1338](https://github.com/typecho/typecho/issues/1338) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🎉 Merged PR [#1772](https://github.com/docsifyjs/docsify/pull/1772) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. ❗️ Closed issue [#4598](https://github.com/hyperf/hyperf/issues/4598) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-5. 💪 Opened PR [#1772](https://github.com/docsifyjs/docsify/pull/1772) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 🗣 Commented on [#1338](https://github.com/typecho/typecho/issues/1338) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🎉 Merged PR [#1772](https://github.com/docsifyjs/docsify/pull/1772) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. ❗️ Closed issue [#4598](https://github.com/hyperf/hyperf/issues/4598) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
 <!--END_SECTION:activity-->
 
 </details>
