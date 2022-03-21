@@ -15,10 +15,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#174](https://github.com/docsifyjs/docsify-cli/issues/174) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-2. ❗️ Closed issue [#2](https://github.com/sy-records/swoole-hook-addon/issues/2) in [sy-records/swoole-hook-addon](https://github.com/sy-records/swoole-hook-addon)
-3. 🗣 Commented on [#2](https://github.com/sy-records/swoole-hook-addon/issues/2) in [sy-records/swoole-hook-addon](https://github.com/sy-records/swoole-hook-addon)
-4. 💪 Opened PR [#2403](https://github.com/w7corp/easywechat/pull/2403) in [w7corp/easywechat](https://github.com/w7corp/easywechat)
-5. 💪 Opened PR [#2402](https://github.com/w7corp/easywechat/pull/2402) in [w7corp/easywechat](https://github.com/w7corp/easywechat)
+2. 🗣 Commented on [#4](https://github.com/sy-records/qiniu-kodo-wordpress/issues/4) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
+3. 🗣 Commented on [#174](https://github.com/docsifyjs/docsify-cli/issues/174) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+4. ❗️ Closed issue [#2](https://github.com/sy-records/swoole-hook-addon/issues/2) in [sy-records/swoole-hook-addon](https://github.com/sy-records/swoole-hook-addon)
+5. 🗣 Commented on [#2](https://github.com/sy-records/swoole-hook-addon/issues/2) in [sy-records/swoole-hook-addon](https://github.com/sy-records/swoole-hook-addon)
 <!--END_SECTION:activity-->
 
 </details>
