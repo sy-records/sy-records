@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1777](https://github.com/docsifyjs/docsify/issues/1777) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. 🗣 Commented on [#1777](https://github.com/docsifyjs/docsify/issues/1777) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. ❗️ Closed issue [#174](https://github.com/docsifyjs/docsify-cli/issues/174) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-4. 🗣 Commented on [#174](https://github.com/docsifyjs/docsify-cli/issues/174) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-5. ❗️ Closed issue [#8](https://github.com/sy-records/aliyun-oss-wordpress/issues/8) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+1. 🗣 Commented on [#1776](https://github.com/docsifyjs/docsify/issues/1776) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. ❗️ Closed issue [#1777](https://github.com/docsifyjs/docsify/issues/1777) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 🗣 Commented on [#1777](https://github.com/docsifyjs/docsify/issues/1777) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+4. ❗️ Closed issue [#174](https://github.com/docsifyjs/docsify-cli/issues/174) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+5. 🗣 Commented on [#174](https://github.com/docsifyjs/docsify-cli/issues/174) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
 <!--END_SECTION:activity-->
 
 </details>
