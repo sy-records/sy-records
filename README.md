@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/swoole/ext-postgresql/issues/72) in [swoole/ext-postgresql](https://github.com/swoole/ext-postgresql)
-2. ❗️ Closed issue [#72](https://github.com/swoole/ext-postgresql/issues/72) in [swoole/ext-postgresql](https://github.com/swoole/ext-postgresql)
-3. ❗️ Closed issue [#4627](https://github.com/hyperf/hyperf/issues/4627) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-4. 🗣 Commented on [#4627](https://github.com/hyperf/hyperf/issues/4627) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-5. 🎉 Merged PR [#1776](https://github.com/docsifyjs/docsify/pull/1776) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+1. 💪 Opened PR [#1342](https://github.com/typecho/typecho/pull/1342) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 🗣 Commented on [#72](https://github.com/swoole/ext-postgresql/issues/72) in [swoole/ext-postgresql](https://github.com/swoole/ext-postgresql)
+3. ❗️ Closed issue [#72](https://github.com/swoole/ext-postgresql/issues/72) in [swoole/ext-postgresql](https://github.com/swoole/ext-postgresql)
+4. ❗️ Closed issue [#4627](https://github.com/hyperf/hyperf/issues/4627) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+5. 🗣 Commented on [#4627](https://github.com/hyperf/hyperf/issues/4627) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
 <!--END_SECTION:activity-->
 
 </details>
