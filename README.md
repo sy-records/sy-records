@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1344](https://github.com/typecho/typecho/pull/1344) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 💪 Opened PR [#4634](https://github.com/hyperf/hyperf/pull/4634) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-3. ❌ Closed PR [#4633](https://github.com/hyperf/hyperf/pull/4633) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-4. 💪 Opened PR [#4633](https://github.com/hyperf/hyperf/pull/4633) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-5. ❌ Closed PR [#1343](https://github.com/typecho/typecho/pull/1343) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🎉 Merged PR [#213](https://github.com/php/doc-zh/pull/213) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 💪 Opened PR [#1344](https://github.com/typecho/typecho/pull/1344) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 💪 Opened PR [#4634](https://github.com/hyperf/hyperf/pull/4634) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+4. ❌ Closed PR [#4633](https://github.com/hyperf/hyperf/pull/4633) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+5. 💪 Opened PR [#4633](https://github.com/hyperf/hyperf/pull/4633) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
 <!--END_SECTION:activity-->
 
 </details>
