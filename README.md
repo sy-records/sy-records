@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1348](https://github.com/typecho/typecho/pull/1348) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🗣 Commented on [#1347](https://github.com/typecho/typecho/issues/1347) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 💪 Opened PR [#1346](https://github.com/typecho/typecho/pull/1346) in [typecho/typecho](https://github.com/typecho/typecho)
-4. 💪 Opened PR [#4640](https://github.com/hyperf/hyperf/pull/4640) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-5. ❗️ Closed issue [#2679](https://github.com/top-think/framework/issues/2679) in [top-think/framework](https://github.com/top-think/framework)
+1. 💪 Opened PR [#302](https://github.com/top-think/think-swoole/pull/302) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
+2. 💪 Opened PR [#1348](https://github.com/typecho/typecho/pull/1348) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🗣 Commented on [#1347](https://github.com/typecho/typecho/issues/1347) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 💪 Opened PR [#1346](https://github.com/typecho/typecho/pull/1346) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 💪 Opened PR [#4640](https://github.com/hyperf/hyperf/pull/4640) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
 <!--END_SECTION:activity-->
 
 </details>
