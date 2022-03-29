@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1780](https://github.com/docsifyjs/docsify/issues/1780) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. 💪 Opened PR [#499](https://github.com/laravel/octane/pull/499) in [laravel/octane](https://github.com/laravel/octane)
-3. 🗣 Commented on [#2679](https://github.com/top-think/framework/issues/2679) in [top-think/framework](https://github.com/top-think/framework)
-4. 💪 Opened PR [#302](https://github.com/top-think/think-swoole/pull/302) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
-5. 💪 Opened PR [#1348](https://github.com/typecho/typecho/pull/1348) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🗣 Commented on [#2424](https://github.com/w7corp/easywechat/issues/2424) in [w7corp/easywechat](https://github.com/w7corp/easywechat)
+2. 🗣 Commented on [#1780](https://github.com/docsifyjs/docsify/issues/1780) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 💪 Opened PR [#499](https://github.com/laravel/octane/pull/499) in [laravel/octane](https://github.com/laravel/octane)
+4. 🗣 Commented on [#2679](https://github.com/top-think/framework/issues/2679) in [top-think/framework](https://github.com/top-think/framework)
+5. 💪 Opened PR [#302](https://github.com/top-think/think-swoole/pull/302) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
 <!--END_SECTION:activity-->
 
 </details>
