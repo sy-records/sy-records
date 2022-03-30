@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4284](https://github.com/apolloconfig/apollo/issues/4284) in [apolloconfig/apollo](https://github.com/apolloconfig/apollo)
-2. 🗣 Commented on [#2011](https://github.com/phpredis/phpredis/issues/2011) in [phpredis/phpredis](https://github.com/phpredis/phpredis)
-3. ❌ Closed PR [#6](https://github.com/sy-records/upyun-uss-wordpress/pull/6) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
-4. ❌ Closed PR [#19](https://github.com/sy-records/wordpress-qcloud-cos/pull/19) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-5. 🗣 Commented on [#2424](https://github.com/w7corp/easywechat/issues/2424) in [w7corp/easywechat](https://github.com/w7corp/easywechat)
+1. 💪 Opened PR [#4646](https://github.com/hyperf/hyperf/pull/4646) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+2. 💪 Opened PR [#2088](https://github.com/phpredis/phpredis/pull/2088) in [phpredis/phpredis](https://github.com/phpredis/phpredis)
+3. 🗣 Commented on [#4](https://github.com/sy-records/volcengine-imagex-wordpress/issues/4) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+4. ❌ Closed PR [#3](https://github.com/sy-records/volcengine-imagex-wordpress/pull/3) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+5. 🗣 Commented on [#4284](https://github.com/apolloconfig/apollo/issues/4284) in [apolloconfig/apollo](https://github.com/apolloconfig/apollo)
 <!--END_SECTION:activity-->
 
 </details>
