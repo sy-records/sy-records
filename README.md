@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2424](https://github.com/w7corp/easywechat/issues/2424) in [w7corp/easywechat](https://github.com/w7corp/easywechat)
-2. 🗣 Commented on [#1780](https://github.com/docsifyjs/docsify/issues/1780) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. 💪 Opened PR [#499](https://github.com/laravel/octane/pull/499) in [laravel/octane](https://github.com/laravel/octane)
-4. 🗣 Commented on [#2679](https://github.com/top-think/framework/issues/2679) in [top-think/framework](https://github.com/top-think/framework)
-5. 💪 Opened PR [#302](https://github.com/top-think/think-swoole/pull/302) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
+1. 🗣 Commented on [#4284](https://github.com/apolloconfig/apollo/issues/4284) in [apolloconfig/apollo](https://github.com/apolloconfig/apollo)
+2. 🗣 Commented on [#2011](https://github.com/phpredis/phpredis/issues/2011) in [phpredis/phpredis](https://github.com/phpredis/phpredis)
+3. ❌ Closed PR [#6](https://github.com/sy-records/upyun-uss-wordpress/pull/6) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
+4. ❌ Closed PR [#19](https://github.com/sy-records/wordpress-qcloud-cos/pull/19) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+5. 🗣 Commented on [#2424](https://github.com/w7corp/easywechat/issues/2424) in [w7corp/easywechat](https://github.com/w7corp/easywechat)
 <!--END_SECTION:activity-->
 
 </details>
