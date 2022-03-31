@@ -15,10 +15,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1783](https://github.com/docsifyjs/docsify/issues/1783) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. 🎉 Merged PR [#1782](https://github.com/docsifyjs/docsify/pull/1782) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. 🎉 Merged PR [#200](https://github.com/docsifyjs/awesome-docsify/pull/200) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-4. 🎉 Merged PR [#1](https://github.com/swoole/benchmark/pull/1) in [swoole/benchmark](https://github.com/swoole/benchmark)
-5. 🗣 Commented on [#2679](https://github.com/top-think/framework/issues/2679) in [top-think/framework](https://github.com/top-think/framework)
+2. ❗️ Closed issue [#1783](https://github.com/docsifyjs/docsify/issues/1783) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 🗣 Commented on [#1783](https://github.com/docsifyjs/docsify/issues/1783) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+4. 🎉 Merged PR [#1782](https://github.com/docsifyjs/docsify/pull/1782) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 🎉 Merged PR [#200](https://github.com/docsifyjs/awesome-docsify/pull/200) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
 <!--END_SECTION:activity-->
 
 </details>
