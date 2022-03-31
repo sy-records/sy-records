@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2679](https://github.com/top-think/framework/issues/2679) in [top-think/framework](https://github.com/top-think/framework)
-2. 🗣 Commented on [#4](https://github.com/sy-records/volcengine-imagex-wordpress/issues/4) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
-3. 💪 Opened PR [#4646](https://github.com/hyperf/hyperf/pull/4646) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-4. 💪 Opened PR [#2088](https://github.com/phpredis/phpredis/pull/2088) in [phpredis/phpredis](https://github.com/phpredis/phpredis)
-5. 🗣 Commented on [#4](https://github.com/sy-records/volcengine-imagex-wordpress/issues/4) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+1. 🎉 Merged PR [#1](https://github.com/swoole/benchmark/pull/1) in [swoole/benchmark](https://github.com/swoole/benchmark)
+2. 🗣 Commented on [#2679](https://github.com/top-think/framework/issues/2679) in [top-think/framework](https://github.com/top-think/framework)
+3. 🗣 Commented on [#4](https://github.com/sy-records/volcengine-imagex-wordpress/issues/4) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+4. 💪 Opened PR [#4646](https://github.com/hyperf/hyperf/pull/4646) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+5. 💪 Opened PR [#2088](https://github.com/phpredis/phpredis/pull/2088) in [phpredis/phpredis](https://github.com/phpredis/phpredis)
 <!--END_SECTION:activity-->
 
 </details>
