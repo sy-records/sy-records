@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/simple-swoole/db/pull/5) in [simple-swoole/db](https://github.com/simple-swoole/db)
-2. ❌ Closed PR [#1373](https://github.com/typecho/typecho/pull/1373) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🗣 Commented on [#1373](https://github.com/typecho/typecho/issues/1373) in [typecho/typecho](https://github.com/typecho/typecho)
-4. 💪 Opened PR [#1381](https://github.com/typecho/typecho/pull/1381) in [typecho/typecho](https://github.com/typecho/typecho)
-5. 🎉 Merged PR [#203](https://github.com/docsifyjs/awesome-docsify/pull/203) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+1. 🗣 Commented on [#1785](https://github.com/docsifyjs/docsify/issues/1785) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. 🎉 Merged PR [#202](https://github.com/docsifyjs/awesome-docsify/pull/202) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+3. ❗️ Closed issue [#201](https://github.com/docsifyjs/awesome-docsify/issues/201) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+4. 🎉 Merged PR [#5](https://github.com/simple-swoole/db/pull/5) in [simple-swoole/db](https://github.com/simple-swoole/db)
+5. ❌ Closed PR [#1373](https://github.com/typecho/typecho/pull/1373) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
