@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1785](https://github.com/docsifyjs/docsify/issues/1785) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. 🎉 Merged PR [#202](https://github.com/docsifyjs/awesome-docsify/pull/202) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-3. ❗️ Closed issue [#201](https://github.com/docsifyjs/awesome-docsify/issues/201) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-4. 🎉 Merged PR [#5](https://github.com/simple-swoole/db/pull/5) in [simple-swoole/db](https://github.com/simple-swoole/db)
-5. ❌ Closed PR [#1373](https://github.com/typecho/typecho/pull/1373) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🗣 Commented on [#20](https://github.com/sy-records/wordpress-qcloud-cos/issues/20) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+2. 🗣 Commented on [#1785](https://github.com/docsifyjs/docsify/issues/1785) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 🎉 Merged PR [#202](https://github.com/docsifyjs/awesome-docsify/pull/202) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+4. ❗️ Closed issue [#201](https://github.com/docsifyjs/awesome-docsify/issues/201) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+5. 🎉 Merged PR [#5](https://github.com/simple-swoole/db/pull/5) in [simple-swoole/db](https://github.com/simple-swoole/db)
 <!--END_SECTION:activity-->
 
 </details>
