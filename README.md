@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#204](https://github.com/docsifyjs/awesome-docsify/pull/204) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-2. 🗣 Commented on [#1381](https://github.com/typecho/typecho/issues/1381) in [typecho/typecho](https://github.com/typecho/typecho)
-3. ❗️ Closed issue [#1786](https://github.com/docsifyjs/docsify/issues/1786) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. 🗣 Commented on [#1786](https://github.com/docsifyjs/docsify/issues/1786) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-5. 🗣 Commented on [#20](https://github.com/sy-records/wordpress-qcloud-cos/issues/20) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+1. 🗣 Commented on [#1386](https://github.com/typecho/typecho/issues/1386) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 🎉 Merged PR [#204](https://github.com/docsifyjs/awesome-docsify/pull/204) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+3. 🗣 Commented on [#1381](https://github.com/typecho/typecho/issues/1381) in [typecho/typecho](https://github.com/typecho/typecho)
+4. ❗️ Closed issue [#1786](https://github.com/docsifyjs/docsify/issues/1786) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 🗣 Commented on [#1786](https://github.com/docsifyjs/docsify/issues/1786) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
 </details>
