@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1389](https://github.com/typecho/typecho/pull/1389) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🗣 Commented on [#1785](https://github.com/docsifyjs/docsify/issues/1785) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. ❗️ Closed issue [#1785](https://github.com/docsifyjs/docsify/issues/1785) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. 🗣 Commented on [#1386](https://github.com/typecho/typecho/issues/1386) in [typecho/typecho](https://github.com/typecho/typecho)
-5. 🎉 Merged PR [#204](https://github.com/docsifyjs/awesome-docsify/pull/204) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+1. 🗣 Commented on [#1388](https://github.com/typecho/typecho/issues/1388) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 💪 Opened PR [#1389](https://github.com/typecho/typecho/pull/1389) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🗣 Commented on [#1785](https://github.com/docsifyjs/docsify/issues/1785) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+4. ❗️ Closed issue [#1785](https://github.com/docsifyjs/docsify/issues/1785) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 🗣 Commented on [#1386](https://github.com/typecho/typecho/issues/1386) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
