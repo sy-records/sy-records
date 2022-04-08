@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1370](https://github.com/typecho/typecho/issues/1370) in [typecho/typecho](https://github.com/typecho/typecho)
-2. ❗️ Closed issue [#4677](https://github.com/swoole/swoole-src/issues/4677) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
-3. 🗣 Commented on [#4677](https://github.com/swoole/swoole-src/issues/4677) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
-4. ❗️ Closed issue [#20](https://github.com/sy-records/wordpress-qcloud-cos/issues/20) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-5. ❌ Closed PR [#1381](https://github.com/typecho/typecho/pull/1381) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🗣 Commented on [#9](https://github.com/sy-records/aliyun-oss-wordpress/issues/9) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+2. 🗣 Commented on [#9](https://github.com/sy-records/aliyun-oss-wordpress/issues/9) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+3. 🗣 Commented on [#1370](https://github.com/typecho/typecho/issues/1370) in [typecho/typecho](https://github.com/typecho/typecho)
+4. ❗️ Closed issue [#4677](https://github.com/swoole/swoole-src/issues/4677) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
+5. 🗣 Commented on [#4677](https://github.com/swoole/swoole-src/issues/4677) in [swoole/swoole-src](https://github.com/swoole/swoole-src)
 <!--END_SECTION:activity-->
 
 </details>
