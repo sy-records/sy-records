@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/WPChill/wp-smtp/pull/6) in [WPChill/wp-smtp](https://github.com/WPChill/wp-smtp)
-2. 🗣 Commented on [#1392](https://github.com/typecho/typecho/issues/1392) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🗣 Commented on [#1392](https://github.com/typecho/typecho/issues/1392) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 💪 Opened PR [#6](https://github.com/WPChill/wp-smtp/pull/6) in [WPChill/wp-smtp](https://github.com/WPChill/wp-smtp)
 3. 🗣 Commented on [#1392](https://github.com/typecho/typecho/issues/1392) in [typecho/typecho](https://github.com/typecho/typecho)
 4. 🗣 Commented on [#1392](https://github.com/typecho/typecho/issues/1392) in [typecho/typecho](https://github.com/typecho/typecho)
-5. 💪 Opened PR [#1393](https://github.com/typecho/typecho/pull/1393) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 🗣 Commented on [#1392](https://github.com/typecho/typecho/issues/1392) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
