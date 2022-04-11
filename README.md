@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#219](https://github.com/php/doc-zh/pull/219) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 🗣 Commented on [#1392](https://github.com/typecho/typecho/issues/1392) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 💪 Opened PR [#6](https://github.com/WPChill/wp-smtp/pull/6) in [WPChill/wp-smtp](https://github.com/WPChill/wp-smtp)
+1. 🎉 Merged PR [#220](https://github.com/php/doc-zh/pull/220) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 💪 Opened PR [#220](https://github.com/php/doc-zh/pull/220) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 💪 Opened PR [#219](https://github.com/php/doc-zh/pull/219) in [php/doc-zh](https://github.com/php/doc-zh)
 4. 🗣 Commented on [#1392](https://github.com/typecho/typecho/issues/1392) in [typecho/typecho](https://github.com/typecho/typecho)
-5. 🗣 Commented on [#1392](https://github.com/typecho/typecho/issues/1392) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 💪 Opened PR [#6](https://github.com/WPChill/wp-smtp/pull/6) in [WPChill/wp-smtp](https://github.com/WPChill/wp-smtp)
 <!--END_SECTION:activity-->
 
 </details>
