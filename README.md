@@ -15,10 +15,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4670](https://github.com/hyperf/hyperf/issues/4670) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-2. 🎉 Merged PR [#176](https://github.com/docsifyjs/docsify-cli/pull/176) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-3. 🗣 Commented on [#506](https://github.com/laravel/octane/issues/506) in [laravel/octane](https://github.com/laravel/octane)
-4. 💪 Opened PR [#507](https://github.com/laravel/octane/pull/507) in [laravel/octane](https://github.com/laravel/octane)
-5. 💪 Opened PR [#506](https://github.com/laravel/octane/pull/506) in [laravel/octane](https://github.com/laravel/octane)
+2. 🗣 Commented on [#4670](https://github.com/hyperf/hyperf/issues/4670) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+3. 🎉 Merged PR [#176](https://github.com/docsifyjs/docsify-cli/pull/176) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+4. 🗣 Commented on [#506](https://github.com/laravel/octane/issues/506) in [laravel/octane](https://github.com/laravel/octane)
+5. 💪 Opened PR [#507](https://github.com/laravel/octane/pull/507) in [laravel/octane](https://github.com/laravel/octane)
 <!--END_SECTION:activity-->
 
 </details>
