@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1399](https://github.com/typecho/typecho/pull/1399) in [typecho/typecho](https://github.com/typecho/typecho)
-2. ❗️ Closed issue [#9](https://github.com/sy-records/aliyun-oss-wordpress/issues/9) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
-3. 🗣 Commented on [#4670](https://github.com/hyperf/hyperf/issues/4670) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+1. 🗣 Commented on [#4675](https://github.com/hyperf/hyperf/issues/4675) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+2. 💪 Opened PR [#1399](https://github.com/typecho/typecho/pull/1399) in [typecho/typecho](https://github.com/typecho/typecho)
+3. ❗️ Closed issue [#9](https://github.com/sy-records/aliyun-oss-wordpress/issues/9) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
 4. 🗣 Commented on [#4670](https://github.com/hyperf/hyperf/issues/4670) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-5. 🎉 Merged PR [#176](https://github.com/docsifyjs/docsify-cli/pull/176) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+5. 🗣 Commented on [#4670](https://github.com/hyperf/hyperf/issues/4670) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
 <!--END_SECTION:activity-->
 
 </details>
