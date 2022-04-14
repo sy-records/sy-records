@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#222](https://github.com/php/doc-zh/pull/222) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 🗣 Commented on [#4675](https://github.com/hyperf/hyperf/issues/4675) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-3. 💪 Opened PR [#1399](https://github.com/typecho/typecho/pull/1399) in [typecho/typecho](https://github.com/typecho/typecho)
-4. ❗️ Closed issue [#9](https://github.com/sy-records/aliyun-oss-wordpress/issues/9) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
-5. 🗣 Commented on [#4670](https://github.com/hyperf/hyperf/issues/4670) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+1. ❌ Closed PR [#4681](https://github.com/hyperf/hyperf/pull/4681) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+2. 💪 Opened PR [#222](https://github.com/php/doc-zh/pull/222) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🗣 Commented on [#4675](https://github.com/hyperf/hyperf/issues/4675) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+4. 💪 Opened PR [#1399](https://github.com/typecho/typecho/pull/1399) in [typecho/typecho](https://github.com/typecho/typecho)
+5. ❗️ Closed issue [#9](https://github.com/sy-records/aliyun-oss-wordpress/issues/9) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
 <!--END_SECTION:activity-->
 
 </details>
