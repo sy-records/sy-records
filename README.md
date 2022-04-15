@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1404](https://github.com/typecho/typecho/pull/1404) in [typecho/typecho](https://github.com/typecho/typecho)
-2. ❌ Closed PR [#1393](https://github.com/typecho/typecho/pull/1393) in [typecho/typecho](https://github.com/typecho/typecho)
-3. ❗️ Closed issue [#1402](https://github.com/typecho/typecho/issues/1402) in [typecho/typecho](https://github.com/typecho/typecho)
-4. 🗣 Commented on [#1402](https://github.com/typecho/typecho/issues/1402) in [typecho/typecho](https://github.com/typecho/typecho)
-5. 🎉 Merged PR [#78](https://github.com/simps/mqtt/pull/78) in [simps/mqtt](https://github.com/simps/mqtt)
+1. 🗣 Commented on [#1404](https://github.com/typecho/typecho/issues/1404) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 💪 Opened PR [#1404](https://github.com/typecho/typecho/pull/1404) in [typecho/typecho](https://github.com/typecho/typecho)
+3. ❌ Closed PR [#1393](https://github.com/typecho/typecho/pull/1393) in [typecho/typecho](https://github.com/typecho/typecho)
+4. ❗️ Closed issue [#1402](https://github.com/typecho/typecho/issues/1402) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 🗣 Commented on [#1402](https://github.com/typecho/typecho/issues/1402) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
