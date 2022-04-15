@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#78](https://github.com/simps/mqtt/pull/78) in [simps/mqtt](https://github.com/simps/mqtt)
-2. 🎉 Merged PR [#222](https://github.com/php/doc-zh/pull/222) in [php/doc-zh](https://github.com/php/doc-zh)
-3. ❌ Closed PR [#4681](https://github.com/hyperf/hyperf/pull/4681) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-4. 💪 Opened PR [#222](https://github.com/php/doc-zh/pull/222) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 🗣 Commented on [#4675](https://github.com/hyperf/hyperf/issues/4675) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+1. ❗️ Closed issue [#1402](https://github.com/typecho/typecho/issues/1402) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 🗣 Commented on [#1402](https://github.com/typecho/typecho/issues/1402) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🎉 Merged PR [#78](https://github.com/simps/mqtt/pull/78) in [simps/mqtt](https://github.com/simps/mqtt)
+4. 💪 Opened PR [#78](https://github.com/simps/mqtt/pull/78) in [simps/mqtt](https://github.com/simps/mqtt)
+5. 🎉 Merged PR [#222](https://github.com/php/doc-zh/pull/222) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
