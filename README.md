@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#56](https://github.com/swoole-inc/report/issues/56) in [swoole-inc/report](https://github.com/swoole-inc/report)
-2. 🗣 Commented on [#56](https://github.com/swoole-inc/report/issues/56) in [swoole-inc/report](https://github.com/swoole-inc/report)
-3. 🗣 Commented on [#1404](https://github.com/typecho/typecho/issues/1404) in [typecho/typecho](https://github.com/typecho/typecho)
-4. 💪 Opened PR [#1404](https://github.com/typecho/typecho/pull/1404) in [typecho/typecho](https://github.com/typecho/typecho)
-5. ❌ Closed PR [#1393](https://github.com/typecho/typecho/pull/1393) in [typecho/typecho](https://github.com/typecho/typecho)
+1. ❌ Closed PR [#6](https://github.com/WPChill/wp-smtp/pull/6) in [WPChill/wp-smtp](https://github.com/WPChill/wp-smtp)
+2. 🎉 Merged PR [#205](https://github.com/docsifyjs/awesome-docsify/pull/205) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+3. ❗️ Closed issue [#56](https://github.com/swoole-inc/report/issues/56) in [swoole-inc/report](https://github.com/swoole-inc/report)
+4. 🗣 Commented on [#56](https://github.com/swoole-inc/report/issues/56) in [swoole-inc/report](https://github.com/swoole-inc/report)
+5. 🗣 Commented on [#1404](https://github.com/typecho/typecho/issues/1404) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
