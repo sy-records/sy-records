@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1401](https://github.com/typecho/typecho/issues/1401) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🗣 Commented on [#1401](https://github.com/typecho/typecho/issues/1401) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🗣 Commented on [#34](https://github.com/simple-swoole/simps/issues/34) in [simple-swoole/simps](https://github.com/simple-swoole/simps)
-4. 🎉 Merged PR [#206](https://github.com/docsifyjs/awesome-docsify/pull/206) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-5. ❗️ Closed issue [#1406](https://github.com/typecho/typecho/issues/1406) in [typecho/typecho](https://github.com/typecho/typecho)
+1. ❌ Closed PR [#1409](https://github.com/typecho/typecho/pull/1409) in [typecho/typecho](https://github.com/typecho/typecho)
+2. ❌ Closed PR [#1408](https://github.com/typecho/typecho/pull/1408) in [typecho/typecho](https://github.com/typecho/typecho)
+3. ❗️ Closed issue [#1401](https://github.com/typecho/typecho/issues/1401) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🗣 Commented on [#1401](https://github.com/typecho/typecho/issues/1401) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 🗣 Commented on [#34](https://github.com/simple-swoole/simps/issues/34) in [simple-swoole/simps](https://github.com/simple-swoole/simps)
 <!--END_SECTION:activity-->
 
 </details>
