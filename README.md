@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#206](https://github.com/docsifyjs/awesome-docsify/pull/206) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-2. ❗️ Closed issue [#1406](https://github.com/typecho/typecho/issues/1406) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🗣 Commented on [#1406](https://github.com/typecho/typecho/issues/1406) in [typecho/typecho](https://github.com/typecho/typecho)
-4. ❗️ Closed issue [#303](https://github.com/top-think/think-swoole/issues/303) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
-5. 🗣 Commented on [#303](https://github.com/top-think/think-swoole/issues/303) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
+1. ❗️ Closed issue [#1401](https://github.com/typecho/typecho/issues/1401) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 🗣 Commented on [#1401](https://github.com/typecho/typecho/issues/1401) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🗣 Commented on [#34](https://github.com/simple-swoole/simps/issues/34) in [simple-swoole/simps](https://github.com/simple-swoole/simps)
+4. 🎉 Merged PR [#206](https://github.com/docsifyjs/awesome-docsify/pull/206) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+5. ❗️ Closed issue [#1406](https://github.com/typecho/typecho/issues/1406) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
