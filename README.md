@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1407](https://github.com/typecho/typecho/issues/1407) in [typecho/typecho](https://github.com/typecho/typecho)
-2. ❌ Closed PR [#1409](https://github.com/typecho/typecho/pull/1409) in [typecho/typecho](https://github.com/typecho/typecho)
-3. ❌ Closed PR [#1408](https://github.com/typecho/typecho/pull/1408) in [typecho/typecho](https://github.com/typecho/typecho)
-4. ❗️ Closed issue [#1401](https://github.com/typecho/typecho/issues/1401) in [typecho/typecho](https://github.com/typecho/typecho)
-5. 🗣 Commented on [#1401](https://github.com/typecho/typecho/issues/1401) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🎉 Merged PR [#224](https://github.com/php/doc-zh/pull/224) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 🗣 Commented on [#4417](https://github.com/hyperf/hyperf/issues/4417) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+3. ❗️ Closed issue [#1407](https://github.com/typecho/typecho/issues/1407) in [typecho/typecho](https://github.com/typecho/typecho)
+4. ❌ Closed PR [#1409](https://github.com/typecho/typecho/pull/1409) in [typecho/typecho](https://github.com/typecho/typecho)
+5. ❌ Closed PR [#1408](https://github.com/typecho/typecho/pull/1408) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
