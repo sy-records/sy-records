@@ -15,10 +15,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#510](https://github.com/laravel/octane/issues/510) in [laravel/octane](https://github.com/laravel/octane)
-2. ❗️ Closed issue [#10](https://github.com/hyperf/http-server/issues/10) in [hyperf/http-server](https://github.com/hyperf/http-server)
-3. 🗣 Commented on [#10](https://github.com/hyperf/http-server/issues/10) in [hyperf/http-server](https://github.com/hyperf/http-server)
-4. ❌ Closed PR [#9](https://github.com/hyperf/http-server/pull/9) in [hyperf/http-server](https://github.com/hyperf/http-server)
-5. ❗️ Closed issue [#4645](https://github.com/hyperf/hyperf/issues/4645) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+2. 🎉 Merged PR [#225](https://github.com/php/doc-zh/pull/225) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🗣 Commented on [#510](https://github.com/laravel/octane/issues/510) in [laravel/octane](https://github.com/laravel/octane)
+4. 🗣 Commented on [#510](https://github.com/laravel/octane/issues/510) in [laravel/octane](https://github.com/laravel/octane)
+5. ❗️ Closed issue [#10](https://github.com/hyperf/http-server/issues/10) in [hyperf/http-server](https://github.com/hyperf/http-server)
 <!--END_SECTION:activity-->
 
 </details>
