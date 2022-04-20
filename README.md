@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#510](https://github.com/laravel/octane/issues/510) in [laravel/octane](https://github.com/laravel/octane)
-2. 🗣 Commented on [#510](https://github.com/laravel/octane/issues/510) in [laravel/octane](https://github.com/laravel/octane)
-3. 🎉 Merged PR [#225](https://github.com/php/doc-zh/pull/225) in [php/doc-zh](https://github.com/php/doc-zh)
+1. 🗣 Commented on [#1790](https://github.com/docsifyjs/docsify/issues/1790) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. ❗️ Closed issue [#1790](https://github.com/docsifyjs/docsify/issues/1790) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 🗣 Commented on [#510](https://github.com/laravel/octane/issues/510) in [laravel/octane](https://github.com/laravel/octane)
 4. 🗣 Commented on [#510](https://github.com/laravel/octane/issues/510) in [laravel/octane](https://github.com/laravel/octane)
-5. 🗣 Commented on [#510](https://github.com/laravel/octane/issues/510) in [laravel/octane](https://github.com/laravel/octane)
+5. 🎉 Merged PR [#225](https://github.com/php/doc-zh/pull/225) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
