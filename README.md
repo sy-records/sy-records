@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1790](https://github.com/docsifyjs/docsify/issues/1790) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. 🗣 Commented on [#1790](https://github.com/docsifyjs/docsify/issues/1790) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+1. ❗️ Closed issue [#1413](https://github.com/typecho/typecho/issues/1413) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 🗣 Commented on [#1413](https://github.com/typecho/typecho/issues/1413) in [typecho/typecho](https://github.com/typecho/typecho)
 3. 🗣 Commented on [#1790](https://github.com/docsifyjs/docsify/issues/1790) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 4. 🗣 Commented on [#1790](https://github.com/docsifyjs/docsify/issues/1790) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-5. ❗️ Closed issue [#1790](https://github.com/docsifyjs/docsify/issues/1790) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 🗣 Commented on [#1790](https://github.com/docsifyjs/docsify/issues/1790) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
 </details>
