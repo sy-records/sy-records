@@ -14,9 +14,9 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1413](https://github.com/typecho/typecho/issues/1413) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🗣 Commented on [#1413](https://github.com/typecho/typecho/issues/1413) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🗣 Commented on [#1790](https://github.com/docsifyjs/docsify/issues/1790) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+1. 💪 Opened PR [#226](https://github.com/php/doc-zh/pull/226) in [php/doc-zh](https://github.com/php/doc-zh)
+2. ❗️ Closed issue [#1413](https://github.com/typecho/typecho/issues/1413) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🗣 Commented on [#1413](https://github.com/typecho/typecho/issues/1413) in [typecho/typecho](https://github.com/typecho/typecho)
 4. 🗣 Commented on [#1790](https://github.com/docsifyjs/docsify/issues/1790) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 5. 🗣 Commented on [#1790](https://github.com/docsifyjs/docsify/issues/1790) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
