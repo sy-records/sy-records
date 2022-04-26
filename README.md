@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/OpenSourceWin/OpenSourceWin.github.io/pull/46) in [OpenSourceWin/OpenSourceWin.github.io](https://github.com/OpenSourceWin/OpenSourceWin.github.io)
-2. 💪 Opened PR [#265](https://github.com/tencentyun/cos-php-sdk-v5/pull/265) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
-3. 💪 Opened PR [#20](https://github.com/Tencent-Cloud-Plugins/tencentcloud-wordpress-plugin-cos/pull/20) in [Tencent-Cloud-Plugins/tencentcloud-wordpress-plugin-cos](https://github.com/Tencent-Cloud-Plugins/tencentcloud-wordpress-plugin-cos)
-4. 🎉 Merged PR [#207](https://github.com/docsifyjs/awesome-docsify/pull/207) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-5. ❗️ Closed issue [#6](https://github.com/sy-records/qiniu-kodo-wordpress/issues/6) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
+1. 🎉 Merged PR [#46](https://github.com/OpenSourceWin/OpenSourceWin.github.io/pull/46) in [OpenSourceWin/OpenSourceWin.github.io](https://github.com/OpenSourceWin/OpenSourceWin.github.io)
+2. 💪 Opened PR [#46](https://github.com/OpenSourceWin/OpenSourceWin.github.io/pull/46) in [OpenSourceWin/OpenSourceWin.github.io](https://github.com/OpenSourceWin/OpenSourceWin.github.io)
+3. 💪 Opened PR [#265](https://github.com/tencentyun/cos-php-sdk-v5/pull/265) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
+4. 💪 Opened PR [#20](https://github.com/Tencent-Cloud-Plugins/tencentcloud-wordpress-plugin-cos/pull/20) in [Tencent-Cloud-Plugins/tencentcloud-wordpress-plugin-cos](https://github.com/Tencent-Cloud-Plugins/tencentcloud-wordpress-plugin-cos)
+5. 🎉 Merged PR [#207](https://github.com/docsifyjs/awesome-docsify/pull/207) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
 <!--END_SECTION:activity-->
 
 </details>
