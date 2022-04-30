@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#230](https://github.com/php/doc-zh/pull/230) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 🗣 Commented on [#511](https://github.com/laravel/octane/issues/511) in [laravel/octane](https://github.com/laravel/octane)
-3. 💪 Opened PR [#4718](https://github.com/hyperf/hyperf/pull/4718) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-4. ❗️ Closed issue [#1795](https://github.com/docsifyjs/docsify/issues/1795) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-5. 🗣 Commented on [#1795](https://github.com/docsifyjs/docsify/issues/1795) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+1. 🗣 Commented on [#1794](https://github.com/docsifyjs/docsify/issues/1794) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. 🎉 Merged PR [#230](https://github.com/php/doc-zh/pull/230) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🗣 Commented on [#511](https://github.com/laravel/octane/issues/511) in [laravel/octane](https://github.com/laravel/octane)
+4. 💪 Opened PR [#4718](https://github.com/hyperf/hyperf/pull/4718) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+5. ❗️ Closed issue [#1795](https://github.com/docsifyjs/docsify/issues/1795) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
 </details>
