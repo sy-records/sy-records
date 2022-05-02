@@ -15,10 +15,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1794](https://github.com/docsifyjs/docsify/issues/1794) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. 🗣 Commented on [#1424](https://github.com/typecho/typecho/issues/1424) in [typecho/typecho](https://github.com/typecho/typecho)
-3. ❗️ Closed issue [#223](https://github.com/php/doc-zh/issues/223) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 🗣 Commented on [#6](https://github.com/sy-records/qiniu-kodo-wordpress/issues/6) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
-5. 🗣 Commented on [#1794](https://github.com/docsifyjs/docsify/issues/1794) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. 🗣 Commented on [#1423](https://github.com/typecho/typecho/issues/1423) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🗣 Commented on [#1794](https://github.com/docsifyjs/docsify/issues/1794) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+4. 🗣 Commented on [#1424](https://github.com/typecho/typecho/issues/1424) in [typecho/typecho](https://github.com/typecho/typecho)
+5. ❗️ Closed issue [#223](https://github.com/php/doc-zh/issues/223) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
