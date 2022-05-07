@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1428](https://github.com/typecho/typecho/issues/1428) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 💪 Opened PR [#1431](https://github.com/typecho/typecho/pull/1431) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🗣 Commented on [#1428](https://github.com/typecho/typecho/issues/1428) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🎉 Merged PR [#48](https://github.com/OpenSourceWin/OpenSourceWin.github.io/pull/48) in [OpenSourceWin/OpenSourceWin.github.io](https://github.com/OpenSourceWin/OpenSourceWin.github.io)
+2. 🗣 Commented on [#1428](https://github.com/typecho/typecho/issues/1428) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 💪 Opened PR [#1431](https://github.com/typecho/typecho/pull/1431) in [typecho/typecho](https://github.com/typecho/typecho)
 4. 🗣 Commented on [#1428](https://github.com/typecho/typecho/issues/1428) in [typecho/typecho](https://github.com/typecho/typecho)
-5. 💪 Opened PR [#307](https://github.com/top-think/think-swoole/pull/307) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
+5. 🗣 Commented on [#1428](https://github.com/typecho/typecho/issues/1428) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
