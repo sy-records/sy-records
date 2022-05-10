@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#208](https://github.com/docsifyjs/awesome-docsify/pull/208) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-2. 🎉 Merged PR [#232](https://github.com/php/doc-zh/pull/232) in [php/doc-zh](https://github.com/php/doc-zh)
-3. ❗️ Closed issue [#2710](https://github.com/top-think/framework/issues/2710) in [top-think/framework](https://github.com/top-think/framework)
-4. ❗️ Closed issue [#10](https://github.com/sy-records/aliyun-oss-wordpress/issues/10) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
-5. 🗣 Commented on [#10](https://github.com/sy-records/aliyun-oss-wordpress/issues/10) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+1. ❗️ Closed issue [#1437](https://github.com/typecho/typecho/issues/1437) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 🗣 Commented on [#1437](https://github.com/typecho/typecho/issues/1437) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🎉 Merged PR [#208](https://github.com/docsifyjs/awesome-docsify/pull/208) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+4. 🎉 Merged PR [#232](https://github.com/php/doc-zh/pull/232) in [php/doc-zh](https://github.com/php/doc-zh)
+5. ❗️ Closed issue [#2710](https://github.com/top-think/framework/issues/2710) in [top-think/framework](https://github.com/top-think/framework)
 <!--END_SECTION:activity-->
 
 </details>
