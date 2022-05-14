@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#210](https://github.com/docsifyjs/awesome-docsify/pull/210) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-2. 💪 Opened PR [#150](https://github.com/swoole/library/pull/150) in [swoole/library](https://github.com/swoole/library)
-3. 🎉 Merged PR [#235](https://github.com/php/doc-zh/pull/235) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 💪 Opened PR [#235](https://github.com/php/doc-zh/pull/235) in [php/doc-zh](https://github.com/php/doc-zh)
-5. ❗️ Closed issue [#1794](https://github.com/docsifyjs/docsify/issues/1794) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+1. 🎉 Merged PR [#210](https://github.com/docsifyjs/awesome-docsify/pull/210) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+2. ❗️ Closed issue [#209](https://github.com/docsifyjs/awesome-docsify/issues/209) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+3. 💪 Opened PR [#210](https://github.com/docsifyjs/awesome-docsify/pull/210) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+4. 💪 Opened PR [#150](https://github.com/swoole/library/pull/150) in [swoole/library](https://github.com/swoole/library)
+5. 🎉 Merged PR [#235](https://github.com/php/doc-zh/pull/235) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
