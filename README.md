@@ -15,10 +15,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1802](https://github.com/docsifyjs/docsify/issues/1802) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. 🎉 Merged PR [#237](https://github.com/php/doc-zh/pull/237) in [php/doc-zh](https://github.com/php/doc-zh)
-3. 🗣 Commented on [#1801](https://github.com/docsifyjs/docsify/issues/1801) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. ❗️ Closed issue [#1801](https://github.com/docsifyjs/docsify/issues/1801) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-5. 💪 Opened PR [#1442](https://github.com/typecho/typecho/pull/1442) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 🗣 Commented on [#1802](https://github.com/docsifyjs/docsify/issues/1802) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 🎉 Merged PR [#237](https://github.com/php/doc-zh/pull/237) in [php/doc-zh](https://github.com/php/doc-zh)
+4. 🗣 Commented on [#1801](https://github.com/docsifyjs/docsify/issues/1801) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. ❗️ Closed issue [#1801](https://github.com/docsifyjs/docsify/issues/1801) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
 </details>
