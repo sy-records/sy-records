@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/sy-records"><img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile/images/202007/huaji.gif" align="right" height="150"></a>
+<a href="https://github.com/sy-records"><img src="https://raw.githubusercontent.com/sy-records/staticfile/master/images/202007/huaji.gif" align="right" height="150"></a>
 
 🎉 Welcome to my GitHub profile, it's great to meet you here!
 
