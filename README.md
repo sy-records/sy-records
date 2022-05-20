@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/mix-go/mix/pull/20) in [mix-go/mix](https://github.com/mix-go/mix)
-2. 💪 Opened PR [#114](https://github.com/mix-php/mix/pull/114) in [mix-php/mix](https://github.com/mix-php/mix)
-3. 💪 Opened PR [#2](https://github.com/connmix/docs/pull/2) in [connmix/docs](https://github.com/connmix/docs)
-4. 💪 Opened PR [#238](https://github.com/php/doc-zh/pull/238) in [php/doc-zh](https://github.com/php/doc-zh)
-5. ❗️ Closed issue [#4767](https://github.com/hyperf/hyperf/issues/4767) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+1. ❗️ Closed issue [#4771](https://github.com/hyperf/hyperf/issues/4771) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+2. 🗣 Commented on [#4771](https://github.com/hyperf/hyperf/issues/4771) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+3. 💪 Opened PR [#20](https://github.com/mix-go/mix/pull/20) in [mix-go/mix](https://github.com/mix-go/mix)
+4. 💪 Opened PR [#114](https://github.com/mix-php/mix/pull/114) in [mix-php/mix](https://github.com/mix-php/mix)
+5. 💪 Opened PR [#2](https://github.com/connmix/docs/pull/2) in [connmix/docs](https://github.com/connmix/docs)
 <!--END_SECTION:activity-->
 
 </details>
