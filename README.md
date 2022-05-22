@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#238](https://github.com/php/doc-zh/pull/238) in [php/doc-zh](https://github.com/php/doc-zh)
-2. ❗️ Closed issue [#4771](https://github.com/hyperf/hyperf/issues/4771) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-3. 🗣 Commented on [#4771](https://github.com/hyperf/hyperf/issues/4771) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-4. 💪 Opened PR [#20](https://github.com/mix-go/mix/pull/20) in [mix-go/mix](https://github.com/mix-go/mix)
-5. 💪 Opened PR [#114](https://github.com/mix-php/mix/pull/114) in [mix-php/mix](https://github.com/mix-php/mix)
+1. 💪 Opened PR [#239](https://github.com/php/doc-zh/pull/239) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 🎉 Merged PR [#238](https://github.com/php/doc-zh/pull/238) in [php/doc-zh](https://github.com/php/doc-zh)
+3. ❗️ Closed issue [#4771](https://github.com/hyperf/hyperf/issues/4771) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+4. 🗣 Commented on [#4771](https://github.com/hyperf/hyperf/issues/4771) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+5. 💪 Opened PR [#20](https://github.com/mix-go/mix/pull/20) in [mix-go/mix](https://github.com/mix-go/mix)
 <!--END_SECTION:activity-->
 
 </details>
