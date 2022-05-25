@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#219](https://github.com/php/doc-zh/pull/219) in [php/doc-zh](https://github.com/php/doc-zh)
-2. ❗️ Opened issue [#149](https://github.com/Finb/Bark/issues/149) in [Finb/Bark](https://github.com/Finb/Bark)
-3. 🎉 Merged PR [#150](https://github.com/swoole/library/pull/150) in [swoole/library](https://github.com/swoole/library)
-4. 🎉 Merged PR [#239](https://github.com/php/doc-zh/pull/239) in [php/doc-zh](https://github.com/php/doc-zh)
-5. ❗️ Closed issue [#1445](https://github.com/typecho/typecho/issues/1445) in [typecho/typecho](https://github.com/typecho/typecho)
+1. ❗️ Closed issue [#1808](https://github.com/docsifyjs/docsify/issues/1808) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. 🗣 Commented on [#1808](https://github.com/docsifyjs/docsify/issues/1808) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 🎉 Merged PR [#219](https://github.com/php/doc-zh/pull/219) in [php/doc-zh](https://github.com/php/doc-zh)
+4. ❗️ Opened issue [#149](https://github.com/Finb/Bark/issues/149) in [Finb/Bark](https://github.com/Finb/Bark)
+5. 🎉 Merged PR [#150](https://github.com/swoole/library/pull/150) in [swoole/library](https://github.com/swoole/library)
 <!--END_SECTION:activity-->
 
 </details>
