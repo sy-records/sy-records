@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1446](https://github.com/typecho/typecho/issues/1446) in [typecho/typecho](https://github.com/typecho/typecho)
+1. ❗️ Closed issue [#1446](https://github.com/typecho/typecho/issues/1446) in [typecho/typecho](https://github.com/typecho/typecho)
 2. 🗣 Commented on [#1446](https://github.com/typecho/typecho/issues/1446) in [typecho/typecho](https://github.com/typecho/typecho)
-3. ❗️ Closed issue [#1808](https://github.com/docsifyjs/docsify/issues/1808) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. 🗣 Commented on [#1808](https://github.com/docsifyjs/docsify/issues/1808) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-5. 🎉 Merged PR [#219](https://github.com/php/doc-zh/pull/219) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🗣 Commented on [#1446](https://github.com/typecho/typecho/issues/1446) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🗣 Commented on [#1446](https://github.com/typecho/typecho/issues/1446) in [typecho/typecho](https://github.com/typecho/typecho)
+5. ❗️ Closed issue [#1808](https://github.com/docsifyjs/docsify/issues/1808) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
 </details>
