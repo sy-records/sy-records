@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/simple-swoole/simps/pull/35) in [simple-swoole/simps](https://github.com/simple-swoole/simps)
-2. 💪 Opened PR [#1450](https://github.com/typecho/typecho/pull/1450) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🎉 Merged PR [#241](https://github.com/php/doc-zh/pull/241) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 💪 Opened PR [#241](https://github.com/php/doc-zh/pull/241) in [php/doc-zh](https://github.com/php/doc-zh)
-5. ❗️ Closed issue [#39](https://github.com/docsifyjs/docs-zh/issues/39) in [docsifyjs/docs-zh](https://github.com/docsifyjs/docs-zh)
+1. 🎉 Merged PR [#211](https://github.com/docsifyjs/awesome-docsify/pull/211) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+2. 🎉 Merged PR [#35](https://github.com/simple-swoole/simps/pull/35) in [simple-swoole/simps](https://github.com/simple-swoole/simps)
+3. 💪 Opened PR [#1450](https://github.com/typecho/typecho/pull/1450) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🎉 Merged PR [#241](https://github.com/php/doc-zh/pull/241) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 💪 Opened PR [#241](https://github.com/php/doc-zh/pull/241) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
