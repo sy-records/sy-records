@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/docsifyjs/docs-zh/pull/40) in [docsifyjs/docs-zh](https://github.com/docsifyjs/docs-zh)
-2. 🎉 Merged PR [#1811](https://github.com/docsifyjs/docsify/pull/1811) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. 🗣 Commented on [#1813](https://github.com/docsifyjs/docsify/issues/1813) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. 🎉 Merged PR [#242](https://github.com/php/doc-zh/pull/242) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 🗣 Commented on [#6](https://github.com/simple-swoole/db/issues/6) in [simple-swoole/db](https://github.com/simple-swoole/db)
+1. ❗️ Closed issue [#6](https://github.com/simple-swoole/db/issues/6) in [simple-swoole/db](https://github.com/simple-swoole/db)
+2. 🗣 Commented on [#6](https://github.com/simple-swoole/db/issues/6) in [simple-swoole/db](https://github.com/simple-swoole/db)
+3. ❗️ Closed issue [#34](https://github.com/simple-swoole/simps/issues/34) in [simple-swoole/simps](https://github.com/simple-swoole/simps)
+4. 🎉 Merged PR [#40](https://github.com/docsifyjs/docs-zh/pull/40) in [docsifyjs/docs-zh](https://github.com/docsifyjs/docs-zh)
+5. 🎉 Merged PR [#1811](https://github.com/docsifyjs/docsify/pull/1811) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
 </details>
