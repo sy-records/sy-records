@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1813](https://github.com/docsifyjs/docsify/issues/1813) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. ❗️ Closed issue [#6](https://github.com/simple-swoole/db/issues/6) in [simple-swoole/db](https://github.com/simple-swoole/db)
-3. 🗣 Commented on [#6](https://github.com/simple-swoole/db/issues/6) in [simple-swoole/db](https://github.com/simple-swoole/db)
-4. ❗️ Closed issue [#34](https://github.com/simple-swoole/simps/issues/34) in [simple-swoole/simps](https://github.com/simple-swoole/simps)
-5. 🎉 Merged PR [#40](https://github.com/docsifyjs/docs-zh/pull/40) in [docsifyjs/docs-zh](https://github.com/docsifyjs/docs-zh)
+1. 🎉 Merged PR [#244](https://github.com/php/doc-zh/pull/244) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 💪 Opened PR [#244](https://github.com/php/doc-zh/pull/244) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🗣 Commented on [#1813](https://github.com/docsifyjs/docsify/issues/1813) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+4. ❗️ Closed issue [#6](https://github.com/simple-swoole/db/issues/6) in [simple-swoole/db](https://github.com/simple-swoole/db)
+5. 🗣 Commented on [#6](https://github.com/simple-swoole/db/issues/6) in [simple-swoole/db](https://github.com/simple-swoole/db)
 <!--END_SECTION:activity-->
 
 </details>
