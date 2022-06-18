@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#22](https://github.com/sy-records/wordpress-qcloud-cos/pull/22) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-2. 🗣 Commented on [#1464](https://github.com/typecho/typecho/issues/1464) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 💪 Opened PR [#1464](https://github.com/typecho/typecho/pull/1464) in [typecho/typecho](https://github.com/typecho/typecho)
-4. 🎉 Merged PR [#247](https://github.com/php/doc-zh/pull/247) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 🗣 Commented on [#179](https://github.com/docsifyjs/docsify-cli/issues/179) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+1. 💪 Opened PR [#248](https://github.com/php/doc-zh/pull/248) in [php/doc-zh](https://github.com/php/doc-zh)
+2. ❌ Closed PR [#22](https://github.com/sy-records/wordpress-qcloud-cos/pull/22) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+3. 🗣 Commented on [#1464](https://github.com/typecho/typecho/issues/1464) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 💪 Opened PR [#1464](https://github.com/typecho/typecho/pull/1464) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 🎉 Merged PR [#247](https://github.com/php/doc-zh/pull/247) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
