@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#249](https://github.com/php/doc-zh/pull/249) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 🗣 Commented on [#1640](https://github.com/php/doc-en/issues/1640) in [php/doc-en](https://github.com/php/doc-en)
-3. ❌ Closed PR [#7](https://github.com/sy-records/volcengine-imagex-wordpress/pull/7) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
-4. 🎉 Merged PR [#4](https://github.com/swoole/benchmark/pull/4) in [swoole/benchmark](https://github.com/swoole/benchmark)
-5. ❌ Closed PR [#23](https://github.com/sy-records/wordpress-qcloud-cos/pull/23) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+1. 🗣 Commented on [#1823](https://github.com/docsifyjs/docsify/issues/1823) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. 🎉 Merged PR [#249](https://github.com/php/doc-zh/pull/249) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🗣 Commented on [#1640](https://github.com/php/doc-en/issues/1640) in [php/doc-en](https://github.com/php/doc-en)
+4. ❌ Closed PR [#7](https://github.com/sy-records/volcengine-imagex-wordpress/pull/7) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+5. 🎉 Merged PR [#4](https://github.com/swoole/benchmark/pull/4) in [swoole/benchmark](https://github.com/swoole/benchmark)
 <!--END_SECTION:activity-->
 
 </details>
