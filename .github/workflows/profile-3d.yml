@@ -15,11 +15,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: push profile-3d-contrib to the 3d branch
+      - name: push profile-3d-contrib
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
-          target_branch: 3d
-          build_dir: .
+          target_branch: profile-3d-contrib
+          build_dir: profile-3d-contrib
           author: sy-records <52o@qq52o.cn>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
