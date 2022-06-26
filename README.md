@@ -32,6 +32,14 @@
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/sy-records/sy-records/output/github-contribution-grid-snake.svg)](https://github.com/sy-records)
 
+<details>
+<summary>😎 View my contributions in 3D</summary>
+
+![](https://raw.githubusercontent.com/sy-records/sy-records/profile-3d-contrib/profile-green.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/sy-records/sy-records/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+
+</details>
+
 <!--
 ( ๑ˊ•̥▵•)੭₎₎ Welcome to follow me and give me a star :)
 -->
