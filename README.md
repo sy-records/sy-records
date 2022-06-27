@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/sy-records/qiniu-kodo-wordpress/issues/7) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
-2. 🗣 Commented on [#7](https://github.com/sy-records/qiniu-kodo-wordpress/issues/7) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
-3. 💪 Opened PR [#1471](https://github.com/typecho/typecho/pull/1471) in [typecho/typecho](https://github.com/typecho/typecho)
-4. 🎉 Merged PR [#250](https://github.com/php/doc-zh/pull/250) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 🗣 Commented on [#1823](https://github.com/docsifyjs/docsify/issues/1823) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+1. ❗️ Closed issue [#1826](https://github.com/docsifyjs/docsify/issues/1826) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. 🗣 Commented on [#1826](https://github.com/docsifyjs/docsify/issues/1826) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. ❗️ Closed issue [#7](https://github.com/sy-records/qiniu-kodo-wordpress/issues/7) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
+4. 🗣 Commented on [#7](https://github.com/sy-records/qiniu-kodo-wordpress/issues/7) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
+5. 💪 Opened PR [#1471](https://github.com/typecho/typecho/pull/1471) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
