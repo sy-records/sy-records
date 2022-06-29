@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1827](https://github.com/docsifyjs/docsify/issues/1827) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+1. 🎉 Merged PR [#251](https://github.com/php/doc-zh/pull/251) in [php/doc-zh](https://github.com/php/doc-zh)
 2. 🗣 Commented on [#1827](https://github.com/docsifyjs/docsify/issues/1827) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. ❗️ Closed issue [#1826](https://github.com/docsifyjs/docsify/issues/1826) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. 🗣 Commented on [#1826](https://github.com/docsifyjs/docsify/issues/1826) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-5. ❗️ Closed issue [#7](https://github.com/sy-records/qiniu-kodo-wordpress/issues/7) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
+3. 🗣 Commented on [#1827](https://github.com/docsifyjs/docsify/issues/1827) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+4. ❗️ Closed issue [#1826](https://github.com/docsifyjs/docsify/issues/1826) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 🗣 Commented on [#1826](https://github.com/docsifyjs/docsify/issues/1826) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
 </details>
