@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1830](https://github.com/docsifyjs/docsify/issues/1830) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. 🗣 Commented on [#1830](https://github.com/docsifyjs/docsify/issues/1830) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. 🎉 Merged PR [#253](https://github.com/php/doc-zh/pull/253) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 🗣 Commented on [#147](https://github.com/swlib/saber/issues/147) in [swlib/saber](https://github.com/swlib/saber)
-5. 🎉 Merged PR [#251](https://github.com/php/doc-zh/pull/251) in [php/doc-zh](https://github.com/php/doc-zh)
+1. 💪 Opened PR [#256](https://github.com/php/doc-zh/pull/256) in [php/doc-zh](https://github.com/php/doc-zh)
+2. ❗️ Closed issue [#1830](https://github.com/docsifyjs/docsify/issues/1830) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 🗣 Commented on [#1830](https://github.com/docsifyjs/docsify/issues/1830) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+4. 🎉 Merged PR [#253](https://github.com/php/doc-zh/pull/253) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 🗣 Commented on [#147](https://github.com/swlib/saber/issues/147) in [swlib/saber](https://github.com/swlib/saber)
 <!--END_SECTION:activity-->
 
 </details>
