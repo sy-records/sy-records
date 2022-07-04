@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1472](https://github.com/typecho/typecho/issues/1472) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 💪 Opened PR [#213](https://github.com/docsifyjs/awesome-docsify/pull/213) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-3. 🗣 Commented on [#212](https://github.com/docsifyjs/awesome-docsify/issues/212) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-4. 🎉 Merged PR [#256](https://github.com/php/doc-zh/pull/256) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 🗣 Commented on [#256](https://github.com/php/doc-zh/issues/256) in [php/doc-zh](https://github.com/php/doc-zh)
+1. ❗️ Closed issue [#1472](https://github.com/typecho/typecho/issues/1472) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 🗣 Commented on [#1472](https://github.com/typecho/typecho/issues/1472) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 💪 Opened PR [#213](https://github.com/docsifyjs/awesome-docsify/pull/213) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+4. 🗣 Commented on [#212](https://github.com/docsifyjs/awesome-docsify/issues/212) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+5. 🎉 Merged PR [#256](https://github.com/php/doc-zh/pull/256) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
