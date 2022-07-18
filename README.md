@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#220](https://github.com/docsifyjs/awesome-docsify/pull/220) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-2. ❌ Closed PR [#219](https://github.com/docsifyjs/awesome-docsify/pull/219) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-3. 🗣 Commented on [#219](https://github.com/docsifyjs/awesome-docsify/issues/219) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-4. 💪 Opened PR [#219](https://github.com/docsifyjs/awesome-docsify/pull/219) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-5. 🗣 Commented on [#1471](https://github.com/typecho/typecho/issues/1471) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🎉 Merged PR [#220](https://github.com/docsifyjs/awesome-docsify/pull/220) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+2. 💪 Opened PR [#220](https://github.com/docsifyjs/awesome-docsify/pull/220) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+3. ❌ Closed PR [#219](https://github.com/docsifyjs/awesome-docsify/pull/219) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+4. 🗣 Commented on [#219](https://github.com/docsifyjs/awesome-docsify/issues/219) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+5. 💪 Opened PR [#219](https://github.com/docsifyjs/awesome-docsify/pull/219) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
 <!--END_SECTION:activity-->
 
 </details>
