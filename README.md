@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#268](https://github.com/php/doc-zh/pull/268) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 🎉 Merged PR [#267](https://github.com/php/doc-zh/pull/267) in [php/doc-zh](https://github.com/php/doc-zh)
-3. 💪 Opened PR [#267](https://github.com/php/doc-zh/pull/267) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 🗣 Commented on [#825](https://github.com/typecho/typecho/issues/825) in [typecho/typecho](https://github.com/typecho/typecho)
-5. ❌ Closed PR [#825](https://github.com/typecho/typecho/pull/825) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🎉 Merged PR [#268](https://github.com/php/doc-zh/pull/268) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 💪 Opened PR [#268](https://github.com/php/doc-zh/pull/268) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🎉 Merged PR [#267](https://github.com/php/doc-zh/pull/267) in [php/doc-zh](https://github.com/php/doc-zh)
+4. 💪 Opened PR [#267](https://github.com/php/doc-zh/pull/267) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 🗣 Commented on [#825](https://github.com/typecho/typecho/issues/825) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
