@@ -15,10 +15,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#79](https://github.com/simps/mqtt/issues/79) in [simps/mqtt](https://github.com/simps/mqtt)
-2. 🗣 Commented on [#79](https://github.com/simps/mqtt/issues/79) in [simps/mqtt](https://github.com/simps/mqtt)
-3. 🎉 Merged PR [#268](https://github.com/php/doc-zh/pull/268) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 💪 Opened PR [#268](https://github.com/php/doc-zh/pull/268) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 🎉 Merged PR [#267](https://github.com/php/doc-zh/pull/267) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 💪 Opened PR [#80](https://github.com/simps/mqtt/pull/80) in [simps/mqtt](https://github.com/simps/mqtt)
+3. 🗣 Commented on [#79](https://github.com/simps/mqtt/issues/79) in [simps/mqtt](https://github.com/simps/mqtt)
+4. 🗣 Commented on [#79](https://github.com/simps/mqtt/issues/79) in [simps/mqtt](https://github.com/simps/mqtt)
+5. 🎉 Merged PR [#268](https://github.com/php/doc-zh/pull/268) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
