@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/seata/seata-php/pull/23) in [seata/seata-php](https://github.com/seata/seata-php)
-2. 💪 Opened PR [#277](https://github.com/php/doc-zh/pull/277) in [php/doc-zh](https://github.com/php/doc-zh)
-3. 💪 Opened PR [#275](https://github.com/tencentyun/cos-php-sdk-v5/pull/275) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
-4. 🗣 Commented on [#5018](https://github.com/hyperf/hyperf/issues/5018) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-5. 🗣 Commented on [#5018](https://github.com/hyperf/hyperf/issues/5018) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+1. 🎉 Merged PR [#277](https://github.com/php/doc-zh/pull/277) in [php/doc-zh](https://github.com/php/doc-zh)
+2. ❗️ Closed issue [#312](https://github.com/top-think/think-swoole/issues/312) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
+3. 💪 Opened PR [#23](https://github.com/seata/seata-php/pull/23) in [seata/seata-php](https://github.com/seata/seata-php)
+4. 💪 Opened PR [#277](https://github.com/php/doc-zh/pull/277) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 💪 Opened PR [#275](https://github.com/tencentyun/cos-php-sdk-v5/pull/275) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
 <!--END_SECTION:activity-->
 
 </details>
