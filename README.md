@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5043](https://github.com/hyperf/hyperf/issues/5043) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-2. 🗣 Commented on [#5043](https://github.com/hyperf/hyperf/issues/5043) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-3. 🎉 Merged PR [#222](https://github.com/docsifyjs/awesome-docsify/pull/222) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-4. 🎉 Merged PR [#277](https://github.com/php/doc-zh/pull/277) in [php/doc-zh](https://github.com/php/doc-zh)
-5. ❗️ Closed issue [#312](https://github.com/top-think/think-swoole/issues/312) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
+1. 💪 Opened PR [#278](https://github.com/php/doc-zh/pull/278) in [php/doc-zh](https://github.com/php/doc-zh)
+2. ❗️ Closed issue [#5043](https://github.com/hyperf/hyperf/issues/5043) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+3. 🗣 Commented on [#5043](https://github.com/hyperf/hyperf/issues/5043) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+4. 🎉 Merged PR [#222](https://github.com/docsifyjs/awesome-docsify/pull/222) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+5. 🎉 Merged PR [#277](https://github.com/php/doc-zh/pull/277) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
