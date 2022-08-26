@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#284](https://github.com/php/doc-zh/pull/284) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 🎉 Merged PR [#282](https://github.com/php/doc-zh/pull/282) in [php/doc-zh](https://github.com/php/doc-zh)
-3. 🎉 Merged PR [#224](https://github.com/docsifyjs/awesome-docsify/pull/224) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-4. 🎉 Merged PR [#223](https://github.com/docsifyjs/awesome-docsify/pull/223) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-5. 🗣 Commented on [#1863](https://github.com/docsifyjs/docsify/issues/1863) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+1. 🎉 Merged PR [#285](https://github.com/php/doc-zh/pull/285) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 🎉 Merged PR [#284](https://github.com/php/doc-zh/pull/284) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🎉 Merged PR [#282](https://github.com/php/doc-zh/pull/282) in [php/doc-zh](https://github.com/php/doc-zh)
+4. 🎉 Merged PR [#224](https://github.com/docsifyjs/awesome-docsify/pull/224) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+5. 🎉 Merged PR [#223](https://github.com/docsifyjs/awesome-docsify/pull/223) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
 <!--END_SECTION:activity-->
 
 </details>
