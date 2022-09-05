@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#83](https://github.com/simps/mqtt/pull/83) in [simps/mqtt](https://github.com/simps/mqtt)
-2. 🗣 Commented on [#82](https://github.com/simps/mqtt/issues/82) in [simps/mqtt](https://github.com/simps/mqtt)
-3. 🗣 Commented on [#1494](https://github.com/typecho/typecho/issues/1494) in [typecho/typecho](https://github.com/typecho/typecho)
-4. 🎉 Merged PR [#226](https://github.com/docsifyjs/awesome-docsify/pull/226) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-5. 🗣 Commented on [#75](https://github.com/easysoft/zentaopms/issues/75) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+1. 🎉 Merged PR [#83](https://github.com/simps/mqtt/pull/83) in [simps/mqtt](https://github.com/simps/mqtt)
+2. ❗️ Closed issue [#5075](https://github.com/hyperf/hyperf/issues/5075) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+3. 🗣 Commented on [#5075](https://github.com/hyperf/hyperf/issues/5075) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+4. 💪 Opened PR [#83](https://github.com/simps/mqtt/pull/83) in [simps/mqtt](https://github.com/simps/mqtt)
+5. 🗣 Commented on [#82](https://github.com/simps/mqtt/issues/82) in [simps/mqtt](https://github.com/simps/mqtt)
 <!--END_SECTION:activity-->
 
 </details>
