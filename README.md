@@ -16,9 +16,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1494](https://github.com/typecho/typecho/issues/1494) in [typecho/typecho](https://github.com/typecho/typecho)
 2. 🗣 Commented on [#1494](https://github.com/typecho/typecho/issues/1494) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🗣 Commented on [#1860](https://github.com/docsifyjs/docsify/issues/1860) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. 🎉 Merged PR [#315](https://github.com/php/doc-zh/pull/315) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 💪 Opened PR [#315](https://github.com/php/doc-zh/pull/315) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🗣 Commented on [#1494](https://github.com/typecho/typecho/issues/1494) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🗣 Commented on [#1860](https://github.com/docsifyjs/docsify/issues/1860) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 🎉 Merged PR [#315](https://github.com/php/doc-zh/pull/315) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
