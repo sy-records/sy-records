@@ -14,10 +14,10 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#319](https://github.com/php/doc-zh/pull/319) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 🎉 Merged PR [#318](https://github.com/php/doc-zh/pull/318) in [php/doc-zh](https://github.com/php/doc-zh)
-3. 💪 Opened PR [#318](https://github.com/php/doc-zh/pull/318) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 🗣 Commented on [#1494](https://github.com/typecho/typecho/issues/1494) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🎉 Merged PR [#227](https://github.com/docsifyjs/awesome-docsify/pull/227) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+2. 💪 Opened PR [#319](https://github.com/php/doc-zh/pull/319) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🎉 Merged PR [#318](https://github.com/php/doc-zh/pull/318) in [php/doc-zh](https://github.com/php/doc-zh)
+4. 💪 Opened PR [#318](https://github.com/php/doc-zh/pull/318) in [php/doc-zh](https://github.com/php/doc-zh)
 5. 🗣 Commented on [#1494](https://github.com/typecho/typecho/issues/1494) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
