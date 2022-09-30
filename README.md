@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#88](https://github.com/easysoft/zentaopms/pull/88) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-2. 💪 Opened PR [#88](https://github.com/easysoft/zentaopms/pull/88) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-3. 💪 Opened PR [#590](https://github.com/laravel/octane/pull/590) in [laravel/octane](https://github.com/laravel/octane)
-4. 🎉 Merged PR [#359](https://github.com/php/doc-zh/pull/359) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 💪 Opened PR [#359](https://github.com/php/doc-zh/pull/359) in [php/doc-zh](https://github.com/php/doc-zh)
+1. 🗣 Commented on [#590](https://github.com/laravel/octane/issues/590) in [laravel/octane](https://github.com/laravel/octane)
+2. ❌ Closed PR [#88](https://github.com/easysoft/zentaopms/pull/88) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+3. 💪 Opened PR [#88](https://github.com/easysoft/zentaopms/pull/88) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+4. 💪 Opened PR [#590](https://github.com/laravel/octane/pull/590) in [laravel/octane](https://github.com/laravel/octane)
+5. 🎉 Merged PR [#359](https://github.com/php/doc-zh/pull/359) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
