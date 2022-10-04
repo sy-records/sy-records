@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1500](https://github.com/typecho/typecho/pull/1500) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 💪 Opened PR [#373](https://github.com/php/doc-zh/pull/373) in [php/doc-zh](https://github.com/php/doc-zh)
-3. 💪 Opened PR [#372](https://github.com/php/doc-zh/pull/372) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 🗣 Commented on [#590](https://github.com/laravel/octane/issues/590) in [laravel/octane](https://github.com/laravel/octane)
-5. ❌ Closed PR [#88](https://github.com/easysoft/zentaopms/pull/88) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+1. 💪 Opened PR [#1](https://github.com/lufei/docs/pull/1) in [lufei/docs](https://github.com/lufei/docs)
+2. 🗣 Commented on [#592](https://github.com/laravel/octane/issues/592) in [laravel/octane](https://github.com/laravel/octane)
+3. ❌ Closed PR [#1500](https://github.com/typecho/typecho/pull/1500) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 💪 Opened PR [#373](https://github.com/php/doc-zh/pull/373) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 💪 Opened PR [#372](https://github.com/php/doc-zh/pull/372) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
