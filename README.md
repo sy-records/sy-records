@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#373](https://github.com/php/doc-zh/pull/373) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 💪 Opened PR [#1903](https://github.com/docsifyjs/docsify/pull/1903) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. 🗣 Commented on [#321](https://github.com/top-think/think-swoole/issues/321) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
-4. 🎉 Merged PR [#372](https://github.com/php/doc-zh/pull/372) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 💪 Opened PR [#8273](https://github.com/laravel/docs/pull/8273) in [laravel/docs](https://github.com/laravel/docs)
+1. 🗣 Commented on [#374](https://github.com/php/doc-zh/issues/374) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 💪 Opened PR [#375](https://github.com/php/doc-zh/pull/375) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🎉 Merged PR [#373](https://github.com/php/doc-zh/pull/373) in [php/doc-zh](https://github.com/php/doc-zh)
+4. 💪 Opened PR [#1903](https://github.com/docsifyjs/docsify/pull/1903) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 🗣 Commented on [#321](https://github.com/top-think/think-swoole/issues/321) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
 <!--END_SECTION:activity-->
 
 </details>
