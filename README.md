@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1504](https://github.com/typecho/typecho/issues/1504) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🗣 Commented on [#1504](https://github.com/typecho/typecho/issues/1504) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🎉 Merged PR [#385](https://github.com/php/doc-zh/pull/385) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 🗣 Commented on [#1878](https://github.com/php/doc-en/issues/1878) in [php/doc-en](https://github.com/php/doc-en)
-5. 🗣 Commented on [#230](https://github.com/docsifyjs/awesome-docsify/issues/230) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+1. 💪 Opened PR [#403](https://github.com/php/doc-zh/pull/403) in [php/doc-zh](https://github.com/php/doc-zh)
+2. ❗️ Closed issue [#1504](https://github.com/typecho/typecho/issues/1504) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🗣 Commented on [#1504](https://github.com/typecho/typecho/issues/1504) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🎉 Merged PR [#385](https://github.com/php/doc-zh/pull/385) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 🗣 Commented on [#1878](https://github.com/php/doc-en/issues/1878) in [php/doc-en](https://github.com/php/doc-en)
 <!--END_SECTION:activity-->
 
 </details>
