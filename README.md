@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1507](https://github.com/typecho/typecho/issues/1507) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🎉 Merged PR [#432](https://github.com/php/doc-zh/pull/432) in [php/doc-zh](https://github.com/php/doc-zh)
-3. 🗣 Commented on [#232](https://github.com/docsifyjs/awesome-docsify/issues/232) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-4. 🗣 Commented on [#2](https://github.com/hyperf/mqtt-server-incubator/issues/2) in [hyperf/mqtt-server-incubator](https://github.com/hyperf/mqtt-server-incubator)
-5. 💪 Opened PR [#432](https://github.com/php/doc-zh/pull/432) in [php/doc-zh](https://github.com/php/doc-zh)
+1. 🎉 Merged PR [#231](https://github.com/docsifyjs/awesome-docsify/pull/231) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+2. ❗️ Closed issue [#1507](https://github.com/typecho/typecho/issues/1507) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🎉 Merged PR [#432](https://github.com/php/doc-zh/pull/432) in [php/doc-zh](https://github.com/php/doc-zh)
+4. 🗣 Commented on [#232](https://github.com/docsifyjs/awesome-docsify/issues/232) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+5. 🗣 Commented on [#2](https://github.com/hyperf/mqtt-server-incubator/issues/2) in [hyperf/mqtt-server-incubator](https://github.com/hyperf/mqtt-server-incubator)
 <!--END_SECTION:activity-->
 
 </details>
