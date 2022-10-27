@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1914](https://github.com/docsifyjs/docsify/pull/1914) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. ❗️ Closed issue [#234](https://github.com/docsifyjs/awesome-docsify/issues/234) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-3. 💪 Opened PR [#233](https://github.com/docsifyjs/awesome-docsify/pull/233) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-4. 🗣 Commented on [#1908](https://github.com/docsifyjs/docsify/issues/1908) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-5. 💪 Opened PR [#2](https://github.com/answerdev/answer/pull/2) in [answerdev/answer](https://github.com/answerdev/answer)
+1. ❌ Closed PR [#1914](https://github.com/docsifyjs/docsify/pull/1914) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. 💪 Opened PR [#1914](https://github.com/docsifyjs/docsify/pull/1914) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. ❗️ Closed issue [#234](https://github.com/docsifyjs/awesome-docsify/issues/234) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+4. 💪 Opened PR [#233](https://github.com/docsifyjs/awesome-docsify/pull/233) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+5. 🗣 Commented on [#1908](https://github.com/docsifyjs/docsify/issues/1908) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
 </details>
