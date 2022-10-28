@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#447](https://github.com/php/doc-zh/pull/447) in [php/doc-zh](https://github.com/php/doc-zh)
-2. ❌ Closed PR [#1914](https://github.com/docsifyjs/docsify/pull/1914) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. 💪 Opened PR [#1914](https://github.com/docsifyjs/docsify/pull/1914) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. ❗️ Closed issue [#234](https://github.com/docsifyjs/awesome-docsify/issues/234) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-5. 💪 Opened PR [#233](https://github.com/docsifyjs/awesome-docsify/pull/233) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+1. ❗️ Closed issue [#1917](https://github.com/docsifyjs/docsify/issues/1917) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. 🗣 Commented on [#1917](https://github.com/docsifyjs/docsify/issues/1917) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. ❗️ Closed issue [#1510](https://github.com/typecho/typecho/issues/1510) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🗣 Commented on [#1510](https://github.com/typecho/typecho/issues/1510) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 💪 Opened PR [#447](https://github.com/php/doc-zh/pull/447) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
