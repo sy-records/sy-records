@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#447](https://github.com/php/doc-zh/pull/447) in [php/doc-zh](https://github.com/php/doc-zh)
-2. ❗️ Closed issue [#1917](https://github.com/docsifyjs/docsify/issues/1917) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. 🗣 Commented on [#1917](https://github.com/docsifyjs/docsify/issues/1917) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. ❗️ Closed issue [#1510](https://github.com/typecho/typecho/issues/1510) in [typecho/typecho](https://github.com/typecho/typecho)
-5. 🗣 Commented on [#1510](https://github.com/typecho/typecho/issues/1510) in [typecho/typecho](https://github.com/typecho/typecho)
+1. ❗️ Closed issue [#230](https://github.com/docsifyjs/awesome-docsify/issues/230) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+2. 🎉 Merged PR [#233](https://github.com/docsifyjs/awesome-docsify/pull/233) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+3. 🎉 Merged PR [#447](https://github.com/php/doc-zh/pull/447) in [php/doc-zh](https://github.com/php/doc-zh)
+4. ❗️ Closed issue [#1917](https://github.com/docsifyjs/docsify/issues/1917) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 🗣 Commented on [#1917](https://github.com/docsifyjs/docsify/issues/1917) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
 </details>
