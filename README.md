@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2786](https://github.com/top-think/framework/issues/2786) in [top-think/framework](https://github.com/top-think/framework)
-2. 💪 Opened PR [#155](https://github.com/swoole/library/pull/155) in [swoole/library](https://github.com/swoole/library)
-3. ❗️ Closed issue [#153](https://github.com/swoole/library/issues/153) in [swoole/library](https://github.com/swoole/library)
-4. 🗣 Commented on [#153](https://github.com/swoole/library/issues/153) in [swoole/library](https://github.com/swoole/library)
-5. 💪 Opened PR [#86](https://github.com/simps/mqtt/pull/86) in [simps/mqtt](https://github.com/simps/mqtt)
+1. 🎉 Merged PR [#86](https://github.com/simps/mqtt/pull/86) in [simps/mqtt](https://github.com/simps/mqtt)
+2. ❗️ Closed issue [#2786](https://github.com/top-think/framework/issues/2786) in [top-think/framework](https://github.com/top-think/framework)
+3. 💪 Opened PR [#155](https://github.com/swoole/library/pull/155) in [swoole/library](https://github.com/swoole/library)
+4. ❗️ Closed issue [#153](https://github.com/swoole/library/issues/153) in [swoole/library](https://github.com/swoole/library)
+5. 🗣 Commented on [#153](https://github.com/swoole/library/issues/153) in [swoole/library](https://github.com/swoole/library)
 <!--END_SECTION:activity-->
 
 </details>
