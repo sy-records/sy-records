@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#469](https://github.com/php/doc-zh/issues/469) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 🗣 Commented on [#469](https://github.com/php/doc-zh/issues/469) in [php/doc-zh](https://github.com/php/doc-zh)
-3. ❗️ Closed issue [#232](https://github.com/docsifyjs/awesome-docsify/issues/232) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-4. 🎉 Merged PR [#236](https://github.com/docsifyjs/awesome-docsify/pull/236) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-5. 🎉 Merged PR [#86](https://github.com/simps/mqtt/pull/86) in [simps/mqtt](https://github.com/simps/mqtt)
+1. 💪 Opened PR [#471](https://github.com/php/doc-zh/pull/471) in [php/doc-zh](https://github.com/php/doc-zh)
+2. ❗️ Closed issue [#469](https://github.com/php/doc-zh/issues/469) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🗣 Commented on [#469](https://github.com/php/doc-zh/issues/469) in [php/doc-zh](https://github.com/php/doc-zh)
+4. ❗️ Closed issue [#232](https://github.com/docsifyjs/awesome-docsify/issues/232) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+5. 🎉 Merged PR [#236](https://github.com/docsifyjs/awesome-docsify/pull/236) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
 <!--END_SECTION:activity-->
 
 </details>
