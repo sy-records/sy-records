@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#471](https://github.com/php/doc-zh/pull/471) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 💪 Opened PR [#471](https://github.com/php/doc-zh/pull/471) in [php/doc-zh](https://github.com/php/doc-zh)
-3. ❗️ Closed issue [#469](https://github.com/php/doc-zh/issues/469) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 🗣 Commented on [#469](https://github.com/php/doc-zh/issues/469) in [php/doc-zh](https://github.com/php/doc-zh)
-5. ❗️ Closed issue [#232](https://github.com/docsifyjs/awesome-docsify/issues/232) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+1. ❗️ Closed issue [#1925](https://github.com/docsifyjs/docsify/issues/1925) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. 🗣 Commented on [#1925](https://github.com/docsifyjs/docsify/issues/1925) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 🎉 Merged PR [#471](https://github.com/php/doc-zh/pull/471) in [php/doc-zh](https://github.com/php/doc-zh)
+4. 💪 Opened PR [#471](https://github.com/php/doc-zh/pull/471) in [php/doc-zh](https://github.com/php/doc-zh)
+5. ❗️ Closed issue [#469](https://github.com/php/doc-zh/issues/469) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
