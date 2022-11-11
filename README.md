@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#221](https://github.com/php/doc-zh/pull/221) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 💪 Opened PR [#475](https://github.com/php/doc-zh/pull/475) in [php/doc-zh](https://github.com/php/doc-zh)
-3. ❗️ Closed issue [#1925](https://github.com/docsifyjs/docsify/issues/1925) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. 🗣 Commented on [#1925](https://github.com/docsifyjs/docsify/issues/1925) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-5. 🎉 Merged PR [#471](https://github.com/php/doc-zh/pull/471) in [php/doc-zh](https://github.com/php/doc-zh)
+1. 🗣 Commented on [#288](https://github.com/tencentyun/cos-php-sdk-v5/issues/288) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
+2. 🎉 Merged PR [#221](https://github.com/php/doc-zh/pull/221) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 💪 Opened PR [#475](https://github.com/php/doc-zh/pull/475) in [php/doc-zh](https://github.com/php/doc-zh)
+4. ❗️ Closed issue [#1925](https://github.com/docsifyjs/docsify/issues/1925) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 🗣 Commented on [#1925](https://github.com/docsifyjs/docsify/issues/1925) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
 </details>
