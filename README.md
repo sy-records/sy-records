@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1514](https://github.com/typecho/typecho/issues/1514) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🗣 Commented on [#1514](https://github.com/typecho/typecho/issues/1514) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🎉 Merged PR [#475](https://github.com/php/doc-zh/pull/475) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 🗣 Commented on [#288](https://github.com/tencentyun/cos-php-sdk-v5/issues/288) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
-5. 🎉 Merged PR [#221](https://github.com/php/doc-zh/pull/221) in [php/doc-zh](https://github.com/php/doc-zh)
+1. 🗣 Commented on [#1515](https://github.com/typecho/typecho/issues/1515) in [typecho/typecho](https://github.com/typecho/typecho)
+2. ❗️ Closed issue [#1514](https://github.com/typecho/typecho/issues/1514) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🗣 Commented on [#1514](https://github.com/typecho/typecho/issues/1514) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🎉 Merged PR [#475](https://github.com/php/doc-zh/pull/475) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 🗣 Commented on [#288](https://github.com/tencentyun/cos-php-sdk-v5/issues/288) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
 <!--END_SECTION:activity-->
 
 </details>
