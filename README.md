@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](https://github.com/simps/mqtt/pull/87) in [simps/mqtt](https://github.com/simps/mqtt)
-2. 🗣 Commented on [#1515](https://github.com/typecho/typecho/issues/1515) in [typecho/typecho](https://github.com/typecho/typecho)
-3. ❗️ Closed issue [#1514](https://github.com/typecho/typecho/issues/1514) in [typecho/typecho](https://github.com/typecho/typecho)
-4. 🗣 Commented on [#1514](https://github.com/typecho/typecho/issues/1514) in [typecho/typecho](https://github.com/typecho/typecho)
-5. 🎉 Merged PR [#475](https://github.com/php/doc-zh/pull/475) in [php/doc-zh](https://github.com/php/doc-zh)
+1. 💪 Opened PR [#479](https://github.com/php/doc-zh/pull/479) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 💪 Opened PR [#87](https://github.com/simps/mqtt/pull/87) in [simps/mqtt](https://github.com/simps/mqtt)
+3. 🗣 Commented on [#1515](https://github.com/typecho/typecho/issues/1515) in [typecho/typecho](https://github.com/typecho/typecho)
+4. ❗️ Closed issue [#1514](https://github.com/typecho/typecho/issues/1514) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 🗣 Commented on [#1514](https://github.com/typecho/typecho/issues/1514) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
