@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5224](https://github.com/hyperf/hyperf/issues/5224) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+1. 💪 Opened PR [#498](https://github.com/php/doc-zh/pull/498) in [php/doc-zh](https://github.com/php/doc-zh)
 2. 🗣 Commented on [#5224](https://github.com/hyperf/hyperf/issues/5224) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-3. ❗️ Closed issue [#5224](https://github.com/hyperf/hyperf/issues/5224) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-4. 🗣 Commented on [#5224](https://github.com/hyperf/hyperf/issues/5224) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-5. 🎉 Merged PR [#497](https://github.com/php/doc-zh/pull/497) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🗣 Commented on [#5224](https://github.com/hyperf/hyperf/issues/5224) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+4. ❗️ Closed issue [#5224](https://github.com/hyperf/hyperf/issues/5224) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+5. 🗣 Commented on [#5224](https://github.com/hyperf/hyperf/issues/5224) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
 <!--END_SECTION:activity-->
 
 </details>
