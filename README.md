@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#735](https://github.com/php/web-php/pull/735) in [php/web-php](https://github.com/php/web-php)
-2. 💪 Opened PR [#735](https://github.com/php/web-php/pull/735) in [php/web-php](https://github.com/php/web-php)
-3. 💪 Opened PR [#734](https://github.com/php/web-php/pull/734) in [php/web-php](https://github.com/php/web-php)
-4. 🎉 Merged PR [#516](https://github.com/php/doc-zh/pull/516) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 🗣 Commented on [#41](https://github.com/docsifyjs/docs-zh/issues/41) in [docsifyjs/docs-zh](https://github.com/docsifyjs/docs-zh)
+1. 💪 Opened PR [#523](https://github.com/php/doc-zh/pull/523) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 🎉 Merged PR [#735](https://github.com/php/web-php/pull/735) in [php/web-php](https://github.com/php/web-php)
+3. 💪 Opened PR [#735](https://github.com/php/web-php/pull/735) in [php/web-php](https://github.com/php/web-php)
+4. 💪 Opened PR [#734](https://github.com/php/web-php/pull/734) in [php/web-php](https://github.com/php/web-php)
+5. 🎉 Merged PR [#516](https://github.com/php/doc-zh/pull/516) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
