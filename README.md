@@ -4,7 +4,7 @@
 
 🎉 Welcome to my GitHub profile, it's great to meet you here!
 
-👨🏻‍💻 I'm Luffy - a PHP developer, [WordPress plugin developer](https://profiles.wordpress.org/shenyanzhi/#content-plugins) and Open source contributor.
+👨🏻‍💻 I'm Luffy - a PHP developer, [WordPress plugin developer](https://profiles.wordpress.org/shenyanzhi/) and Open source contributor.
 
 📚 Swoole [Chinese Documentation](https://wiki.swoole.com/) Maintainer.
 
