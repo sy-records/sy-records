@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#526](https://github.com/php/doc-zh/pull/526) in [php/doc-zh](https://github.com/php/doc-zh)
+1. ❗️ Closed issue [#1936](https://github.com/docsifyjs/docsify/issues/1936) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 2. 🗣 Commented on [#1936](https://github.com/docsifyjs/docsify/issues/1936) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. 💪 Opened PR [#327](https://github.com/top-think/think-swoole/pull/327) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
-4. 🎉 Merged PR [#523](https://github.com/php/doc-zh/pull/523) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 💪 Opened PR [#523](https://github.com/php/doc-zh/pull/523) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 💪 Opened PR [#526](https://github.com/php/doc-zh/pull/526) in [php/doc-zh](https://github.com/php/doc-zh)
+4. 🗣 Commented on [#1936](https://github.com/docsifyjs/docsify/issues/1936) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 💪 Opened PR [#327](https://github.com/top-think/think-swoole/pull/327) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
 <!--END_SECTION:activity-->
 
 </details>
