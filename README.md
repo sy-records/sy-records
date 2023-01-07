@@ -30,7 +30,8 @@
 <a href="https://cdn.jsdelivr.net/gh/sy-records/staticfile/images/202012/wechat_white.png" title="点击查看公众号二维码"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B2%88%E5%94%81%E5%BF%97-07C160?logo=WeChat" alt="sy-records" /></a>
 <a href="https://twitter.com/intent/follow?screen_name=lufeidot"><img src="https://img.shields.io/twitter/follow/lufeidot.svg?style=social&label=Follow%20@lufeidot" alt="Follow on Twitter"></a>
 
-[![github contribution grid snake animation](https://raw.githubusercontent.com/sy-records/sy-records/output/github-contribution-grid-snake.svg)](https://github.com/sy-records)
+[![GitHub Snake Light](https://raw.githubusercontent.com/sy-records/sy-records/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/sy-records)
+[![GitHub Snake Dark](https://raw.githubusercontent.com/sy-records/sy-records/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/sy-records)
 
 <details>
 <summary>😎 View my contributions in 3D</summary>
