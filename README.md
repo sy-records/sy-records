@@ -14,11 +14,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/hyperf/hyperf.io/pull/41) in [hyperf/hyperf.io](https://github.com/hyperf/hyperf.io)
-2. ❌ Closed PR [#746](https://github.com/php/web-php/pull/746) in [php/web-php](https://github.com/php/web-php)
-3. ❗️ Closed issue [#1518](https://github.com/typecho/typecho/issues/1518) in [typecho/typecho](https://github.com/typecho/typecho)
-4. 💪 Opened PR [#601](https://github.com/php/doc-zh/pull/601) in [php/doc-zh](https://github.com/php/doc-zh)
-5. ❗️ Closed issue [#105](https://github.com/easysoft/zentaopms/issues/105) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+1. 🎉 Merged PR [#601](https://github.com/php/doc-zh/pull/601) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 💪 Opened PR [#41](https://github.com/hyperf/hyperf.io/pull/41) in [hyperf/hyperf.io](https://github.com/hyperf/hyperf.io)
+3. ❌ Closed PR [#746](https://github.com/php/web-php/pull/746) in [php/web-php](https://github.com/php/web-php)
+4. ❗️ Closed issue [#1518](https://github.com/typecho/typecho/issues/1518) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 💪 Opened PR [#601](https://github.com/php/doc-zh/pull/601) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
