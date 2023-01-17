@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1525](https://github.com/typecho/typecho/pull/1525) in [typecho/typecho](https://github.com/typecho/typecho)
-2. ❗️ Closed issue [#1524](https://github.com/typecho/typecho/issues/1524) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🗣 Commented on [#1524](https://github.com/typecho/typecho/issues/1524) in [typecho/typecho](https://github.com/typecho/typecho)
-4. 🎉 Merged PR [#241](https://github.com/docsifyjs/awesome-docsify/pull/241) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-5. 🎉 Merged PR [#609](https://github.com/php/doc-zh/pull/609) in [php/doc-zh](https://github.com/php/doc-zh)
+1. 🎉 Merged PR [#242](https://github.com/docsifyjs/awesome-docsify/pull/242) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+2. 💪 Opened PR [#616](https://github.com/php/doc-zh/pull/616) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🗣 Commented on [#1525](https://github.com/typecho/typecho/issues/1525) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 💪 Opened PR [#1525](https://github.com/typecho/typecho/pull/1525) in [typecho/typecho](https://github.com/typecho/typecho)
+5. ❗️ Closed issue [#1524](https://github.com/typecho/typecho/issues/1524) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
