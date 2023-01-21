@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#305](https://github.com/php/doc-zh/pull/305) in [php/doc-zh](https://github.com/php/doc-zh)
-2. ❌ Closed PR [#1789](https://github.com/php/doc-en/pull/1789) in [php/doc-en](https://github.com/php/doc-en)
-3. 💪 Opened PR [#70](https://github.com/daodao97/apidog/pull/70) in [daodao97/apidog](https://github.com/daodao97/apidog)
-4. 🎉 Merged PR [#621](https://github.com/php/doc-zh/pull/621) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 💪 Opened PR [#621](https://github.com/php/doc-zh/pull/621) in [php/doc-zh](https://github.com/php/doc-zh)
+1. 💪 Opened PR [#622](https://github.com/php/doc-zh/pull/622) in [php/doc-zh](https://github.com/php/doc-zh)
+2. ❌ Closed PR [#305](https://github.com/php/doc-zh/pull/305) in [php/doc-zh](https://github.com/php/doc-zh)
+3. ❌ Closed PR [#1789](https://github.com/php/doc-en/pull/1789) in [php/doc-en](https://github.com/php/doc-en)
+4. 💪 Opened PR [#70](https://github.com/daodao97/apidog/pull/70) in [daodao97/apidog](https://github.com/daodao97/apidog)
+5. 🎉 Merged PR [#621](https://github.com/php/doc-zh/pull/621) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
