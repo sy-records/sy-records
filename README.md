@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1789](https://github.com/php/doc-en/issues/1789) in [php/doc-en](https://github.com/php/doc-en)
-2. 💪 Opened PR [#2238](https://github.com/php/doc-en/pull/2238) in [php/doc-en](https://github.com/php/doc-en)
-3. 💪 Opened PR [#622](https://github.com/php/doc-zh/pull/622) in [php/doc-zh](https://github.com/php/doc-zh)
-4. ❌ Closed PR [#305](https://github.com/php/doc-zh/pull/305) in [php/doc-zh](https://github.com/php/doc-zh)
-5. ❌ Closed PR [#1789](https://github.com/php/doc-en/pull/1789) in [php/doc-en](https://github.com/php/doc-en)
+1. 🎉 Merged PR [#622](https://github.com/php/doc-zh/pull/622) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 🗣 Commented on [#1789](https://github.com/php/doc-en/issues/1789) in [php/doc-en](https://github.com/php/doc-en)
+3. 💪 Opened PR [#2238](https://github.com/php/doc-en/pull/2238) in [php/doc-en](https://github.com/php/doc-en)
+4. 💪 Opened PR [#622](https://github.com/php/doc-zh/pull/622) in [php/doc-zh](https://github.com/php/doc-zh)
+5. ❌ Closed PR [#305](https://github.com/php/doc-zh/pull/305) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
