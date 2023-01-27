@@ -17,10 +17,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/sy-records/KodoForTypecho/issues/1) in [sy-records/KodoForTypecho](https://github.com/sy-records/KodoForTypecho)
-2. 💪 Opened PR [#624](https://github.com/php/doc-zh/pull/624) in [php/doc-zh](https://github.com/php/doc-zh)
-3. 🎉 Merged PR [#623](https://github.com/php/doc-zh/pull/623) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 💪 Opened PR [#623](https://github.com/php/doc-zh/pull/623) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 🎉 Merged PR [#1972](https://github.com/docsifyjs/docsify/pull/1972) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. 🗣 Commented on [#1](https://github.com/sy-records/KodoForTypecho/issues/1) in [sy-records/KodoForTypecho](https://github.com/sy-records/KodoForTypecho)
+3. 💪 Opened PR [#624](https://github.com/php/doc-zh/pull/624) in [php/doc-zh](https://github.com/php/doc-zh)
+4. 🎉 Merged PR [#623](https://github.com/php/doc-zh/pull/623) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 💪 Opened PR [#623](https://github.com/php/doc-zh/pull/623) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
