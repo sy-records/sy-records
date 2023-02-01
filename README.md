@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1981](https://github.com/docsifyjs/docsify/issues/1981) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. 🗣 Commented on [#1981](https://github.com/docsifyjs/docsify/issues/1981) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. 💪 Opened PR [#631](https://github.com/php/doc-zh/pull/631) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 🗣 Commented on [#635](https://github.com/laravel/octane/issues/635) in [laravel/octane](https://github.com/laravel/octane)
-5. ❗️ Closed issue [#1980](https://github.com/docsifyjs/docsify/issues/1980) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+1. 🎉 Merged PR [#631](https://github.com/php/doc-zh/pull/631) in [php/doc-zh](https://github.com/php/doc-zh)
+2. ❗️ Closed issue [#1981](https://github.com/docsifyjs/docsify/issues/1981) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 🗣 Commented on [#1981](https://github.com/docsifyjs/docsify/issues/1981) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+4. 💪 Opened PR [#631](https://github.com/php/doc-zh/pull/631) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 🗣 Commented on [#635](https://github.com/laravel/octane/issues/635) in [laravel/octane](https://github.com/laravel/octane)
 <!--END_SECTION:activity-->
 
 </details>
