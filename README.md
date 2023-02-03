@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1528](https://github.com/typecho/typecho/issues/1528) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🎉 Merged PR [#635](https://github.com/php/doc-zh/pull/635) in [php/doc-zh](https://github.com/php/doc-zh)
-3. 🗣 Commented on [#632](https://github.com/laravel/octane/issues/632) in [laravel/octane](https://github.com/laravel/octane)
+1. 🗣 Commented on [#632](https://github.com/laravel/octane/issues/632) in [laravel/octane](https://github.com/laravel/octane)
+2. 🗣 Commented on [#1528](https://github.com/typecho/typecho/issues/1528) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🎉 Merged PR [#635](https://github.com/php/doc-zh/pull/635) in [php/doc-zh](https://github.com/php/doc-zh)
 4. 🗣 Commented on [#632](https://github.com/laravel/octane/issues/632) in [laravel/octane](https://github.com/laravel/octane)
-5. 💪 Opened PR [#635](https://github.com/php/doc-zh/pull/635) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 🗣 Commented on [#632](https://github.com/laravel/octane/issues/632) in [laravel/octane](https://github.com/laravel/octane)
 <!--END_SECTION:activity-->
 
 </details>
