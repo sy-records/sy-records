@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#642](https://github.com/php/doc-zh/pull/642) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 🗣 Commented on [#13](https://github.com/hyperf/engine-swow/issues/13) in [hyperf/engine-swow](https://github.com/hyperf/engine-swow)
-3. 🗣 Commented on [#5941](https://github.com/the-benchmarker/web-frameworks/issues/5941) in [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks)
-4. 🎉 Merged PR [#1984](https://github.com/docsifyjs/docsify/pull/1984) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-5. 🎉 Merged PR [#641](https://github.com/php/doc-zh/pull/641) in [php/doc-zh](https://github.com/php/doc-zh)
+1. 🎉 Merged PR [#244](https://github.com/docsifyjs/awesome-docsify/pull/244) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+2. 💪 Opened PR [#642](https://github.com/php/doc-zh/pull/642) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🗣 Commented on [#13](https://github.com/hyperf/engine-swow/issues/13) in [hyperf/engine-swow](https://github.com/hyperf/engine-swow)
+4. 🗣 Commented on [#5941](https://github.com/the-benchmarker/web-frameworks/issues/5941) in [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks)
+5. 🎉 Merged PR [#1984](https://github.com/docsifyjs/docsify/pull/1984) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
 </details>
