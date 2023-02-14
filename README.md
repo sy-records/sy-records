@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#649](https://github.com/php/doc-zh/pull/649) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 🎉 Merged PR [#647](https://github.com/php/doc-zh/pull/647) in [php/doc-zh](https://github.com/php/doc-zh)
-3. 💪 Opened PR [#647](https://github.com/php/doc-zh/pull/647) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 💪 Opened PR [#293](https://github.com/tencentyun/cos-php-sdk-v5/pull/293) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
-5. 💪 Opened PR [#292](https://github.com/tencentyun/cos-php-sdk-v5/pull/292) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
+1. 💪 Opened PR [#5405](https://github.com/hyperf/hyperf/pull/5405) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+2. 💪 Opened PR [#649](https://github.com/php/doc-zh/pull/649) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🎉 Merged PR [#647](https://github.com/php/doc-zh/pull/647) in [php/doc-zh](https://github.com/php/doc-zh)
+4. 💪 Opened PR [#647](https://github.com/php/doc-zh/pull/647) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 💪 Opened PR [#293](https://github.com/tencentyun/cos-php-sdk-v5/pull/293) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
 <!--END_SECTION:activity-->
 
 </details>
