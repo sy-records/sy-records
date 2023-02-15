@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5412](https://github.com/hyperf/hyperf/pull/5412) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-2. 💪 Opened PR [#294](https://github.com/tencentyun/cos-php-sdk-v5/pull/294) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
-3. 💪 Opened PR [#5405](https://github.com/hyperf/hyperf/pull/5405) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-4. 💪 Opened PR [#649](https://github.com/php/doc-zh/pull/649) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 🎉 Merged PR [#647](https://github.com/php/doc-zh/pull/647) in [php/doc-zh](https://github.com/php/doc-zh)
+1. 💪 Opened PR [#5413](https://github.com/hyperf/hyperf/pull/5413) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+2. 💪 Opened PR [#5412](https://github.com/hyperf/hyperf/pull/5412) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+3. 💪 Opened PR [#294](https://github.com/tencentyun/cos-php-sdk-v5/pull/294) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
+4. 💪 Opened PR [#5405](https://github.com/hyperf/hyperf/pull/5405) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+5. 💪 Opened PR [#649](https://github.com/php/doc-zh/pull/649) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
