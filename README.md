@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#245](https://github.com/docsifyjs/awesome-docsify/pull/245) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-2. 💪 Opened PR [#50](https://github.com/hyperf/hyperf-docker/pull/50) in [hyperf/hyperf-docker](https://github.com/hyperf/hyperf-docker)
-3. 💪 Opened PR [#5471](https://github.com/hyperf/hyperf/pull/5471) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-4. 🎉 Merged PR [#246](https://github.com/docsifyjs/awesome-docsify/pull/246) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-5. 💪 Opened PR [#84](https://github.com/hyperf/hyperf-skeleton/pull/84) in [hyperf/hyperf-skeleton](https://github.com/hyperf/hyperf-skeleton)
+1. 💪 Opened PR [#663](https://github.com/php/doc-zh/pull/663) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 🎉 Merged PR [#245](https://github.com/docsifyjs/awesome-docsify/pull/245) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+3. 💪 Opened PR [#50](https://github.com/hyperf/hyperf-docker/pull/50) in [hyperf/hyperf-docker](https://github.com/hyperf/hyperf-docker)
+4. 💪 Opened PR [#5471](https://github.com/hyperf/hyperf/pull/5471) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+5. 🎉 Merged PR [#246](https://github.com/docsifyjs/awesome-docsify/pull/246) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
 <!--END_SECTION:activity-->
 
 </details>
