@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#655](https://github.com/laravel/octane/pull/655) in [laravel/octane](https://github.com/laravel/octane)
-2. 💪 Opened PR [#665](https://github.com/php/doc-zh/pull/665) in [php/doc-zh](https://github.com/php/doc-zh)
-3. 💪 Opened PR [#1224](https://github.com/X-lab2017/open-digger/pull/1224) in [X-lab2017/open-digger](https://github.com/X-lab2017/open-digger)
-4. ❌ Closed PR [#1](https://github.com/lufei/open-digger/pull/1) in [lufei/open-digger](https://github.com/lufei/open-digger)
-5. 💪 Opened PR [#1](https://github.com/lufei/open-digger/pull/1) in [lufei/open-digger](https://github.com/lufei/open-digger)
+1. 🗣 Commented on [#651](https://github.com/laravel/octane/issues/651) in [laravel/octane](https://github.com/laravel/octane)
+2. ❗️ Closed issue [#1538](https://github.com/typecho/typecho/issues/1538) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 💪 Opened PR [#655](https://github.com/laravel/octane/pull/655) in [laravel/octane](https://github.com/laravel/octane)
+4. 💪 Opened PR [#665](https://github.com/php/doc-zh/pull/665) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 💪 Opened PR [#1224](https://github.com/X-lab2017/open-digger/pull/1224) in [X-lab2017/open-digger](https://github.com/X-lab2017/open-digger)
 <!--END_SECTION:activity-->
 
 </details>
