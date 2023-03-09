@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1540](https://github.com/typecho/typecho/issues/1540) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🗣 Commented on [#1540](https://github.com/typecho/typecho/issues/1540) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🗣 Commented on [#651](https://github.com/laravel/octane/issues/651) in [laravel/octane](https://github.com/laravel/octane)
-4. 🎉 Merged PR [#666](https://github.com/php/doc-zh/pull/666) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 💪 Opened PR [#666](https://github.com/php/doc-zh/pull/666) in [php/doc-zh](https://github.com/php/doc-zh)
+1. ❗️ Reopened issue [#1540](https://github.com/typecho/typecho/issues/1540) in [typecho/typecho](https://github.com/typecho/typecho)
+2. ❗️ Closed issue [#1540](https://github.com/typecho/typecho/issues/1540) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🗣 Commented on [#1540](https://github.com/typecho/typecho/issues/1540) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🗣 Commented on [#651](https://github.com/laravel/octane/issues/651) in [laravel/octane](https://github.com/laravel/octane)
+5. 🎉 Merged PR [#666](https://github.com/php/doc-zh/pull/666) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
