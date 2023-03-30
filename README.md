@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1548](https://github.com/typecho/typecho/issues/1548) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🗣 Commented on [#1525](https://github.com/typecho/typecho/issues/1525) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🎉 Merged PR [#2008](https://github.com/docsifyjs/docsify/pull/2008) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. 🎉 Merged PR [#689](https://github.com/php/doc-zh/pull/689) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 💪 Opened PR [#689](https://github.com/php/doc-zh/pull/689) in [php/doc-zh](https://github.com/php/doc-zh)
+1. ❗️ Closed issue [#12](https://github.com/sy-records/aliyun-oss-wordpress/issues/12) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+2. 🗣 Commented on [#12](https://github.com/sy-records/aliyun-oss-wordpress/issues/12) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+3. 🎉 Merged PR [#14](https://github.com/sy-records/aliyun-oss-wordpress/pull/14) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+4. ❗️ Closed issue [#1548](https://github.com/typecho/typecho/issues/1548) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 🗣 Commented on [#1525](https://github.com/typecho/typecho/issues/1525) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
