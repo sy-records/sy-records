@@ -10,7 +10,7 @@
 📚 Swoole [Chinese Documentation](https://wiki.swoole.com/) Maintainer.
 -->
 
-💬 You can contact me on [Twitter](https://twitter.com/lufeidot) or [Email](mailto:i@lufei.dev).
+💬 You can contact me on [Twitter](https://twitter.com/lufeidot) or [Email](mailto:lufei@simps.io).
 
 <details>
 <summary>:zap: Recent Activity</summary>
