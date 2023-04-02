@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#111](https://github.com/easysoft/zentaopms/issues/111) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-2. 🗣 Commented on [#111](https://github.com/easysoft/zentaopms/issues/111) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-3. 💪 Opened PR [#693](https://github.com/php/doc-zh/pull/693) in [php/doc-zh](https://github.com/php/doc-zh)
-4. ❗️ Closed issue [#12](https://github.com/sy-records/aliyun-oss-wordpress/issues/12) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
-5. 🗣 Commented on [#12](https://github.com/sy-records/aliyun-oss-wordpress/issues/12) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+1. 🎉 Merged PR [#253](https://github.com/docsifyjs/awesome-docsify/pull/253) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+2. ❗️ Closed issue [#111](https://github.com/easysoft/zentaopms/issues/111) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+3. 🗣 Commented on [#111](https://github.com/easysoft/zentaopms/issues/111) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+4. 💪 Opened PR [#693](https://github.com/php/doc-zh/pull/693) in [php/doc-zh](https://github.com/php/doc-zh)
+5. ❗️ Closed issue [#12](https://github.com/sy-records/aliyun-oss-wordpress/issues/12) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
 <!--END_SECTION:activity-->
 
 </details>
