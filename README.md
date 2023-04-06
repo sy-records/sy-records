@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/sy-records/upyun-uss-wordpress/issues/10) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
-2. 💪 Opened PR [#701](https://github.com/php/doc-zh/pull/701) in [php/doc-zh](https://github.com/php/doc-zh)
-3. ❗️ Closed issue [#2014](https://github.com/docsifyjs/docsify/issues/2014) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. 🗣 Commented on [#2014](https://github.com/docsifyjs/docsify/issues/2014) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-5. 🎉 Merged PR [#697](https://github.com/php/doc-zh/pull/697) in [php/doc-zh](https://github.com/php/doc-zh)
+1. ❗️ Closed issue [#10](https://github.com/sy-records/upyun-uss-wordpress/issues/10) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
+2. 🗣 Commented on [#10](https://github.com/sy-records/upyun-uss-wordpress/issues/10) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
+3. 💪 Opened PR [#701](https://github.com/php/doc-zh/pull/701) in [php/doc-zh](https://github.com/php/doc-zh)
+4. ❗️ Closed issue [#2014](https://github.com/docsifyjs/docsify/issues/2014) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 🗣 Commented on [#2014](https://github.com/docsifyjs/docsify/issues/2014) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
 </details>
