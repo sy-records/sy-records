@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#703](https://github.com/php/doc-zh/pull/703) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 🗣 Commented on [#2867](https://github.com/top-think/framework/issues/2867) in [top-think/framework](https://github.com/top-think/framework)
-3. 🗣 Commented on [#11](https://github.com/sy-records/upyun-uss-wordpress/issues/11) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
-4. ❗️ Closed issue [#10](https://github.com/sy-records/upyun-uss-wordpress/issues/10) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
-5. 🗣 Commented on [#10](https://github.com/sy-records/upyun-uss-wordpress/issues/10) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
+1. 🎉 Merged PR [#701](https://github.com/php/doc-zh/pull/701) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 💪 Opened PR [#703](https://github.com/php/doc-zh/pull/703) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🗣 Commented on [#2867](https://github.com/top-think/framework/issues/2867) in [top-think/framework](https://github.com/top-think/framework)
+4. 🗣 Commented on [#11](https://github.com/sy-records/upyun-uss-wordpress/issues/11) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
+5. ❗️ Closed issue [#10](https://github.com/sy-records/upyun-uss-wordpress/issues/10) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
 <!--END_SECTION:activity-->
 
 </details>
