@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#113](https://github.com/easysoft/zentaopms/issues/113) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-2. 🗣 Commented on [#113](https://github.com/easysoft/zentaopms/issues/113) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+1. 🎉 Merged PR [#1559](https://github.com/typecho/typecho/pull/1559) in [typecho/typecho](https://github.com/typecho/typecho)
+2. ❗️ Closed issue [#113](https://github.com/easysoft/zentaopms/issues/113) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
 3. 🗣 Commented on [#113](https://github.com/easysoft/zentaopms/issues/113) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-4. 🗣 Commented on [#1558](https://github.com/typecho/typecho/issues/1558) in [typecho/typecho](https://github.com/typecho/typecho)
-5. ❗️ Closed issue [#5638](https://github.com/hyperf/hyperf/issues/5638) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+4. 🗣 Commented on [#113](https://github.com/easysoft/zentaopms/issues/113) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+5. 🗣 Commented on [#1558](https://github.com/typecho/typecho/issues/1558) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
