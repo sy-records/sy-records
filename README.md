@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1559](https://github.com/typecho/typecho/pull/1559) in [typecho/typecho](https://github.com/typecho/typecho)
-2. ❗️ Closed issue [#113](https://github.com/easysoft/zentaopms/issues/113) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-3. 🗣 Commented on [#113](https://github.com/easysoft/zentaopms/issues/113) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+1. 🎉 Merged PR [#255](https://github.com/docsifyjs/awesome-docsify/pull/255) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+2. 🎉 Merged PR [#1559](https://github.com/typecho/typecho/pull/1559) in [typecho/typecho](https://github.com/typecho/typecho)
+3. ❗️ Closed issue [#113](https://github.com/easysoft/zentaopms/issues/113) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
 4. 🗣 Commented on [#113](https://github.com/easysoft/zentaopms/issues/113) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-5. 🗣 Commented on [#1558](https://github.com/typecho/typecho/issues/1558) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 🗣 Commented on [#113](https://github.com/easysoft/zentaopms/issues/113) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
 <!--END_SECTION:activity-->
 
 </details>
