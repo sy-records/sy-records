@@ -16,10 +16,10 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#719](https://github.com/php/doc-zh/pull/719) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 🗣 Commented on [#1562](https://github.com/typecho/typecho/issues/1562) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 💪 Opened PR [#718](https://github.com/php/doc-zh/pull/718) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 🗣 Commented on [#1562](https://github.com/typecho/typecho/issues/1562) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🎉 Merged PR [#718](https://github.com/php/doc-zh/pull/718) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 💪 Opened PR [#719](https://github.com/php/doc-zh/pull/719) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🗣 Commented on [#1562](https://github.com/typecho/typecho/issues/1562) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 💪 Opened PR [#718](https://github.com/php/doc-zh/pull/718) in [php/doc-zh](https://github.com/php/doc-zh)
 5. 🗣 Commented on [#1562](https://github.com/typecho/typecho/issues/1562) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
