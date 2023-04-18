@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#719](https://github.com/php/doc-zh/pull/719) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 🗣 Commented on [#186](https://github.com/guzzle/guzzle-services/issues/186) in [guzzle/guzzle-services](https://github.com/guzzle/guzzle-services)
-3. 🗣 Commented on [#2020](https://github.com/docsifyjs/docsify/issues/2020) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. 🎉 Merged PR [#718](https://github.com/php/doc-zh/pull/718) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 💪 Opened PR [#719](https://github.com/php/doc-zh/pull/719) in [php/doc-zh](https://github.com/php/doc-zh)
+1. 🗣 Commented on [#186](https://github.com/guzzle/guzzle-services/issues/186) in [guzzle/guzzle-services](https://github.com/guzzle/guzzle-services)
+2. 🎉 Merged PR [#719](https://github.com/php/doc-zh/pull/719) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🗣 Commented on [#186](https://github.com/guzzle/guzzle-services/issues/186) in [guzzle/guzzle-services](https://github.com/guzzle/guzzle-services)
+4. 🗣 Commented on [#2020](https://github.com/docsifyjs/docsify/issues/2020) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 🎉 Merged PR [#718](https://github.com/php/doc-zh/pull/718) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
