@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#90](https://github.com/simps/mqtt/issues/90) in [simps/mqtt](https://github.com/simps/mqtt)
-2. 🗣 Commented on [#90](https://github.com/simps/mqtt/issues/90) in [simps/mqtt](https://github.com/simps/mqtt)
-3. ❌ Closed PR [#190](https://github.com/guzzle/guzzle-services/pull/190) in [guzzle/guzzle-services](https://github.com/guzzle/guzzle-services)
-4. 🗣 Commented on [#190](https://github.com/guzzle/guzzle-services/issues/190) in [guzzle/guzzle-services](https://github.com/guzzle/guzzle-services)
-5. 💪 Opened PR [#190](https://github.com/guzzle/guzzle-services/pull/190) in [guzzle/guzzle-services](https://github.com/guzzle/guzzle-services)
+1. ❌ Closed PR [#12](https://github.com/sy-records/upyun-uss-wordpress/pull/12) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
+2. ❌ Closed PR [#8](https://github.com/sy-records/volcengine-imagex-wordpress/pull/8) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+3. ❌ Closed PR [#24](https://github.com/sy-records/wordpress-qcloud-cos/pull/24) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+4. ❗️ Closed issue [#90](https://github.com/simps/mqtt/issues/90) in [simps/mqtt](https://github.com/simps/mqtt)
+5. 🗣 Commented on [#90](https://github.com/simps/mqtt/issues/90) in [simps/mqtt](https://github.com/simps/mqtt)
 <!--END_SECTION:activity-->
 
 </details>
