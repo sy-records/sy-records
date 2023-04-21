@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#723](https://github.com/php/doc-zh/pull/723) in [php/doc-zh](https://github.com/php/doc-zh)
-2. ❌ Closed PR [#12](https://github.com/sy-records/upyun-uss-wordpress/pull/12) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
-3. ❌ Closed PR [#8](https://github.com/sy-records/volcengine-imagex-wordpress/pull/8) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
-4. ❌ Closed PR [#24](https://github.com/sy-records/wordpress-qcloud-cos/pull/24) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-5. ❗️ Closed issue [#90](https://github.com/simps/mqtt/issues/90) in [simps/mqtt](https://github.com/simps/mqtt)
+1. 🎉 Merged PR [#723](https://github.com/php/doc-zh/pull/723) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 💪 Opened PR [#723](https://github.com/php/doc-zh/pull/723) in [php/doc-zh](https://github.com/php/doc-zh)
+3. ❌ Closed PR [#12](https://github.com/sy-records/upyun-uss-wordpress/pull/12) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
+4. ❌ Closed PR [#8](https://github.com/sy-records/volcengine-imagex-wordpress/pull/8) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+5. ❌ Closed PR [#24](https://github.com/sy-records/wordpress-qcloud-cos/pull/24) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
 <!--END_SECTION:activity-->
 
 </details>
