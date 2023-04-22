@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1564](https://github.com/typecho/typecho/issues/1564) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🗣 Commented on [#1564](https://github.com/typecho/typecho/issues/1564) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🗣 Commented on [#90](https://github.com/simps/mqtt/issues/90) in [simps/mqtt](https://github.com/simps/mqtt)
-4. 🎉 Merged PR [#723](https://github.com/php/doc-zh/pull/723) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 💪 Opened PR [#723](https://github.com/php/doc-zh/pull/723) in [php/doc-zh](https://github.com/php/doc-zh)
+1. 🗣 Commented on [#90](https://github.com/simps/mqtt/issues/90) in [simps/mqtt](https://github.com/simps/mqtt)
+2. ❗️ Closed issue [#1564](https://github.com/typecho/typecho/issues/1564) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🗣 Commented on [#1564](https://github.com/typecho/typecho/issues/1564) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🗣 Commented on [#90](https://github.com/simps/mqtt/issues/90) in [simps/mqtt](https://github.com/simps/mqtt)
+5. 🎉 Merged PR [#723](https://github.com/php/doc-zh/pull/723) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
