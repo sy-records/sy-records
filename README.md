@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2039](https://github.com/docsifyjs/docsify/issues/2039) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. 🗣 Commented on [#2039](https://github.com/docsifyjs/docsify/issues/2039) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. 💪 Opened PR [#729](https://github.com/php/doc-zh/pull/729) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 🗣 Commented on [#112](https://github.com/easysoft/zentaopms/issues/112) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-5. 🎉 Merged PR [#1](https://github.com/docsifyjs/docsify-template/pull/1) in [docsifyjs/docsify-template](https://github.com/docsifyjs/docsify-template)
+1. 🎉 Merged PR [#258](https://github.com/docsifyjs/awesome-docsify/pull/258) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+2. 🎉 Merged PR [#729](https://github.com/php/doc-zh/pull/729) in [php/doc-zh](https://github.com/php/doc-zh)
+3. ❗️ Closed issue [#2039](https://github.com/docsifyjs/docsify/issues/2039) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+4. 🗣 Commented on [#2039](https://github.com/docsifyjs/docsify/issues/2039) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 💪 Opened PR [#729](https://github.com/php/doc-zh/pull/729) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
