@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1566](https://github.com/typecho/typecho/issues/1566) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🎉 Merged PR [#732](https://github.com/php/doc-zh/pull/732) in [php/doc-zh](https://github.com/php/doc-zh)
 2. 🗣 Commented on [#1566](https://github.com/typecho/typecho/issues/1566) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 💪 Opened PR [#732](https://github.com/php/doc-zh/pull/732) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 🗣 Commented on [#115](https://github.com/easysoft/zentaopms/issues/115) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-5. ❗️ Closed issue [#115](https://github.com/easysoft/zentaopms/issues/115) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+3. 🗣 Commented on [#1566](https://github.com/typecho/typecho/issues/1566) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 💪 Opened PR [#732](https://github.com/php/doc-zh/pull/732) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 🗣 Commented on [#115](https://github.com/easysoft/zentaopms/issues/115) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
 <!--END_SECTION:activity-->
 
 </details>
