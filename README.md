@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#117](https://github.com/easysoft/zentaopms/issues/117) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-2. 🗣 Commented on [#1565](https://github.com/typecho/typecho/issues/1565) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🎉 Merged PR [#734](https://github.com/php/doc-zh/pull/734) in [php/doc-zh](https://github.com/php/doc-zh)
-4. ❗️ Closed issue [#6](https://github.com/sy-records/MemorialDay/issues/6) in [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay)
-5. 🗣 Commented on [#6](https://github.com/sy-records/MemorialDay/issues/6) in [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay)
+1. 💪 Opened PR [#735](https://github.com/php/doc-zh/pull/735) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 🗣 Commented on [#117](https://github.com/easysoft/zentaopms/issues/117) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+3. 🗣 Commented on [#1565](https://github.com/typecho/typecho/issues/1565) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🎉 Merged PR [#734](https://github.com/php/doc-zh/pull/734) in [php/doc-zh](https://github.com/php/doc-zh)
+5. ❗️ Closed issue [#6](https://github.com/sy-records/MemorialDay/issues/6) in [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay)
 <!--END_SECTION:activity-->
 
 </details>
