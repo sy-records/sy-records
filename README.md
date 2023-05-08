@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#738](https://github.com/php/doc-zh/pull/738) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 💪 Opened PR [#738](https://github.com/php/doc-zh/pull/738) in [php/doc-zh](https://github.com/php/doc-zh)
-3. 🎉 Merged PR [#735](https://github.com/php/doc-zh/pull/735) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 🗣 Commented on [#736](https://github.com/php/doc-zh/issues/736) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 🎉 Merged PR [#736](https://github.com/php/doc-zh/pull/736) in [php/doc-zh](https://github.com/php/doc-zh)
+1. ❗️ Closed issue [#16](https://github.com/sy-records/aliyun-oss-wordpress/issues/16) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+2. 🗣 Commented on [#16](https://github.com/sy-records/aliyun-oss-wordpress/issues/16) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+3. 🎉 Merged PR [#738](https://github.com/php/doc-zh/pull/738) in [php/doc-zh](https://github.com/php/doc-zh)
+4. 💪 Opened PR [#738](https://github.com/php/doc-zh/pull/738) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 🎉 Merged PR [#735](https://github.com/php/doc-zh/pull/735) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
