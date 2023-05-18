@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1577](https://github.com/typecho/typecho/issues/1577) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🗣 Commented on [#1577](https://github.com/typecho/typecho/issues/1577) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 💪 Opened PR [#745](https://github.com/php/doc-zh/pull/745) in [php/doc-zh](https://github.com/php/doc-zh)
-4. ❗️ Closed issue [#1568](https://github.com/typecho/typecho/issues/1568) in [typecho/typecho](https://github.com/typecho/typecho)
-5. 🗣 Commented on [#1568](https://github.com/typecho/typecho/issues/1568) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 💪 Opened PR [#2483](https://github.com/php/doc-en/pull/2483) in [php/doc-en](https://github.com/php/doc-en)
+2. ❗️ Closed issue [#1577](https://github.com/typecho/typecho/issues/1577) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🗣 Commented on [#1577](https://github.com/typecho/typecho/issues/1577) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 💪 Opened PR [#745](https://github.com/php/doc-zh/pull/745) in [php/doc-zh](https://github.com/php/doc-zh)
+5. ❗️ Closed issue [#1568](https://github.com/typecho/typecho/issues/1568) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
