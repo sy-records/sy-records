@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5754](https://github.com/hyperf/hyperf/pull/5754) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-2. 💪 Opened PR [#5754](https://github.com/hyperf/hyperf/pull/5754) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-3. ❗️ Closed issue [#261](https://github.com/docsifyjs/awesome-docsify/issues/261) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-4. 🎉 Merged PR [#263](https://github.com/docsifyjs/awesome-docsify/pull/263) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-5. 🗣 Commented on [#5747](https://github.com/hyperf/hyperf/issues/5747) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+1. ❗️ Closed issue [#1580](https://github.com/typecho/typecho/issues/1580) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 🗣 Commented on [#1580](https://github.com/typecho/typecho/issues/1580) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🎉 Merged PR [#5754](https://github.com/hyperf/hyperf/pull/5754) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+4. 💪 Opened PR [#5754](https://github.com/hyperf/hyperf/pull/5754) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+5. ❗️ Closed issue [#261](https://github.com/docsifyjs/awesome-docsify/issues/261) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
 <!--END_SECTION:activity-->
 
 </details>
