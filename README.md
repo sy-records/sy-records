@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5764](https://github.com/hyperf/hyperf/issues/5764) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-2. 🗣 Commented on [#1581](https://github.com/typecho/typecho/issues/1581) in [typecho/typecho](https://github.com/typecho/typecho)
-3. ❌ Closed PR [#1503](https://github.com/docsifyjs/docsify/pull/1503) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. 🎉 Merged PR [#753](https://github.com/php/doc-zh/pull/753) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 💪 Opened PR [#753](https://github.com/php/doc-zh/pull/753) in [php/doc-zh](https://github.com/php/doc-zh)
+1. ❗️ Closed issue [#1583](https://github.com/typecho/typecho/issues/1583) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 🗣 Commented on [#1583](https://github.com/typecho/typecho/issues/1583) in [typecho/typecho](https://github.com/typecho/typecho)
+3. ❗️ Closed issue [#1530](https://github.com/typecho/typecho/issues/1530) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🗣 Commented on [#1530](https://github.com/typecho/typecho/issues/1530) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 🗣 Commented on [#5764](https://github.com/hyperf/hyperf/issues/5764) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
 <!--END_SECTION:activity-->
 
 </details>
