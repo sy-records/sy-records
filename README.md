@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1503](https://github.com/docsifyjs/docsify/pull/1503) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. 🎉 Merged PR [#753](https://github.com/php/doc-zh/pull/753) in [php/doc-zh](https://github.com/php/doc-zh)
-3. 💪 Opened PR [#753](https://github.com/php/doc-zh/pull/753) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 💪 Opened PR [#2706](https://github.com/w7corp/easywechat/pull/2706) in [w7corp/easywechat](https://github.com/w7corp/easywechat)
-5. ❗️ Closed issue [#1580](https://github.com/typecho/typecho/issues/1580) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🗣 Commented on [#1581](https://github.com/typecho/typecho/issues/1581) in [typecho/typecho](https://github.com/typecho/typecho)
+2. ❌ Closed PR [#1503](https://github.com/docsifyjs/docsify/pull/1503) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 🎉 Merged PR [#753](https://github.com/php/doc-zh/pull/753) in [php/doc-zh](https://github.com/php/doc-zh)
+4. 💪 Opened PR [#753](https://github.com/php/doc-zh/pull/753) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 💪 Opened PR [#2706](https://github.com/w7corp/easywechat/pull/2706) in [w7corp/easywechat](https://github.com/w7corp/easywechat)
 <!--END_SECTION:activity-->
 
 </details>
