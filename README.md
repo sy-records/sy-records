@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#759](https://github.com/php/doc-zh/pull/759) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 🔒 Closed issue [#7](https://github.com/sy-records/MemorialDay/issues/7) in [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay)
-3. 🗣 Commented on [#7](https://github.com/sy-records/MemorialDay/issues/7) in [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay)
-4. 🗣 Commented on [#195](https://github.com/swow/swow/issues/195) in [swow/swow](https://github.com/swow/swow)
-5. 🗣 Commented on [#2084](https://github.com/docsifyjs/docsify/issues/2084) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+1. 🚀 Published release [18.4.beta1](https://github.com/18.4.beta1) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+2. 🎉 Merged PR [#759](https://github.com/php/doc-zh/pull/759) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🔒 Closed issue [#7](https://github.com/sy-records/MemorialDay/issues/7) in [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay)
+4. 🗣 Commented on [#7](https://github.com/sy-records/MemorialDay/issues/7) in [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay)
+5. 🗣 Commented on [#195](https://github.com/swow/swow/issues/195) in [swow/swow](https://github.com/swow/swow)
 <!--END_SECTION:activity-->
 
 </details>
