@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#173](https://github.com/docsifyjs/docsify-cli/issues/173) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-2. 🗣 Commented on [#173](https://github.com/docsifyjs/docsify-cli/issues/173) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-3. 🎉 Merged PR [#192](https://github.com/docsifyjs/docsify-cli/pull/192) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-4. 🗣 Commented on [#192](https://github.com/docsifyjs/docsify-cli/issues/192) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-5. 🚀 Published release [18.4.beta1](https://github.com/18.4.beta1) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+1. 🔒 Closed issue [#199](https://github.com/docsifyjs/docsify-cli/issues/199) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+2. 🗣 Commented on [#199](https://github.com/docsifyjs/docsify-cli/issues/199) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+3. 🔒 Closed issue [#197](https://github.com/docsifyjs/docsify-cli/issues/197) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+4. 🗣 Commented on [#197](https://github.com/docsifyjs/docsify-cli/issues/197) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+5. 🔒 Closed issue [#173](https://github.com/docsifyjs/docsify-cli/issues/173) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
 <!--END_SECTION:activity-->
 
 </details>
