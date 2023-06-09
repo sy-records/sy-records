@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [18.4.beta1](https://github.com/18.4.beta1) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-2. 🎉 Merged PR [#759](https://github.com/php/doc-zh/pull/759) in [php/doc-zh](https://github.com/php/doc-zh)
-3. 🔒 Closed issue [#7](https://github.com/sy-records/MemorialDay/issues/7) in [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay)
-4. 🗣 Commented on [#7](https://github.com/sy-records/MemorialDay/issues/7) in [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay)
-5. 🗣 Commented on [#195](https://github.com/swow/swow/issues/195) in [swow/swow](https://github.com/swow/swow)
+1. 🔒 Closed issue [#173](https://github.com/docsifyjs/docsify-cli/issues/173) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+2. 🗣 Commented on [#173](https://github.com/docsifyjs/docsify-cli/issues/173) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+3. 🎉 Merged PR [#192](https://github.com/docsifyjs/docsify-cli/pull/192) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+4. 🗣 Commented on [#192](https://github.com/docsifyjs/docsify-cli/issues/192) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+5. 🚀 Published release [18.4.beta1](https://github.com/18.4.beta1) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
 <!--END_SECTION:activity-->
 
 </details>
