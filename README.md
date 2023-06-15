@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#264](https://github.com/docsifyjs/awesome-docsify/pull/264) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-2. 🎉 Merged PR [#760](https://github.com/php/doc-zh/pull/760) in [php/doc-zh](https://github.com/php/doc-zh)
-3. 🔒 Closed issue [#5458](https://github.com/hyperf/hyperf/issues/5458) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-4. 💪 Opened PR [#760](https://github.com/php/doc-zh/pull/760) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 🎉 Merged PR [#200](https://github.com/docsifyjs/docsify-cli/pull/200) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+1. 🔒 Closed issue [#1592](https://github.com/typecho/typecho/issues/1592) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 🗣 Commented on [#1592](https://github.com/typecho/typecho/issues/1592) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🎉 Merged PR [#264](https://github.com/docsifyjs/awesome-docsify/pull/264) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+4. 🎉 Merged PR [#760](https://github.com/php/doc-zh/pull/760) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 🔒 Closed issue [#5458](https://github.com/hyperf/hyperf/issues/5458) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
 <!--END_SECTION:activity-->
 
 </details>
