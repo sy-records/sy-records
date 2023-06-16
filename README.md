@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#761](https://github.com/php/doc-zh/pull/761) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 🗣 Commented on [#5836](https://github.com/hyperf/hyperf/issues/5836) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-3. 💪 Opened PR [#5837](https://github.com/hyperf/hyperf/pull/5837) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-4. 💪 Opened PR [#761](https://github.com/php/doc-zh/pull/761) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 🔒 Closed issue [#1592](https://github.com/typecho/typecho/issues/1592) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🗣 Commented on [#1737](https://github.com/docsifyjs/docsify/issues/1737) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. 🎉 Merged PR [#761](https://github.com/php/doc-zh/pull/761) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 🗣 Commented on [#5836](https://github.com/hyperf/hyperf/issues/5836) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+4. 💪 Opened PR [#5837](https://github.com/hyperf/hyperf/pull/5837) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+5. 💪 Opened PR [#761](https://github.com/php/doc-zh/pull/761) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
