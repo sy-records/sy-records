@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2101](https://github.com/docsifyjs/docsify/pull/2101) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. 🗣 Commented on [#201](https://github.com/docsifyjs/docsify-cli/issues/201) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-3. 🎉 Merged PR [#765](https://github.com/php/doc-zh/pull/765) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 💪 Opened PR [#788](https://github.com/php/web-php/pull/788) in [php/web-php](https://github.com/php/web-php)
-5. 💪 Opened PR [#765](https://github.com/php/doc-zh/pull/765) in [php/doc-zh](https://github.com/php/doc-zh)
+1. 🚀 Published release [v4.13.1](https://github.com/v4.13.1) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. 🗣 Commented on [#1477](https://github.com/docsifyjs/docsify/issues/1477) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 💪 Opened PR [#2101](https://github.com/docsifyjs/docsify/pull/2101) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+4. 🗣 Commented on [#201](https://github.com/docsifyjs/docsify-cli/issues/201) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+5. 🎉 Merged PR [#765](https://github.com/php/doc-zh/pull/765) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
