@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2105](https://github.com/docsifyjs/docsify/issues/2105) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. 🗣 Commented on [#1595](https://github.com/typecho/typecho/issues/1595) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🗣 Commented on [#2106](https://github.com/docsifyjs/docsify/issues/2106) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. 🚀 Published release [zentaopms_18.4](https://github.com/zentaopms_18.4) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-5. 🎉 Merged PR [#2101](https://github.com/docsifyjs/docsify/pull/2101) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+1. 💪 Opened PR [#766](https://github.com/php/doc-zh/pull/766) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 🗣 Commented on [#2105](https://github.com/docsifyjs/docsify/issues/2105) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 🗣 Commented on [#1595](https://github.com/typecho/typecho/issues/1595) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🗣 Commented on [#2106](https://github.com/docsifyjs/docsify/issues/2106) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 🚀 Published release [zentaopms_18.4](https://github.com/zentaopms_18.4) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
 <!--END_SECTION:activity-->
 
 </details>
