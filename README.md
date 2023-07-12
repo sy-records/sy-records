@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#92](https://github.com/simps/mqtt/issues/92) in [simps/mqtt](https://github.com/simps/mqtt)
-2. 🔒 Closed issue [#1599](https://github.com/typecho/typecho/issues/1599) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🗣 Commented on [#92](https://github.com/simps/mqtt/issues/92) in [simps/mqtt](https://github.com/simps/mqtt)
+1. 💪 Opened PR [#1](https://github.com/sy-records/docsify/pull/1) in [sy-records/docsify](https://github.com/sy-records/docsify)
+2. 🔒 Closed issue [#92](https://github.com/simps/mqtt/issues/92) in [simps/mqtt](https://github.com/simps/mqtt)
+3. 🔒 Closed issue [#1599](https://github.com/typecho/typecho/issues/1599) in [typecho/typecho](https://github.com/typecho/typecho)
 4. 🗣 Commented on [#92](https://github.com/simps/mqtt/issues/92) in [simps/mqtt](https://github.com/simps/mqtt)
-5. 🎉 Merged PR [#773](https://github.com/php/doc-zh/pull/773) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 🗣 Commented on [#92](https://github.com/simps/mqtt/issues/92) in [simps/mqtt](https://github.com/simps/mqtt)
 <!--END_SECTION:activity-->
 
 </details>
