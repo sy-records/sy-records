@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2130](https://github.com/docsifyjs/docsify/pull/2130) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. ❌ Closed PR [#1](https://github.com/sy-records/docsify/pull/1) in [sy-records/docsify](https://github.com/sy-records/docsify)
-3. 🔒 Closed issue [#1601](https://github.com/typecho/typecho/issues/1601) in [typecho/typecho](https://github.com/typecho/typecho)
-4. 🗣 Commented on [#1601](https://github.com/typecho/typecho/issues/1601#issuecomment-1633451466) in [typecho/typecho](https://github.com/typecho/typecho)
-5. 💪 Opened PR [#1](https://github.com/sy-records/docsify/pull/1) in [sy-records/docsify](https://github.com/sy-records/docsify)
+1. 🔒 Closed issue [#1604](https://github.com/typecho/typecho/issues/1604) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 🗣 Commented on [#1604](https://github.com/typecho/typecho/issues/1604#issuecomment-1634978532) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 💪 Opened PR [#2130](https://github.com/docsifyjs/docsify/pull/2130) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+4. ❌ Closed PR [#1](https://github.com/sy-records/docsify/pull/1) in [sy-records/docsify](https://github.com/sy-records/docsify)
+5. 🔒 Closed issue [#1601](https://github.com/typecho/typecho/issues/1601) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
