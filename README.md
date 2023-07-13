@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1601](https://github.com/typecho/typecho/issues/1601) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🗣 Commented on [#1601](https://github.com/typecho/typecho/issues/1601) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 💪 Opened PR [#1](https://github.com/sy-records/docsify/pull/1) in [sy-records/docsify](https://github.com/sy-records/docsify)
-4. 🔒 Closed issue [#92](https://github.com/simps/mqtt/issues/92) in [simps/mqtt](https://github.com/simps/mqtt)
-5. 🔒 Closed issue [#1599](https://github.com/typecho/typecho/issues/1599) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 💪 Opened PR [#2130](https://github.com/docsifyjs/docsify/pull/2130) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. ❌ Closed PR [#1](https://github.com/sy-records/docsify/pull/1) in [sy-records/docsify](https://github.com/sy-records/docsify)
+3. 🔒 Closed issue [#1601](https://github.com/typecho/typecho/issues/1601) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🗣 Commented on [#1601](https://github.com/typecho/typecho/issues/1601) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 💪 Opened PR [#1](https://github.com/sy-records/docsify/pull/1) in [sy-records/docsify](https://github.com/sy-records/docsify)
 <!--END_SECTION:activity-->
 
 </details>
