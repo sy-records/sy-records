@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1604](https://github.com/typecho/typecho/issues/1604#issuecomment-1635339815) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🗣 Commented on [#1603](https://github.com/typecho/typecho/issues/1603#issuecomment-1635271385) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🔒 Closed issue [#1603](https://github.com/typecho/typecho/issues/1603) in [typecho/typecho](https://github.com/typecho/typecho)
-4. 🗣 Commented on [#1603](https://github.com/typecho/typecho/issues/1603#issuecomment-1635177434) in [typecho/typecho](https://github.com/typecho/typecho)
-5. 🔒 Closed issue [#1604](https://github.com/typecho/typecho/issues/1604) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🗣 Commented on [#1604](https://github.com/typecho/typecho/issues/1604#issuecomment-1635351062) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 💪 Opened PR [#1605](https://github.com/typecho/typecho/pull/1605) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🗣 Commented on [#1604](https://github.com/typecho/typecho/issues/1604#issuecomment-1635339815) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🗣 Commented on [#1603](https://github.com/typecho/typecho/issues/1603#issuecomment-1635271385) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 🔒 Closed issue [#1603](https://github.com/typecho/typecho/issues/1603) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
