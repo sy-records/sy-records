@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/docsifyjs/docsify-template/pull/2) in [docsifyjs/docsify-template](https://github.com/docsifyjs/docsify-template)
-2. 🗣 Commented on [#1604](https://github.com/typecho/typecho/issues/1604#issuecomment-1635351062) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 💪 Opened PR [#1605](https://github.com/typecho/typecho/pull/1605) in [typecho/typecho](https://github.com/typecho/typecho)
-4. 🗣 Commented on [#1604](https://github.com/typecho/typecho/issues/1604#issuecomment-1635339815) in [typecho/typecho](https://github.com/typecho/typecho)
-5. 🗣 Commented on [#1603](https://github.com/typecho/typecho/issues/1603#issuecomment-1635271385) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🔒 Closed issue [#117](https://github.com/easysoft/zentaopms/issues/117) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+2. 🚀 Published release [18.5](https://github.com/easysoft/zentaopms/releases/tag/zentaopms_18.5) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+3. 🎉 Merged PR [#2](https://github.com/docsifyjs/docsify-template/pull/2) in [docsifyjs/docsify-template](https://github.com/docsifyjs/docsify-template)
+4. 🗣 Commented on [#1604](https://github.com/typecho/typecho/issues/1604#issuecomment-1635351062) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 💪 Opened PR [#1605](https://github.com/typecho/typecho/pull/1605) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
