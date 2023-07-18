@@ -16,4 +16,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_NAME: "sy-records"
-          COMMIT_EMAL: "52o@qq52o.cn"
+          COMMIT_EMAIL: "52o@qq52o.cn"
