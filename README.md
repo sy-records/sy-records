@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2139](https://github.com/docsifyjs/docsify/pull/2139) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. 🎉 Merged PR [#2121](https://github.com/docsifyjs/docsify/pull/2121) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. 🗣 Commented on [#2121](https://github.com/docsifyjs/docsify/pull/2121#issuecomment-1639022453) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. ❌ Closed PR [#1851](https://github.com/docsifyjs/docsify/pull/1851) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-5. 🗣 Commented on [#1851](https://github.com/docsifyjs/docsify/pull/1851#issuecomment-1637284657) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+1. 🎉 Merged PR [#2134](https://github.com/docsifyjs/docsify/pull/2134) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. 🎉 Merged PR [#2139](https://github.com/docsifyjs/docsify/pull/2139) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 🎉 Merged PR [#2121](https://github.com/docsifyjs/docsify/pull/2121) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+4. 🗣 Commented on [#2121](https://github.com/docsifyjs/docsify/pull/2121#issuecomment-1639022453) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. ❌ Closed PR [#1851](https://github.com/docsifyjs/docsify/pull/1851) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
 </details>
