@@ -34,7 +34,6 @@
 
 [![GitHub Snake Light](https://raw.githubusercontent.com/sy-records/sy-records/output/github-contribution-grid-snake.svg)](https://github.com/sy-records)
 
-
 <details>
 <summary>😎 View my contributions in 3D</summary>
 
