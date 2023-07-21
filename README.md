@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#266](https://github.com/docsifyjs/awesome-docsify/issues/266#issuecomment-1643307025) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-2. 🎉 Merged PR [#797](https://github.com/php/web-php/pull/797) in [php/web-php](https://github.com/php/web-php)
-3. 💪 Opened PR [#722](https://github.com/laravel/octane/pull/722) in [laravel/octane](https://github.com/laravel/octane)
-4. 🎉 Merged PR [#203](https://github.com/docsifyjs/docsify-cli/pull/203) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-5. 🗣 Commented on [#721](https://github.com/laravel/octane/issues/721#issuecomment-1641069432) in [laravel/octane](https://github.com/laravel/octane)
+1. 🔒 Closed issue [#1](https://github.com/sy-records/docsify-footnotes/issues/1) in [sy-records/docsify-footnotes](https://github.com/sy-records/docsify-footnotes)
+2. 🗣 Commented on [#1](https://github.com/sy-records/docsify-footnotes/issues/1#issuecomment-1644885775) in [sy-records/docsify-footnotes](https://github.com/sy-records/docsify-footnotes)
+3. 🚀 Published release [v1.0.2](https://github.com/sy-records/docsify-footnotes/releases/tag/v1.0.2) in [sy-records/docsify-footnotes](https://github.com/sy-records/docsify-footnotes)
+4. 🗣 Commented on [#266](https://github.com/docsifyjs/awesome-docsify/issues/266#issuecomment-1643307025) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+5. 🎉 Merged PR [#797](https://github.com/php/web-php/pull/797) in [php/web-php](https://github.com/php/web-php)
 <!--END_SECTION:activity-->
 
 </details>
