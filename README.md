@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.3](https://github.com/sy-records/MemorialDay/releases/tag/v1.0.3) in [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay)
-2. 🚀 Published release [v1.0.2](https://github.com/sy-records/MemorialDay/releases/tag/v1.0.2) in [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay)
+1. 🚀 Published release [v1.0.1](https://github.com/sy-records/random-look/releases/tag/v1.0.1) in [sy-records/random-look](https://github.com/sy-records/random-look)
+2. 🚀 Published release [v1.0.3](https://github.com/sy-records/MemorialDay/releases/tag/v1.0.3) in [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay)
 3. 🚀 Published release [v1.0.2](https://github.com/sy-records/MemorialDay/releases/tag/v1.0.2) in [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay)
-4. 🔒 Closed issue [#1](https://github.com/sy-records/docsify-footnotes/issues/1) in [sy-records/docsify-footnotes](https://github.com/sy-records/docsify-footnotes)
-5. 🗣 Commented on [#1](https://github.com/sy-records/docsify-footnotes/issues/1#issuecomment-1644885775) in [sy-records/docsify-footnotes](https://github.com/sy-records/docsify-footnotes)
+4. 🚀 Published release [v1.0.2](https://github.com/sy-records/MemorialDay/releases/tag/v1.0.2) in [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay)
+5. 🔒 Closed issue [#1](https://github.com/sy-records/docsify-footnotes/issues/1) in [sy-records/docsify-footnotes](https://github.com/sy-records/docsify-footnotes)
 <!--END_SECTION:activity-->
 
 </details>
