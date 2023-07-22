@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/sy-records/random-look/releases/tag/v1.0.1) in [sy-records/random-look](https://github.com/sy-records/random-look)
-2. 🚀 Published release [v1.0.3](https://github.com/sy-records/MemorialDay/releases/tag/v1.0.3) in [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay)
-3. 🚀 Published release [v1.0.2](https://github.com/sy-records/MemorialDay/releases/tag/v1.0.2) in [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay)
-4. 🚀 Published release [v1.0.2](https://github.com/sy-records/MemorialDay/releases/tag/v1.0.2) in [sy-records/MemorialDay](https://github.com/sy-records/MemorialDay)
-5. 🔒 Closed issue [#1](https://github.com/sy-records/docsify-footnotes/issues/1) in [sy-records/docsify-footnotes](https://github.com/sy-records/docsify-footnotes)
+1. 🚀 Published release [v1.1.0](https://github.com/sy-records/wp-baidu-textcensor/releases/tag/v1.1.0) in [sy-records/wp-baidu-textcensor](https://github.com/sy-records/wp-baidu-textcensor)
+2. 🎉 Merged PR [#2](https://github.com/sy-records/wp-baidu-textcensor/pull/2) in [sy-records/wp-baidu-textcensor](https://github.com/sy-records/wp-baidu-textcensor)
+3. 💪 Opened PR [#2](https://github.com/sy-records/wp-baidu-textcensor/pull/2) in [sy-records/wp-baidu-textcensor](https://github.com/sy-records/wp-baidu-textcensor)
+4. 🚀 Published release [v1.1.2](https://github.com/sy-records/textcensor-for-articles/releases/tag/v1.1.2) in [sy-records/textcensor-for-articles](https://github.com/sy-records/textcensor-for-articles)
+5. 🚀 Published release [v1.0.1](https://github.com/sy-records/random-look/releases/tag/v1.0.1) in [sy-records/random-look](https://github.com/sy-records/random-look)
 <!--END_SECTION:activity-->
 
 </details>
