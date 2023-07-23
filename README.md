@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0](https://github.com/sy-records/realtimehot-weibo/releases/tag/v1.1.0) in [sy-records/realtimehot-weibo](https://github.com/sy-records/realtimehot-weibo)
-2. 🎉 Merged PR [#2](https://github.com/sy-records/realtimehot-weibo/pull/2) in [sy-records/realtimehot-weibo](https://github.com/sy-records/realtimehot-weibo)
-3. 💪 Opened PR [#2](https://github.com/sy-records/realtimehot-weibo/pull/2) in [sy-records/realtimehot-weibo](https://github.com/sy-records/realtimehot-weibo)
-4. 🎉 Merged PR [#1](https://github.com/sy-records/realtimehot-weibo/pull/1) in [sy-records/realtimehot-weibo](https://github.com/sy-records/realtimehot-weibo)
-5. 💪 Opened PR [#1](https://github.com/sy-records/realtimehot-weibo/pull/1) in [sy-records/realtimehot-weibo](https://github.com/sy-records/realtimehot-weibo)
+1. 🎉 Merged PR [#774](https://github.com/php/doc-zh/pull/774) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 🚀 Published release [v1.1.0](https://github.com/sy-records/realtimehot-weibo/releases/tag/v1.1.0) in [sy-records/realtimehot-weibo](https://github.com/sy-records/realtimehot-weibo)
+3. 🎉 Merged PR [#2](https://github.com/sy-records/realtimehot-weibo/pull/2) in [sy-records/realtimehot-weibo](https://github.com/sy-records/realtimehot-weibo)
+4. 💪 Opened PR [#2](https://github.com/sy-records/realtimehot-weibo/pull/2) in [sy-records/realtimehot-weibo](https://github.com/sy-records/realtimehot-weibo)
+5. 🎉 Merged PR [#1](https://github.com/sy-records/realtimehot-weibo/pull/1) in [sy-records/realtimehot-weibo](https://github.com/sy-records/realtimehot-weibo)
 <!--END_SECTION:activity-->
 
 </details>
