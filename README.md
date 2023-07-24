@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/sy-records/wordpress-qcloud-cos/pull/25) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-2. 🔒 Closed issue [#9](https://github.com/sy-records/wordpress-qcloud-cos/issues/9) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-3. 🎉 Merged PR [#774](https://github.com/php/doc-zh/pull/774) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 🚀 Published release [v1.1.0](https://github.com/sy-records/realtimehot-weibo/releases/tag/v1.1.0) in [sy-records/realtimehot-weibo](https://github.com/sy-records/realtimehot-weibo)
-5. 🎉 Merged PR [#2](https://github.com/sy-records/realtimehot-weibo/pull/2) in [sy-records/realtimehot-weibo](https://github.com/sy-records/realtimehot-weibo)
+1. 🚀 Published release [v2.1.0](https://github.com/sy-records/wordpress-qcloud-cos/releases/tag/v2.1.0) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+2. 🎉 Merged PR [#25](https://github.com/sy-records/wordpress-qcloud-cos/pull/25) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+3. 💪 Opened PR [#25](https://github.com/sy-records/wordpress-qcloud-cos/pull/25) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+4. 🔒 Closed issue [#9](https://github.com/sy-records/wordpress-qcloud-cos/issues/9) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+5. 🎉 Merged PR [#774](https://github.com/php/doc-zh/pull/774) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
