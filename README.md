@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5968](https://github.com/hyperf/hyperf/issues/5968) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-2. 🚀 Published release [v2.1.0](https://github.com/sy-records/wordpress-qcloud-cos/releases/tag/v2.1.0) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-3. 🎉 Merged PR [#25](https://github.com/sy-records/wordpress-qcloud-cos/pull/25) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-4. 💪 Opened PR [#25](https://github.com/sy-records/wordpress-qcloud-cos/pull/25) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-5. 🔒 Closed issue [#9](https://github.com/sy-records/wordpress-qcloud-cos/issues/9) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+1. 🎉 Merged PR [#18](https://github.com/sy-records/aliyun-oss-wordpress/pull/18) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+2. ❌ Closed PR [#6](https://github.com/sy-records/aliyun-oss-wordpress/pull/6) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+3. 💪 Opened PR [#18](https://github.com/sy-records/aliyun-oss-wordpress/pull/18) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+4. 🔒 Closed issue [#5968](https://github.com/hyperf/hyperf/issues/5968) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+5. 🚀 Published release [v2.1.0](https://github.com/sy-records/wordpress-qcloud-cos/releases/tag/v2.1.0) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
 <!--END_SECTION:activity-->
 
 </details>
