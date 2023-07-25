@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.4.0](https://github.com/sy-records/aliyun-oss-wordpress/releases/tag/v1.4.0) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
-2. 🔒 Closed issue [#15](https://github.com/sy-records/aliyun-oss-wordpress/issues/15) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
-3. 🎉 Merged PR [#19](https://github.com/sy-records/aliyun-oss-wordpress/pull/19) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
-4. 💪 Opened PR [#19](https://github.com/sy-records/aliyun-oss-wordpress/pull/19) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
-5. 🎉 Merged PR [#18](https://github.com/sy-records/aliyun-oss-wordpress/pull/18) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+1. 💪 Opened PR [#43](https://github.com/stefanzweifel/php-changelog-updater/pull/43) in [stefanzweifel/php-changelog-updater](https://github.com/stefanzweifel/php-changelog-updater)
+2. 💪 Opened PR [#725](https://github.com/laravel/octane/pull/725) in [laravel/octane](https://github.com/laravel/octane)
+3. 🚀 Published release [v1.4.0](https://github.com/sy-records/aliyun-oss-wordpress/releases/tag/v1.4.0) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+4. 🔒 Closed issue [#15](https://github.com/sy-records/aliyun-oss-wordpress/issues/15) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+5. 🎉 Merged PR [#19](https://github.com/sy-records/aliyun-oss-wordpress/pull/19) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
 <!--END_SECTION:activity-->
 
 </details>
