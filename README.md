@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/sy-records/qiniu-kodo-wordpress/pull/9) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
-2. 💪 Opened PR [#9](https://github.com/sy-records/qiniu-kodo-wordpress/pull/9) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
-3. 🎉 Merged PR [#8](https://github.com/sy-records/qiniu-kodo-wordpress/pull/8) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
-4. 💪 Opened PR [#8](https://github.com/sy-records/qiniu-kodo-wordpress/pull/8) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
-5. 💪 Opened PR [#43](https://github.com/stefanzweifel/php-changelog-updater/pull/43) in [stefanzweifel/php-changelog-updater](https://github.com/stefanzweifel/php-changelog-updater)
+1. 🚀 Published release [v1.4.0](https://github.com/sy-records/qiniu-kodo-wordpress/releases/tag/v1.4.0) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
+2. 🎉 Merged PR [#9](https://github.com/sy-records/qiniu-kodo-wordpress/pull/9) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
+3. 💪 Opened PR [#9](https://github.com/sy-records/qiniu-kodo-wordpress/pull/9) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
+4. 🎉 Merged PR [#8](https://github.com/sy-records/qiniu-kodo-wordpress/pull/8) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
+5. 💪 Opened PR [#8](https://github.com/sy-records/qiniu-kodo-wordpress/pull/8) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
 <!--END_SECTION:activity-->
 
 </details>
