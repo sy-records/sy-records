@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#204](https://github.com/docsifyjs/docsify-cli/pull/204) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-2. 💪 Opened PR [#204](https://github.com/docsifyjs/docsify-cli/pull/204) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-3. 🎉 Merged PR [#182](https://github.com/docsifyjs/docsify-cli/pull/182) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-4. 🚀 Published release [v1.4.0](https://github.com/sy-records/qiniu-kodo-wordpress/releases/tag/v1.4.0) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
-5. 🎉 Merged PR [#9](https://github.com/sy-records/qiniu-kodo-wordpress/pull/9) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
+1. 🔒 Closed issue [#64](https://github.com/docsifyjs/docsify-cli/issues/64) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+2. 🎉 Merged PR [#204](https://github.com/docsifyjs/docsify-cli/pull/204) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+3. 💪 Opened PR [#204](https://github.com/docsifyjs/docsify-cli/pull/204) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+4. 🎉 Merged PR [#182](https://github.com/docsifyjs/docsify-cli/pull/182) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+5. 🚀 Published release [v1.4.0](https://github.com/sy-records/qiniu-kodo-wordpress/releases/tag/v1.4.0) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
 <!--END_SECTION:activity-->
 
 </details>
