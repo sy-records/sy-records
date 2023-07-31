@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.3.0](https://github.com/sy-records/upyun-uss-wordpress/releases/tag/v1.3.0) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
-2. 🎉 Merged PR [#13](https://github.com/sy-records/upyun-uss-wordpress/pull/13) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
-3. 💪 Opened PR [#13](https://github.com/sy-records/upyun-uss-wordpress/pull/13) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
-4. 🔒 Closed issue [#64](https://github.com/docsifyjs/docsify-cli/issues/64) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-5. 🎉 Merged PR [#204](https://github.com/docsifyjs/docsify-cli/pull/204) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+1. 💪 Opened PR [#9](https://github.com/sy-records/volcengine-imagex-wordpress/pull/9) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+2. 💪 Opened PR [#1](https://github.com/sy-records/huaweicloud-obs-wordpress/pull/1) in [sy-records/huaweicloud-obs-wordpress](https://github.com/sy-records/huaweicloud-obs-wordpress)
+3. 🚀 Published release [v1.3.0](https://github.com/sy-records/upyun-uss-wordpress/releases/tag/v1.3.0) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
+4. 🎉 Merged PR [#13](https://github.com/sy-records/upyun-uss-wordpress/pull/13) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
+5. 💪 Opened PR [#13](https://github.com/sy-records/upyun-uss-wordpress/pull/13) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
 <!--END_SECTION:activity-->
 
 </details>
