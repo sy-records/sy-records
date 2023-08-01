@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.3.0](https://github.com/sy-records/huaweicloud-obs-wordpress/releases/tag/v1.3.0) in [sy-records/huaweicloud-obs-wordpress](https://github.com/sy-records/huaweicloud-obs-wordpress)
-2. 🎉 Merged PR [#1](https://github.com/sy-records/huaweicloud-obs-wordpress/pull/1) in [sy-records/huaweicloud-obs-wordpress](https://github.com/sy-records/huaweicloud-obs-wordpress)
-3. 💪 Opened PR [#9](https://github.com/sy-records/volcengine-imagex-wordpress/pull/9) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
-4. 💪 Opened PR [#1](https://github.com/sy-records/huaweicloud-obs-wordpress/pull/1) in [sy-records/huaweicloud-obs-wordpress](https://github.com/sy-records/huaweicloud-obs-wordpress)
-5. 🚀 Published release [v1.3.0](https://github.com/sy-records/upyun-uss-wordpress/releases/tag/v1.3.0) in [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress)
+1. 🔒 Closed issue [#2159](https://github.com/docsifyjs/docsify/issues/2159) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. 🗣 Commented on [#2159](https://github.com/docsifyjs/docsify/issues/2159#issuecomment-1659750615) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 🚀 Published release [v1.3.0](https://github.com/sy-records/huaweicloud-obs-wordpress/releases/tag/v1.3.0) in [sy-records/huaweicloud-obs-wordpress](https://github.com/sy-records/huaweicloud-obs-wordpress)
+4. 🎉 Merged PR [#1](https://github.com/sy-records/huaweicloud-obs-wordpress/pull/1) in [sy-records/huaweicloud-obs-wordpress](https://github.com/sy-records/huaweicloud-obs-wordpress)
+5. 💪 Opened PR [#9](https://github.com/sy-records/volcengine-imagex-wordpress/pull/9) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
 <!--END_SECTION:activity-->
 
 </details>
