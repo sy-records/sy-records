@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/sy-records/volcengine-imagex-wordpress/pull/9) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
-2. 🔒 Closed issue [#2159](https://github.com/docsifyjs/docsify/issues/2159) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. 🗣 Commented on [#2159](https://github.com/docsifyjs/docsify/issues/2159#issuecomment-1659750615) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. 🚀 Published release [v1.3.0](https://github.com/sy-records/huaweicloud-obs-wordpress/releases/tag/v1.3.0) in [sy-records/huaweicloud-obs-wordpress](https://github.com/sy-records/huaweicloud-obs-wordpress)
-5. 🎉 Merged PR [#1](https://github.com/sy-records/huaweicloud-obs-wordpress/pull/1) in [sy-records/huaweicloud-obs-wordpress](https://github.com/sy-records/huaweicloud-obs-wordpress)
+1. 🚀 Published release [v1.1.0](https://github.com/sy-records/volcengine-imagex-wordpress/releases/tag/v1.1.0) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+2. 🔒 Closed issue [#1](https://github.com/sy-records/volcengine-imagex-wordpress/issues/1) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+3. 🎉 Merged PR [#10](https://github.com/sy-records/volcengine-imagex-wordpress/pull/10) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+4. 💪 Opened PR [#10](https://github.com/sy-records/volcengine-imagex-wordpress/pull/10) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+5. 🎉 Merged PR [#9](https://github.com/sy-records/volcengine-imagex-wordpress/pull/9) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
 <!--END_SECTION:activity-->
 
 </details>
