@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0](https://github.com/sy-records/volcengine-imagex-wordpress/releases/tag/v1.1.0) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
-2. 🔒 Closed issue [#1](https://github.com/sy-records/volcengine-imagex-wordpress/issues/1) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
-3. 🎉 Merged PR [#10](https://github.com/sy-records/volcengine-imagex-wordpress/pull/10) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
-4. 💪 Opened PR [#10](https://github.com/sy-records/volcengine-imagex-wordpress/pull/10) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
-5. 🎉 Merged PR [#9](https://github.com/sy-records/volcengine-imagex-wordpress/pull/9) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+1. ❌ Closed PR [#1](https://github.com/lufei/action-wordpress-plugin-deploy/pull/1) in [lufei/action-wordpress-plugin-deploy](https://github.com/lufei/action-wordpress-plugin-deploy)
+2. ❌ Reopened PR [#1](https://github.com/lufei/action-wordpress-plugin-deploy/pull/1) in [lufei/action-wordpress-plugin-deploy](https://github.com/lufei/action-wordpress-plugin-deploy)
+3. ❌ Closed PR [#1](https://github.com/lufei/action-wordpress-plugin-deploy/pull/1) in [lufei/action-wordpress-plugin-deploy](https://github.com/lufei/action-wordpress-plugin-deploy)
+4. 💪 Opened PR [#1](https://github.com/lufei/action-wordpress-plugin-deploy/pull/1) in [lufei/action-wordpress-plugin-deploy](https://github.com/lufei/action-wordpress-plugin-deploy)
+5. 💪 Opened PR [#133](https://github.com/10up/action-wordpress-plugin-deploy/pull/133) in [10up/action-wordpress-plugin-deploy](https://github.com/10up/action-wordpress-plugin-deploy)
 <!--END_SECTION:activity-->
 
 </details>
