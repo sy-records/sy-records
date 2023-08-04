@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/lufei/action-wordpress-plugin-deploy/pull/1) in [lufei/action-wordpress-plugin-deploy](https://github.com/lufei/action-wordpress-plugin-deploy)
-2. ❌ Reopened PR [#1](https://github.com/lufei/action-wordpress-plugin-deploy/pull/1) in [lufei/action-wordpress-plugin-deploy](https://github.com/lufei/action-wordpress-plugin-deploy)
+1. 🎉 Merged PR [#26](https://github.com/sy-records/wordpress-qcloud-cos/pull/26) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+2. 💪 Opened PR [#26](https://github.com/sy-records/wordpress-qcloud-cos/pull/26) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
 3. ❌ Closed PR [#1](https://github.com/lufei/action-wordpress-plugin-deploy/pull/1) in [lufei/action-wordpress-plugin-deploy](https://github.com/lufei/action-wordpress-plugin-deploy)
-4. 💪 Opened PR [#1](https://github.com/lufei/action-wordpress-plugin-deploy/pull/1) in [lufei/action-wordpress-plugin-deploy](https://github.com/lufei/action-wordpress-plugin-deploy)
-5. 💪 Opened PR [#133](https://github.com/10up/action-wordpress-plugin-deploy/pull/133) in [10up/action-wordpress-plugin-deploy](https://github.com/10up/action-wordpress-plugin-deploy)
+4. ❌ Reopened PR [#1](https://github.com/lufei/action-wordpress-plugin-deploy/pull/1) in [lufei/action-wordpress-plugin-deploy](https://github.com/lufei/action-wordpress-plugin-deploy)
+5. ❌ Closed PR [#1](https://github.com/lufei/action-wordpress-plugin-deploy/pull/1) in [lufei/action-wordpress-plugin-deploy](https://github.com/lufei/action-wordpress-plugin-deploy)
 <!--END_SECTION:activity-->
 
 </details>
