@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#268](https://github.com/docsifyjs/awesome-docsify/pull/268) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-2. 🚀 Published release [v1.4.1](https://github.com/sy-records/qiniu-kodo-wordpress/releases/tag/v1.4.1) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
-3. 🎉 Merged PR [#10](https://github.com/sy-records/qiniu-kodo-wordpress/pull/10) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
-4. 💪 Opened PR [#10](https://github.com/sy-records/qiniu-kodo-wordpress/pull/10) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
-5. 🎉 Merged PR [#26](https://github.com/sy-records/wordpress-qcloud-cos/pull/26) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+1. 💪 Opened PR [#1](https://github.com/sy-records/textcensor-for-articles/pull/1) in [sy-records/textcensor-for-articles](https://github.com/sy-records/textcensor-for-articles)
+2. 🎉 Merged PR [#268](https://github.com/docsifyjs/awesome-docsify/pull/268) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+3. 🚀 Published release [v1.4.1](https://github.com/sy-records/qiniu-kodo-wordpress/releases/tag/v1.4.1) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
+4. 🎉 Merged PR [#10](https://github.com/sy-records/qiniu-kodo-wordpress/pull/10) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
+5. 💪 Opened PR [#10](https://github.com/sy-records/qiniu-kodo-wordpress/pull/10) in [sy-records/qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)
 <!--END_SECTION:activity-->
 
 </details>
