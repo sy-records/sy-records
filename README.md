@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com/10up/action-wordpress-plugin-deploy/pull/133#issuecomment-1667885101) in [10up/action-wordpress-plugin-deploy](https://github.com/10up/action-wordpress-plugin-deploy)
-2. 💪 Opened PR [#2163](https://github.com/docsifyjs/docsify/pull/2163) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. 🎉 Merged PR [#1](https://github.com/sy-records/textcensor-for-articles/pull/1) in [sy-records/textcensor-for-articles](https://github.com/sy-records/textcensor-for-articles)
-4. 💪 Opened PR [#1](https://github.com/sy-records/textcensor-for-articles/pull/1) in [sy-records/textcensor-for-articles](https://github.com/sy-records/textcensor-for-articles)
-5. 🎉 Merged PR [#268](https://github.com/docsifyjs/awesome-docsify/pull/268) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+1. ❌ Reopened PR [#2163](https://github.com/docsifyjs/docsify/pull/2163) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+2. ❌ Closed PR [#2163](https://github.com/docsifyjs/docsify/pull/2163) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+3. 🗣 Commented on [#133](https://github.com/10up/action-wordpress-plugin-deploy/pull/133#issuecomment-1667885101) in [10up/action-wordpress-plugin-deploy](https://github.com/10up/action-wordpress-plugin-deploy)
+4. 💪 Opened PR [#2163](https://github.com/docsifyjs/docsify/pull/2163) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 🎉 Merged PR [#1](https://github.com/sy-records/textcensor-for-articles/pull/1) in [sy-records/textcensor-for-articles](https://github.com/sy-records/textcensor-for-articles)
 <!--END_SECTION:activity-->
 
 </details>
