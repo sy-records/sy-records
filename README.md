@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/sy-records/wordpress-qcloud-cos/issues/27#issuecomment-1670839879) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-2. 💪 Opened PR [#3](https://github.com/sy-records/wp-baidu-textcensor/pull/3) in [sy-records/wp-baidu-textcensor](https://github.com/sy-records/wp-baidu-textcensor)
-3. 🎉 Merged PR [#2163](https://github.com/docsifyjs/docsify/pull/2163) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. ❌ Reopened PR [#2163](https://github.com/docsifyjs/docsify/pull/2163) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-5. ❌ Closed PR [#2163](https://github.com/docsifyjs/docsify/pull/2163) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+1. 🔒 Closed issue [#120](https://github.com/easysoft/zentaopms/issues/120) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+2. 🗣 Commented on [#120](https://github.com/easysoft/zentaopms/issues/120#issuecomment-1670971232) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+3. 🗣 Commented on [#27](https://github.com/sy-records/wordpress-qcloud-cos/issues/27#issuecomment-1670839879) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+4. 💪 Opened PR [#3](https://github.com/sy-records/wp-baidu-textcensor/pull/3) in [sy-records/wp-baidu-textcensor](https://github.com/sy-records/wp-baidu-textcensor)
+5. 🎉 Merged PR [#2163](https://github.com/docsifyjs/docsify/pull/2163) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
 </details>
