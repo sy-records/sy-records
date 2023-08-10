@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1608](https://github.com/typecho/typecho/issues/1608#issuecomment-1672627109) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🗣 Commented on [#1608](https://github.com/typecho/typecho/issues/1608#issuecomment-1672619823) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🔒 Closed issue [#1608](https://github.com/typecho/typecho/issues/1608) in [typecho/typecho](https://github.com/typecho/typecho)
-4. 🗣 Commented on [#1608](https://github.com/typecho/typecho/issues/1608#issuecomment-1672609330) in [typecho/typecho](https://github.com/typecho/typecho)
-5. 🗣 Commented on [#1608](https://github.com/typecho/typecho/issues/1608#issuecomment-1672596739) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🎉 Merged PR [#3](https://github.com/sy-records/wp-baidu-textcensor/pull/3) in [sy-records/wp-baidu-textcensor](https://github.com/sy-records/wp-baidu-textcensor)
+2. 🗣 Commented on [#1608](https://github.com/typecho/typecho/issues/1608#issuecomment-1672627109) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🗣 Commented on [#1608](https://github.com/typecho/typecho/issues/1608#issuecomment-1672619823) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🔒 Closed issue [#1608](https://github.com/typecho/typecho/issues/1608) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 🗣 Commented on [#1608](https://github.com/typecho/typecho/issues/1608#issuecomment-1672609330) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
