@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#120](https://github.com/easysoft/zentaopms/issues/120) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-2. 🗣 Commented on [#120](https://github.com/easysoft/zentaopms/issues/120#issuecomment-1670971232) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-3. 🗣 Commented on [#27](https://github.com/sy-records/wordpress-qcloud-cos/issues/27#issuecomment-1670839879) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-4. 💪 Opened PR [#3](https://github.com/sy-records/wp-baidu-textcensor/pull/3) in [sy-records/wp-baidu-textcensor](https://github.com/sy-records/wp-baidu-textcensor)
-5. 🎉 Merged PR [#2163](https://github.com/docsifyjs/docsify/pull/2163) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+1. 🗣 Commented on [#1608](https://github.com/typecho/typecho/issues/1608#issuecomment-1672619823) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 🔒 Closed issue [#1608](https://github.com/typecho/typecho/issues/1608) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🗣 Commented on [#1608](https://github.com/typecho/typecho/issues/1608#issuecomment-1672609330) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🗣 Commented on [#1608](https://github.com/typecho/typecho/issues/1608#issuecomment-1672596739) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 🔒 Closed issue [#120](https://github.com/easysoft/zentaopms/issues/120) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
 <!--END_SECTION:activity-->
 
 </details>
