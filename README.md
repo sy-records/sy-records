@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/sy-records/wp-baidu-textcensor/pull/3) in [sy-records/wp-baidu-textcensor](https://github.com/sy-records/wp-baidu-textcensor)
-2. 🗣 Commented on [#1608](https://github.com/typecho/typecho/issues/1608#issuecomment-1672627109) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🗣 Commented on [#1608](https://github.com/typecho/typecho/issues/1608#issuecomment-1672619823) in [typecho/typecho](https://github.com/typecho/typecho)
-4. 🔒 Closed issue [#1608](https://github.com/typecho/typecho/issues/1608) in [typecho/typecho](https://github.com/typecho/typecho)
-5. 🗣 Commented on [#1608](https://github.com/typecho/typecho/issues/1608#issuecomment-1672609330) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 💪 Opened PR [#6014](https://github.com/hyperf/hyperf/pull/6014) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+2. 🎉 Merged PR [#2675](https://github.com/php/doc-en/pull/2675) in [php/doc-en](https://github.com/php/doc-en)
+3. 🗣 Commented on [#2675](https://github.com/php/doc-en/pull/2675#issuecomment-1674083750) in [php/doc-en](https://github.com/php/doc-en)
+4. 💪 Opened PR [#3](https://github.com/sy-records/realtimehot-weibo/pull/3) in [sy-records/realtimehot-weibo](https://github.com/sy-records/realtimehot-weibo)
+5. 💪 Opened PR [#1](https://github.com/sy-records/random-look/pull/1) in [sy-records/random-look](https://github.com/sy-records/random-look)
 <!--END_SECTION:activity-->
 
 </details>
