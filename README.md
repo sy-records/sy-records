@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#777](https://github.com/php/doc-zh/pull/777) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 🎉 Merged PR [#1](https://github.com/sy-records/random-look/pull/1) in [sy-records/random-look](https://github.com/sy-records/random-look)
-3. 🎉 Merged PR [#3](https://github.com/sy-records/realtimehot-weibo/pull/3) in [sy-records/realtimehot-weibo](https://github.com/sy-records/realtimehot-weibo)
-4. 🎉 Merged PR [#20](https://github.com/sy-records/aliyun-oss-wordpress/pull/20) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
-5. 💪 Opened PR [#6014](https://github.com/hyperf/hyperf/pull/6014) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+1. 🚀 Published release [v1.4.1](https://github.com/sy-records/aliyun-oss-wordpress/releases/tag/v1.4.1) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+2. 🎉 Merged PR [#21](https://github.com/sy-records/aliyun-oss-wordpress/pull/21) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+3. 💪 Opened PR [#21](https://github.com/sy-records/aliyun-oss-wordpress/pull/21) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+4. 💪 Opened PR [#777](https://github.com/php/doc-zh/pull/777) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 🎉 Merged PR [#1](https://github.com/sy-records/random-look/pull/1) in [sy-records/random-look](https://github.com/sy-records/random-look)
 <!--END_SECTION:activity-->
 
 </details>
