@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#207](https://github.com/docsifyjs/docsify-cli/pull/207) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-2. 🚀 Published release [v1.4.1](https://github.com/sy-records/aliyun-oss-wordpress/releases/tag/v1.4.1) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
-3. 🎉 Merged PR [#21](https://github.com/sy-records/aliyun-oss-wordpress/pull/21) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
-4. 💪 Opened PR [#21](https://github.com/sy-records/aliyun-oss-wordpress/pull/21) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
-5. 💪 Opened PR [#777](https://github.com/php/doc-zh/pull/777) in [php/doc-zh](https://github.com/php/doc-zh)
+1. 💪 Opened PR [#28](https://github.com/sy-records/wordpress-qcloud-cos/pull/28) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+2. 🎉 Merged PR [#777](https://github.com/php/doc-zh/pull/777) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 💪 Opened PR [#207](https://github.com/docsifyjs/docsify-cli/pull/207) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+4. 🚀 Published release [v1.4.1](https://github.com/sy-records/aliyun-oss-wordpress/releases/tag/v1.4.1) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
+5. 🎉 Merged PR [#21](https://github.com/sy-records/aliyun-oss-wordpress/pull/21) in [sy-records/aliyun-oss-wordpress](https://github.com/sy-records/aliyun-oss-wordpress)
 <!--END_SECTION:activity-->
 
 </details>
