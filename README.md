@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.2.1](https://github.com/sy-records/wordpress-qcloud-cos/releases/tag/v2.2.1) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-2. 🚀 Published release [v2.2.0](https://github.com/sy-records/wordpress-qcloud-cos/releases/tag/v2.2.0) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-3. 🎉 Merged PR [#28](https://github.com/sy-records/wordpress-qcloud-cos/pull/28) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-4. 💪 Opened PR [#28](https://github.com/sy-records/wordpress-qcloud-cos/pull/28) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-5. 🎉 Merged PR [#777](https://github.com/php/doc-zh/pull/777) in [php/doc-zh](https://github.com/php/doc-zh)
+1. ❌ Closed PR [#1](https://github.com/halfstring/swoole-chinese-docset/pull/1) in [halfstring/swoole-chinese-docset](https://github.com/halfstring/swoole-chinese-docset)
+2. ❌ Closed PR [#71](https://github.com/daodao97/apidog/pull/71) in [daodao97/apidog](https://github.com/daodao97/apidog)
+3. 🚀 Published release [v2.2.1](https://github.com/sy-records/wordpress-qcloud-cos/releases/tag/v2.2.1) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+4. 🚀 Published release [v2.2.0](https://github.com/sy-records/wordpress-qcloud-cos/releases/tag/v2.2.0) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+5. 🎉 Merged PR [#28](https://github.com/sy-records/wordpress-qcloud-cos/pull/28) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
 <!--END_SECTION:activity-->
 
 </details>
