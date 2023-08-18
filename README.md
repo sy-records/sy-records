@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/halfstring/swoole-chinese-docset/pull/1) in [halfstring/swoole-chinese-docset](https://github.com/halfstring/swoole-chinese-docset)
-2. ❌ Closed PR [#71](https://github.com/daodao97/apidog/pull/71) in [daodao97/apidog](https://github.com/daodao97/apidog)
-3. 🚀 Published release [v2.2.1](https://github.com/sy-records/wordpress-qcloud-cos/releases/tag/v2.2.1) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-4. 🚀 Published release [v2.2.0](https://github.com/sy-records/wordpress-qcloud-cos/releases/tag/v2.2.0) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-5. 🎉 Merged PR [#28](https://github.com/sy-records/wordpress-qcloud-cos/pull/28) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+1. 🚀 Published release [v1.1.1](https://github.com/sy-records/volcengine-imagex-wordpress/releases/tag/v1.1.1) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+2. 🎉 Merged PR [#11](https://github.com/sy-records/volcengine-imagex-wordpress/pull/11) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+3. 💪 Opened PR [#11](https://github.com/sy-records/volcengine-imagex-wordpress/pull/11) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+4. ❌ Closed PR [#1](https://github.com/halfstring/swoole-chinese-docset/pull/1) in [halfstring/swoole-chinese-docset](https://github.com/halfstring/swoole-chinese-docset)
+5. ❌ Closed PR [#71](https://github.com/daodao97/apidog/pull/71) in [daodao97/apidog](https://github.com/daodao97/apidog)
 <!--END_SECTION:activity-->
 
 </details>
