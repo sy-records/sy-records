@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/sy-records/volcengine-imagex-wordpress/pull/12) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
-2. 🎉 Merged PR [#269](https://github.com/docsifyjs/awesome-docsify/pull/269) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-3. 🔒 Closed issue [#27](https://github.com/sy-records/wordpress-qcloud-cos/issues/27) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-4. 🚀 Published release [v1.1.1](https://github.com/sy-records/volcengine-imagex-wordpress/releases/tag/v1.1.1) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
-5. 🎉 Merged PR [#11](https://github.com/sy-records/volcengine-imagex-wordpress/pull/11) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+1. 🚀 Published release [v1.1.2](https://github.com/sy-records/volcengine-imagex-wordpress/releases/tag/v1.1.2) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+2. 🚀 Published release [v1.1.2](https://github.com/sy-records/volcengine-imagex-wordpress/releases/tag/v1.1.2) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+3. 🎉 Merged PR [#12](https://github.com/sy-records/volcengine-imagex-wordpress/pull/12) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+4. 💪 Opened PR [#12](https://github.com/sy-records/volcengine-imagex-wordpress/pull/12) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+5. 🎉 Merged PR [#269](https://github.com/docsifyjs/awesome-docsify/pull/269) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
 <!--END_SECTION:activity-->
 
 </details>
