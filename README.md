@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.2](https://github.com/sy-records/volcengine-imagex-wordpress/releases/tag/v1.1.2) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
-2. 🚀 Published release [v1.1.2](https://github.com/sy-records/volcengine-imagex-wordpress/releases/tag/v1.1.2) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
-3. 🎉 Merged PR [#12](https://github.com/sy-records/volcengine-imagex-wordpress/pull/12) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
-4. 💪 Opened PR [#12](https://github.com/sy-records/volcengine-imagex-wordpress/pull/12) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
-5. 🎉 Merged PR [#269](https://github.com/docsifyjs/awesome-docsify/pull/269) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+1. 🎉 Merged PR [#46](https://github.com/docsifyjs/docs-zh/pull/46) in [docsifyjs/docs-zh](https://github.com/docsifyjs/docs-zh)
+2. 🗣 Commented on [#46](https://github.com/docsifyjs/docs-zh/pull/46#issuecomment-1685156870) in [docsifyjs/docs-zh](https://github.com/docsifyjs/docs-zh)
+3. 💪 Opened PR [#779](https://github.com/php/doc-zh/pull/779) in [php/doc-zh](https://github.com/php/doc-zh)
+4. 🚀 Published release [v1.1.2](https://github.com/sy-records/volcengine-imagex-wordpress/releases/tag/v1.1.2) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+5. 🚀 Published release [v1.1.2](https://github.com/sy-records/volcengine-imagex-wordpress/releases/tag/v1.1.2) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
 <!--END_SECTION:activity-->
 
 </details>
