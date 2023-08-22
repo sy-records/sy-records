@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1609](https://github.com/typecho/typecho/issues/1609) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🗣 Commented on [#1609](https://github.com/typecho/typecho/issues/1609#issuecomment-1685768575) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🗣 Commented on [#1609](https://github.com/typecho/typecho/issues/1609#issuecomment-1685688552) in [typecho/typecho](https://github.com/typecho/typecho)
-4. 💪 Opened PR [#29](https://github.com/sy-records/wordpress-qcloud-cos/pull/29) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-5. 🎉 Merged PR [#46](https://github.com/docsifyjs/docs-zh/pull/46) in [docsifyjs/docs-zh](https://github.com/docsifyjs/docs-zh)
+1. 🎉 Merged PR [#779](https://github.com/php/doc-zh/pull/779) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 🔒 Closed issue [#1609](https://github.com/typecho/typecho/issues/1609) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🗣 Commented on [#1609](https://github.com/typecho/typecho/issues/1609#issuecomment-1685768575) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🗣 Commented on [#1609](https://github.com/typecho/typecho/issues/1609#issuecomment-1685688552) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 💪 Opened PR [#29](https://github.com/sy-records/wordpress-qcloud-cos/pull/29) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
 <!--END_SECTION:activity-->
 
 </details>
