@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/sy-records/wordpress-qcloud-cos/pull/30) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-2. 💪 Opened PR [#316](https://github.com/tencentyun/cos-php-sdk-v5/pull/316) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
-3. 🎉 Merged PR [#29](https://github.com/sy-records/wordpress-qcloud-cos/pull/29) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-4. 🎉 Merged PR [#779](https://github.com/php/doc-zh/pull/779) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 🔒 Closed issue [#1609](https://github.com/typecho/typecho/issues/1609) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 💪 Opened PR [#317](https://github.com/tencentyun/cos-php-sdk-v5/pull/317) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
+2. 💪 Opened PR [#30](https://github.com/sy-records/wordpress-qcloud-cos/pull/30) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+3. 💪 Opened PR [#316](https://github.com/tencentyun/cos-php-sdk-v5/pull/316) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
+4. 🎉 Merged PR [#29](https://github.com/sy-records/wordpress-qcloud-cos/pull/29) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+5. 🎉 Merged PR [#779](https://github.com/php/doc-zh/pull/779) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
