@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/sy-records/wordpress-qcloud-cos/pull/31) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-2. ❌ Closed PR [#207](https://github.com/docsifyjs/docsify-cli/pull/207) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
-3. 🚀 Published release [v2.2.2](https://github.com/sy-records/wordpress-qcloud-cos/releases/tag/v2.2.2) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-4. 🎉 Merged PR [#30](https://github.com/sy-records/wordpress-qcloud-cos/pull/30) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
-5. 💪 Opened PR [#318](https://github.com/tencentyun/cos-php-sdk-v5/pull/318) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
+1. 🎉 Merged PR [#31](https://github.com/sy-records/wordpress-qcloud-cos/pull/31) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+2. 💪 Opened PR [#31](https://github.com/sy-records/wordpress-qcloud-cos/pull/31) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+3. ❌ Closed PR [#207](https://github.com/docsifyjs/docsify-cli/pull/207) in [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli)
+4. 🚀 Published release [v2.2.2](https://github.com/sy-records/wordpress-qcloud-cos/releases/tag/v2.2.2) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
+5. 🎉 Merged PR [#30](https://github.com/sy-records/wordpress-qcloud-cos/pull/30) in [sy-records/wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)
 <!--END_SECTION:activity-->
 
 </details>
