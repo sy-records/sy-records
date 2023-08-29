@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#781](https://github.com/php/doc-zh/pull/781) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 💪 Opened PR [#781](https://github.com/php/doc-zh/pull/781) in [php/doc-zh](https://github.com/php/doc-zh)
-3. 💪 Opened PR [#740](https://github.com/laravel/octane/pull/740) in [laravel/octane](https://github.com/laravel/octane)
-4. 🚀 Published release [v2.2.3](https://github.com/sy-records/sync-qcloud-cos/releases/tag/v2.2.3) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
-5. 🎉 Merged PR [#33](https://github.com/sy-records/sync-qcloud-cos/pull/33) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+1. ❌ Closed PR [#3](https://github.com/docsifyjs/docsify-template/pull/3) in [docsifyjs/docsify-template](https://github.com/docsifyjs/docsify-template)
+2. 🎉 Merged PR [#781](https://github.com/php/doc-zh/pull/781) in [php/doc-zh](https://github.com/php/doc-zh)
+3. 💪 Opened PR [#781](https://github.com/php/doc-zh/pull/781) in [php/doc-zh](https://github.com/php/doc-zh)
+4. 💪 Opened PR [#740](https://github.com/laravel/octane/pull/740) in [laravel/octane](https://github.com/laravel/octane)
+5. 🚀 Published release [v2.2.3](https://github.com/sy-records/sync-qcloud-cos/releases/tag/v2.2.3) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
 <!--END_SECTION:activity-->
 
 </details>
