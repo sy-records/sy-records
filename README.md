@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#35](https://github.com/sy-records/sync-qcloud-cos/issues/35) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
-2. 🗣 Commented on [#35](https://github.com/sy-records/sync-qcloud-cos/issues/35#issuecomment-1702226534) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
-3. 🗣 Commented on [#35](https://github.com/sy-records/sync-qcloud-cos/issues/35#issuecomment-1702213349) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
-4. 🎉 Merged PR [#783](https://github.com/php/doc-zh/pull/783) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 🗣 Commented on [#271](https://github.com/docsifyjs/awesome-docsify/issues/271#issuecomment-1701949715) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+1. 🚀 Published release [v2.3.0](https://github.com/sy-records/sync-qcloud-cos/releases/tag/v2.3.0) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+2. 🎉 Merged PR [#34](https://github.com/sy-records/sync-qcloud-cos/pull/34) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+3. 🔒 Closed issue [#35](https://github.com/sy-records/sync-qcloud-cos/issues/35) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+4. 🗣 Commented on [#35](https://github.com/sy-records/sync-qcloud-cos/issues/35#issuecomment-1702226534) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+5. 🗣 Commented on [#35](https://github.com/sy-records/sync-qcloud-cos/issues/35#issuecomment-1702213349) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
 <!--END_SECTION:activity-->
 
 </details>
