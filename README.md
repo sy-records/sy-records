@@ -17,10 +17,10 @@
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v2.3.1](https://github.com/sy-records/sync-qcloud-cos/releases/tag/v2.3.1) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
-2. 🎉 Merged PR [#36](https://github.com/sy-records/sync-qcloud-cos/pull/36) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
-3. 💪 Opened PR [#36](https://github.com/sy-records/sync-qcloud-cos/pull/36) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
-4. 🚀 Published release [v2.3.0](https://github.com/sy-records/sync-qcloud-cos/releases/tag/v2.3.0) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
-5. 🎉 Merged PR [#34](https://github.com/sy-records/sync-qcloud-cos/pull/34) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+2. 🚀 Published release [v2.3.1](https://github.com/sy-records/sync-qcloud-cos/releases/tag/v2.3.1) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+3. 🎉 Merged PR [#36](https://github.com/sy-records/sync-qcloud-cos/pull/36) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+4. 💪 Opened PR [#36](https://github.com/sy-records/sync-qcloud-cos/pull/36) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+5. 🚀 Published release [v2.3.0](https://github.com/sy-records/sync-qcloud-cos/releases/tag/v2.3.0) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
 <!--END_SECTION:activity-->
 
 </details>
