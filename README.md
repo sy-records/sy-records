@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.3.1](https://github.com/sy-records/sync-qcloud-cos/releases/tag/v2.3.1) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+1. 🎉 Merged PR [#784](https://github.com/php/doc-zh/pull/784) in [php/doc-zh](https://github.com/php/doc-zh)
 2. 🚀 Published release [v2.3.1](https://github.com/sy-records/sync-qcloud-cos/releases/tag/v2.3.1) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
-3. 🎉 Merged PR [#36](https://github.com/sy-records/sync-qcloud-cos/pull/36) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
-4. 💪 Opened PR [#36](https://github.com/sy-records/sync-qcloud-cos/pull/36) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
-5. 🚀 Published release [v2.3.0](https://github.com/sy-records/sync-qcloud-cos/releases/tag/v2.3.0) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+3. 🚀 Published release [v2.3.1](https://github.com/sy-records/sync-qcloud-cos/releases/tag/v2.3.1) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+4. 🎉 Merged PR [#36](https://github.com/sy-records/sync-qcloud-cos/pull/36) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+5. 💪 Opened PR [#36](https://github.com/sy-records/sync-qcloud-cos/pull/36) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
 <!--END_SECTION:activity-->
 
 </details>
