@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/sy-records/sync-qcloud-cos/pull/37) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
-2. 💪 Opened PR [#13](https://github.com/sy-records/volcengine-imagex-wordpress/pull/13) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
-3. 🔒 Closed issue [#6132](https://github.com/hyperf/hyperf/issues/6132) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-4. 🗣 Commented on [#121](https://github.com/easysoft/zentaopms/issues/121#issuecomment-1705948522) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-5. 🔒 Closed issue [#121](https://github.com/easysoft/zentaopms/issues/121) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+1. 🎉 Merged PR [#37](https://github.com/sy-records/sync-qcloud-cos/pull/37) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+2. 💪 Opened PR [#37](https://github.com/sy-records/sync-qcloud-cos/pull/37) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+3. 💪 Opened PR [#13](https://github.com/sy-records/volcengine-imagex-wordpress/pull/13) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+4. 🔒 Closed issue [#6132](https://github.com/hyperf/hyperf/issues/6132) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+5. 🗣 Commented on [#121](https://github.com/easysoft/zentaopms/issues/121#issuecomment-1705948522) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
 <!--END_SECTION:activity-->
 
 </details>
