@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/sy-records/volcengine-imagex-wordpress/pull/13) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
-2. 🚀 Published release [v2.3.2](https://github.com/sy-records/sync-qcloud-cos/releases/tag/v2.3.2) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
-3. 🎉 Merged PR [#37](https://github.com/sy-records/sync-qcloud-cos/pull/37) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
-4. 💪 Opened PR [#37](https://github.com/sy-records/sync-qcloud-cos/pull/37) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
-5. 💪 Opened PR [#13](https://github.com/sy-records/volcengine-imagex-wordpress/pull/13) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+1. 💪 Opened PR [#786](https://github.com/php/doc-zh/pull/786) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 🎉 Merged PR [#13](https://github.com/sy-records/volcengine-imagex-wordpress/pull/13) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+3. 🚀 Published release [v2.3.2](https://github.com/sy-records/sync-qcloud-cos/releases/tag/v2.3.2) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+4. 🎉 Merged PR [#37](https://github.com/sy-records/sync-qcloud-cos/pull/37) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+5. 💪 Opened PR [#37](https://github.com/sy-records/sync-qcloud-cos/pull/37) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
 <!--END_SECTION:activity-->
 
 </details>
