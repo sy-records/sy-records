@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#49](https://github.com/docsifyjs/docs-zh/issues/49) in [docsifyjs/docs-zh](https://github.com/docsifyjs/docs-zh)
-2. 🗣 Commented on [#49](https://github.com/docsifyjs/docs-zh/issues/49#issuecomment-1711395190) in [docsifyjs/docs-zh](https://github.com/docsifyjs/docs-zh)
-3. 🗣 Commented on [#2217](https://github.com/docsifyjs/docsify/issues/2217#issuecomment-1711143174) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-4. 💪 Opened PR [#786](https://github.com/php/doc-zh/pull/786) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 🎉 Merged PR [#13](https://github.com/sy-records/volcengine-imagex-wordpress/pull/13) in [sy-records/volcengine-imagex-wordpress](https://github.com/sy-records/volcengine-imagex-wordpress)
+1. 🎉 Merged PR [#786](https://github.com/php/doc-zh/pull/786) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 🔒 Closed issue [#49](https://github.com/docsifyjs/docs-zh/issues/49) in [docsifyjs/docs-zh](https://github.com/docsifyjs/docs-zh)
+3. 🗣 Commented on [#49](https://github.com/docsifyjs/docs-zh/issues/49#issuecomment-1711395190) in [docsifyjs/docs-zh](https://github.com/docsifyjs/docs-zh)
+4. 🗣 Commented on [#2217](https://github.com/docsifyjs/docsify/issues/2217#issuecomment-1711143174) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 💪 Opened PR [#786](https://github.com/php/doc-zh/pull/786) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
