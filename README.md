@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#788](https://github.com/php/doc-zh/pull/788) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 🔒 Closed issue [#93](https://github.com/php/web-pecl/issues/93) in [php/web-pecl](https://github.com/php/web-pecl)
-3. 🔒 Closed issue [#813](https://github.com/php/web-php/issues/813) in [php/web-php](https://github.com/php/web-php)
-4. 🎉 Merged PR [#787](https://github.com/php/doc-zh/pull/787) in [php/doc-zh](https://github.com/php/doc-zh)
-5. 💪 Opened PR [#787](https://github.com/php/doc-zh/pull/787) in [php/doc-zh](https://github.com/php/doc-zh)
+1. 🚀 Published release [v5.4.72](https://github.com/gitee-php/gitee-sdk/releases/tag/v5.4.72) in [gitee-php/gitee-sdk](https://github.com/gitee-php/gitee-sdk)
+2. 🚀 Published release [v5.4.72](https://github.com/gitee-php/gitee-sdk/releases/tag/v5.4.72) in [gitee-php/gitee-sdk](https://github.com/gitee-php/gitee-sdk)
+3. 🚀 Published release [v0.1.333](https://github.com/gitee-php/gitee-enterprise-sdk/releases/tag/v0.1.333) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
+4. 💪 Opened PR [#788](https://github.com/php/doc-zh/pull/788) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 🔒 Closed issue [#93](https://github.com/php/web-pecl/issues/93) in [php/web-pecl](https://github.com/php/web-pecl)
 <!--END_SECTION:activity-->
 
 </details>
