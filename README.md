@@ -17,10 +17,10 @@
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v0.1.333](https://github.com/gitee-php/gitee-enterprise-sdk/releases/tag/v0.1.333) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
-2. 🎉 Merged PR [#788](https://github.com/php/doc-zh/pull/788) in [php/doc-zh](https://github.com/php/doc-zh)
-3. 🚀 Published release [v5.4.72](https://github.com/gitee-php/gitee-sdk/releases/tag/v5.4.72) in [gitee-php/gitee-sdk](https://github.com/gitee-php/gitee-sdk)
+2. 🚀 Published release [v0.1.333](https://github.com/gitee-php/gitee-enterprise-sdk/releases/tag/v0.1.333) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
+3. 🎉 Merged PR [#788](https://github.com/php/doc-zh/pull/788) in [php/doc-zh](https://github.com/php/doc-zh)
 4. 🚀 Published release [v5.4.72](https://github.com/gitee-php/gitee-sdk/releases/tag/v5.4.72) in [gitee-php/gitee-sdk](https://github.com/gitee-php/gitee-sdk)
-5. 🚀 Published release [v0.1.333](https://github.com/gitee-php/gitee-enterprise-sdk/releases/tag/v0.1.333) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
+5. 🚀 Published release [v5.4.72](https://github.com/gitee-php/gitee-sdk/releases/tag/v5.4.72) in [gitee-php/gitee-sdk](https://github.com/gitee-php/gitee-sdk)
 <!--END_SECTION:activity-->
 
 </details>
