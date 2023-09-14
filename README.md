@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#351](https://github.com/top-think/think-swoole/issues/351) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
-2. 🗣 Commented on [#351](https://github.com/top-think/think-swoole/issues/351#issuecomment-1716917120) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
-3. 🚀 Published release [v0.1.333](https://github.com/gitee-php/gitee-enterprise-sdk/releases/tag/v0.1.333) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
+1. 💪 Opened PR [#38](https://github.com/sy-records/sync-qcloud-cos/pull/38) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+2. 🔒 Closed issue [#351](https://github.com/top-think/think-swoole/issues/351) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
+3. 🗣 Commented on [#351](https://github.com/top-think/think-swoole/issues/351#issuecomment-1716917120) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
 4. 🚀 Published release [v0.1.333](https://github.com/gitee-php/gitee-enterprise-sdk/releases/tag/v0.1.333) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
-5. 🎉 Merged PR [#788](https://github.com/php/doc-zh/pull/788) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 🚀 Published release [v0.1.333](https://github.com/gitee-php/gitee-enterprise-sdk/releases/tag/v0.1.333) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
 <!--END_SECTION:activity-->
 
 </details>
