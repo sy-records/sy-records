@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1948](https://github.com/docsifyjs/docsify/pull/1948) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. 🚀 Published release [v1.1.0](https://github.com/sy-records/webhooks/releases/tag/v1.1.0) in [sy-records/webhooks](https://github.com/sy-records/webhooks)
-3. 🎉 Merged PR [#1](https://github.com/sy-records/webhooks/pull/1) in [sy-records/webhooks](https://github.com/sy-records/webhooks)
-4. 💪 Opened PR [#5](https://github.com/hyperf/mqtt-server-incubator/pull/5) in [hyperf/mqtt-server-incubator](https://github.com/hyperf/mqtt-server-incubator)
-5. 🔒 Closed issue [#2](https://github.com/hyperf/mqtt-server-incubator/issues/2) in [hyperf/mqtt-server-incubator](https://github.com/hyperf/mqtt-server-incubator)
+1. 🗣 Commented on [#1616](https://github.com/typecho/typecho/issues/1616#issuecomment-1722385799) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 🗣 Commented on [#1617](https://github.com/typecho/typecho/issues/1617#issuecomment-1722385608) in [typecho/typecho](https://github.com/typecho/typecho)
+3. ❌ Closed PR [#1948](https://github.com/docsifyjs/docsify/pull/1948) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+4. 🚀 Published release [v1.1.0](https://github.com/sy-records/webhooks/releases/tag/v1.1.0) in [sy-records/webhooks](https://github.com/sy-records/webhooks)
+5. 🎉 Merged PR [#1](https://github.com/sy-records/webhooks/pull/1) in [sy-records/webhooks](https://github.com/sy-records/webhooks)
 <!--END_SECTION:activity-->
 
 </details>
