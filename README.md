@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/gitee-php/gitee-enterprise-sdk/pull/1) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
-2. 🗣 Commented on [#1616](https://github.com/typecho/typecho/issues/1616#issuecomment-1722385799) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🗣 Commented on [#1617](https://github.com/typecho/typecho/issues/1617#issuecomment-1722385608) in [typecho/typecho](https://github.com/typecho/typecho)
-4. ❌ Closed PR [#1948](https://github.com/docsifyjs/docsify/pull/1948) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-5. 🚀 Published release [v1.1.0](https://github.com/sy-records/webhooks/releases/tag/v1.1.0) in [sy-records/webhooks](https://github.com/sy-records/webhooks)
+1. 🗣 Commented on [#1618](https://github.com/typecho/typecho/issues/1618#issuecomment-1722471407) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 💪 Opened PR [#1](https://github.com/gitee-php/gitee-enterprise-sdk/pull/1) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
+3. 🗣 Commented on [#1616](https://github.com/typecho/typecho/issues/1616#issuecomment-1722385799) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🗣 Commented on [#1617](https://github.com/typecho/typecho/issues/1617#issuecomment-1722385608) in [typecho/typecho](https://github.com/typecho/typecho)
+5. ❌ Closed PR [#1948](https://github.com/docsifyjs/docsify/pull/1948) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
 <!--END_SECTION:activity-->
 
 </details>
