@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1619](https://github.com/typecho/typecho/issues/1619#issuecomment-1723240076) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🎉 Merged PR [#273](https://github.com/docsifyjs/awesome-docsify/pull/273) in [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
-3. 🔒 Closed issue [#1618](https://github.com/typecho/typecho/issues/1618) in [typecho/typecho](https://github.com/typecho/typecho)
-4. 🚀 Published release [v0.1.334](https://github.com/gitee-php/gitee-enterprise-sdk/releases/tag/v0.1.334) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
-5. 🎉 Merged PR [#1](https://github.com/gitee-php/gitee-enterprise-sdk/pull/1) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
+1. 🔒 Closed issue [#1619](https://github.com/typecho/typecho/issues/1619) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 🗣 Commented on [#1619](https://github.com/typecho/typecho/issues/1619#issuecomment-1723359358) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🗣 Commented on [#1619](https://github.com/typecho/typecho/issues/1619#issuecomment-1723353529) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🗣 Commented on [#1619](https://github.com/typecho/typecho/issues/1619#issuecomment-1723342627) in [typecho/typecho](https://github.com/typecho/typecho)
+5. 🗣 Commented on [#1619](https://github.com/typecho/typecho/issues/1619#issuecomment-1723240076) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
