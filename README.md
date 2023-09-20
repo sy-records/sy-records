@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2236](https://github.com/docsifyjs/docsify/issues/2236) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-2. 🗣 Commented on [#2236](https://github.com/docsifyjs/docsify/issues/2236#issuecomment-1726775772) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-3. 🔒 Closed issue [#2936](https://github.com/top-think/framework/issues/2936) in [top-think/framework](https://github.com/top-think/framework)
-4. 🗣 Commented on [#2236](https://github.com/docsifyjs/docsify/issues/2236#issuecomment-1726749483) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-5. 🗣 Commented on [#2236](https://github.com/docsifyjs/docsify/issues/2236#issuecomment-1726718384) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+1. 🎉 Merged PR [#2](https://github.com/gitee-php/gitee-enterprise-sdk/pull/2) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
+2. 💪 Opened PR [#2](https://github.com/gitee-php/gitee-enterprise-sdk/pull/2) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
+3. 🔒 Closed issue [#2236](https://github.com/docsifyjs/docsify/issues/2236) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+4. 🗣 Commented on [#2236](https://github.com/docsifyjs/docsify/issues/2236#issuecomment-1726775772) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
+5. 🔒 Closed issue [#2936](https://github.com/top-think/framework/issues/2936) in [top-think/framework](https://github.com/top-think/framework)
 <!--END_SECTION:activity-->
 
 </details>
