@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [18.7](https://github.com/easysoft/zentaopms/releases/tag/zentaopms_18.7) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-2. 🚀 Published release [18.6](https://github.com/easysoft/zentaopms/releases/tag/zentaopms_18.6) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-3. 💪 Opened PR [#4](https://github.com/gitee-php/gitee-enterprise-sdk/pull/4) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
-4. 🗣 Commented on [#1620](https://github.com/typecho/typecho/issues/1620#issuecomment-1728610615) in [typecho/typecho](https://github.com/typecho/typecho)
-5. 🚀 Published release [v5.4.73](https://github.com/gitee-php/gitee-sdk/releases/tag/v5.4.73) in [gitee-php/gitee-sdk](https://github.com/gitee-php/gitee-sdk)
+1. 🎉 Merged PR [#4](https://github.com/gitee-php/gitee-enterprise-sdk/pull/4) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
+2. 🚀 Published release [18.7](https://github.com/easysoft/zentaopms/releases/tag/zentaopms_18.7) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+3. 🚀 Published release [18.6](https://github.com/easysoft/zentaopms/releases/tag/zentaopms_18.6) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+4. 💪 Opened PR [#4](https://github.com/gitee-php/gitee-enterprise-sdk/pull/4) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
+5. 🗣 Commented on [#1620](https://github.com/typecho/typecho/issues/1620#issuecomment-1728610615) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
