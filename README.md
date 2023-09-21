@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1620](https://github.com/typecho/typecho/issues/1620#issuecomment-1728610615) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🚀 Published release [v5.4.73](https://github.com/gitee-php/gitee-sdk/releases/tag/v5.4.73) in [gitee-php/gitee-sdk](https://github.com/gitee-php/gitee-sdk)
-3. 🎉 Merged PR [#1](https://github.com/gitee-php/gitee-sdk/pull/1) in [gitee-php/gitee-sdk](https://github.com/gitee-php/gitee-sdk)
-4. 💪 Opened PR [#1](https://github.com/gitee-php/gitee-sdk/pull/1) in [gitee-php/gitee-sdk](https://github.com/gitee-php/gitee-sdk)
-5. 🚀 Published release [v0.1.335](https://github.com/gitee-php/gitee-enterprise-sdk/releases/tag/v0.1.335) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
+1. 💪 Opened PR [#4](https://github.com/gitee-php/gitee-enterprise-sdk/pull/4) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
+2. 🗣 Commented on [#1620](https://github.com/typecho/typecho/issues/1620#issuecomment-1728610615) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🚀 Published release [v5.4.73](https://github.com/gitee-php/gitee-sdk/releases/tag/v5.4.73) in [gitee-php/gitee-sdk](https://github.com/gitee-php/gitee-sdk)
+4. 🎉 Merged PR [#1](https://github.com/gitee-php/gitee-sdk/pull/1) in [gitee-php/gitee-sdk](https://github.com/gitee-php/gitee-sdk)
+5. 💪 Opened PR [#1](https://github.com/gitee-php/gitee-sdk/pull/1) in [gitee-php/gitee-sdk](https://github.com/gitee-php/gitee-sdk)
 <!--END_SECTION:activity-->
 
 </details>
