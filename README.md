@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1621](https://github.com/typecho/typecho/issues/1621#issuecomment-1729606983) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🎉 Merged PR [#4](https://github.com/gitee-php/gitee-enterprise-sdk/pull/4) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
-3. 🚀 Published release [18.7](https://github.com/easysoft/zentaopms/releases/tag/zentaopms_18.7) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-4. 🚀 Published release [18.6](https://github.com/easysoft/zentaopms/releases/tag/zentaopms_18.6) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-5. 💪 Opened PR [#4](https://github.com/gitee-php/gitee-enterprise-sdk/pull/4) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
+1. 💪 Opened PR [#2](https://github.com/gitee-php/gitee-sdk/pull/2) in [gitee-php/gitee-sdk](https://github.com/gitee-php/gitee-sdk)
+2. 🚀 Published release [v1.0.0](https://github.com/gitee-php/gitee-enterprise-sdk/releases/tag/v1.0.0) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
+3. 🚀 Published release [v1.0.0](https://github.com/gitee-php/gitee-enterprise-sdk/releases/tag/v1.0.0) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
+4. 🎉 Merged PR [#5](https://github.com/gitee-php/gitee-enterprise-sdk/pull/5) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
+5. 💪 Opened PR [#5](https://github.com/gitee-php/gitee-enterprise-sdk/pull/5) in [gitee-php/gitee-enterprise-sdk](https://github.com/gitee-php/gitee-enterprise-sdk)
 <!--END_SECTION:activity-->
 
 </details>
