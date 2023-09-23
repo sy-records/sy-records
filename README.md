@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.5.0](https://github.com/gitee-php/gitee-sdk/releases/tag/v5.5.0) in [gitee-php/gitee-sdk](https://github.com/gitee-php/gitee-sdk)
-2. 🎉 Merged PR [#2](https://github.com/gitee-php/gitee-sdk/pull/2) in [gitee-php/gitee-sdk](https://github.com/gitee-php/gitee-sdk)
-3. 🔒 Closed issue [#1581](https://github.com/typecho/typecho/issues/1581) in [typecho/typecho](https://github.com/typecho/typecho)
-4. 🔒 Closed issue [#1566](https://github.com/typecho/typecho/issues/1566) in [typecho/typecho](https://github.com/typecho/typecho)
-5. 🔒 Closed issue [#1617](https://github.com/typecho/typecho/issues/1617) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🔒 Closed issue [#37](https://github.com/simple-swoole/simps/issues/37) in [simple-swoole/simps](https://github.com/simple-swoole/simps)
+2. 🗣 Commented on [#37](https://github.com/simple-swoole/simps/issues/37#issuecomment-1732250669) in [simple-swoole/simps](https://github.com/simple-swoole/simps)
+3. 🚀 Published release [v5.5.0](https://github.com/gitee-php/gitee-sdk/releases/tag/v5.5.0) in [gitee-php/gitee-sdk](https://github.com/gitee-php/gitee-sdk)
+4. 🎉 Merged PR [#2](https://github.com/gitee-php/gitee-sdk/pull/2) in [gitee-php/gitee-sdk](https://github.com/gitee-php/gitee-sdk)
+5. 🔒 Closed issue [#1581](https://github.com/typecho/typecho/issues/1581) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
