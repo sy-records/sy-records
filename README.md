@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#793](https://github.com/php/doc-zh/pull/793) in [php/doc-zh](https://github.com/php/doc-zh)
-2. 🎉 Merged PR [#792](https://github.com/php/doc-zh/pull/792) in [php/doc-zh](https://github.com/php/doc-zh)
-3. 💪 Opened PR [#792](https://github.com/php/doc-zh/pull/792) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 🔒 Closed issue [#1620](https://github.com/typecho/typecho/issues/1620) in [typecho/typecho](https://github.com/typecho/typecho)
-5. 🔒 Closed issue [#37](https://github.com/simple-swoole/simps/issues/37) in [simple-swoole/simps](https://github.com/simple-swoole/simps)
+1. 💪 Opened PR [#1628](https://github.com/typecho/typecho/pull/1628) in [typecho/typecho](https://github.com/typecho/typecho)
+2. 🗣 Commented on [#1627](https://github.com/typecho/typecho/issues/1627#issuecomment-1734683416) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 💪 Opened PR [#793](https://github.com/php/doc-zh/pull/793) in [php/doc-zh](https://github.com/php/doc-zh)
+4. 🎉 Merged PR [#792](https://github.com/php/doc-zh/pull/792) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 💪 Opened PR [#792](https://github.com/php/doc-zh/pull/792) in [php/doc-zh](https://github.com/php/doc-zh)
 <!--END_SECTION:activity-->
 
 </details>
