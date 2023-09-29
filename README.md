@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#354](https://github.com/top-think/think-swoole/pull/354) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
-2. 🗣 Commented on [#6180](https://github.com/hyperf/hyperf/issues/6180#issuecomment-1738828910) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
-3. 💪 Opened PR [#794](https://github.com/php/doc-zh/pull/794) in [php/doc-zh](https://github.com/php/doc-zh)
-4. 🗣 Commented on [#1628](https://github.com/typecho/typecho/pull/1628#issuecomment-1738643326) in [typecho/typecho](https://github.com/typecho/typecho)
-5. 🗣 Commented on [#1630](https://github.com/typecho/typecho/issues/1630#issuecomment-1737475583) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 🎉 Merged PR [#794](https://github.com/php/doc-zh/pull/794) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 💪 Opened PR [#354](https://github.com/top-think/think-swoole/pull/354) in [top-think/think-swoole](https://github.com/top-think/think-swoole)
+3. 🗣 Commented on [#6180](https://github.com/hyperf/hyperf/issues/6180#issuecomment-1738828910) in [hyperf/hyperf](https://github.com/hyperf/hyperf)
+4. 💪 Opened PR [#794](https://github.com/php/doc-zh/pull/794) in [php/doc-zh](https://github.com/php/doc-zh)
+5. 🗣 Commented on [#1628](https://github.com/typecho/typecho/pull/1628#issuecomment-1738643326) in [typecho/typecho](https://github.com/typecho/typecho)
 <!--END_SECTION:activity-->
 
 </details>
