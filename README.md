@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1630](https://github.com/typecho/typecho/issues/1630#issuecomment-1741732479) in [typecho/typecho](https://github.com/typecho/typecho)
-2. 🗣 Commented on [#1630](https://github.com/typecho/typecho/issues/1630#issuecomment-1741731573) in [typecho/typecho](https://github.com/typecho/typecho)
-3. 🎉 Merged PR [#93](https://github.com/simps/mqtt/pull/93) in [simps/mqtt](https://github.com/simps/mqtt)
-4. 💪 Opened PR [#93](https://github.com/simps/mqtt/pull/93) in [simps/mqtt](https://github.com/simps/mqtt)
-5. 💪 Opened PR [#1633](https://github.com/typecho/typecho/pull/1633) in [typecho/typecho](https://github.com/typecho/typecho)
+1. 💪 Opened PR [#39](https://github.com/sy-records/sync-qcloud-cos/pull/39) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+2. 🗣 Commented on [#1630](https://github.com/typecho/typecho/issues/1630#issuecomment-1741732479) in [typecho/typecho](https://github.com/typecho/typecho)
+3. 🗣 Commented on [#1630](https://github.com/typecho/typecho/issues/1630#issuecomment-1741731573) in [typecho/typecho](https://github.com/typecho/typecho)
+4. 🎉 Merged PR [#93](https://github.com/simps/mqtt/pull/93) in [simps/mqtt](https://github.com/simps/mqtt)
+5. 💪 Opened PR [#93](https://github.com/simps/mqtt/pull/93) in [simps/mqtt](https://github.com/simps/mqtt)
 <!--END_SECTION:activity-->
 
 </details>
