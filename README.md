@@ -16,11 +16,11 @@
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#323](https://github.com/tencentyun/cos-php-sdk-v5/issues/323) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
-2. 🎉 Merged PR [#40](https://github.com/sy-records/sync-qcloud-cos/pull/40) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
-3. 💪 Opened PR [#40](https://github.com/sy-records/sync-qcloud-cos/pull/40) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
-4. 🎉 Merged PR [#2248](https://github.com/docsifyjs/docsify/pull/2248) in [docsifyjs/docsify](https://github.com/docsifyjs/docsify)
-5. 🎉 Merged PR [#39](https://github.com/sy-records/sync-qcloud-cos/pull/39) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+1. 💪 Opened PR [#795](https://github.com/php/doc-zh/pull/795) in [php/doc-zh](https://github.com/php/doc-zh)
+2. 💪 Opened PR [#2842](https://github.com/php/doc-en/pull/2842) in [php/doc-en](https://github.com/php/doc-en)
+3. ❗ Opened issue [#323](https://github.com/tencentyun/cos-php-sdk-v5/issues/323) in [tencentyun/cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5)
+4. 🎉 Merged PR [#40](https://github.com/sy-records/sync-qcloud-cos/pull/40) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
+5. 💪 Opened PR [#40](https://github.com/sy-records/sync-qcloud-cos/pull/40) in [sy-records/sync-qcloud-cos](https://github.com/sy-records/sync-qcloud-cos)
 <!--END_SECTION:activity-->
 
 </details>
