@@ -13,7 +13,7 @@
 
 #### 💌 How to reach out to me
 
-You can reach me by [Email](mailto:lufei@php.net), [WeChat](https://raw.githubusercontent.com/sy-records/staticfile/master/images/202304/ob_start.jpg) or [Telegram](https://t.me/lufeidot).
+You can reach me by [Email](mailto:lufei@apache.org), [WeChat](https://raw.githubusercontent.com/sy-records/staticfile/master/images/202304/ob_start.jpg) or [Telegram](https://t.me/lufeidot).
 
 #### 🔗 Links
 
