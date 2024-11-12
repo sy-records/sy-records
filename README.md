@@ -5,7 +5,7 @@
 🎉 Welcome to my GitHub profile, it's great to meet you here!
 
 - [Docsify](https://github.com/docsifyjs/docsify) Core
-- [Apache Answer](https://github.com/apache/incubator-answer) Committer
+- [Apache Answer](https://github.com/apache/incubator-answer) PPMC Member
 - [PHP](https://github.com/php) Web and Doc Team Member
 - WordPress Chinese [General Translation Editor](https://profiles.wordpress.org/shenyanzhi/#content-translations)
 - WordPress [Plugin Developer](https://profiles.wordpress.org/shenyanzhi/#content-plugins)
